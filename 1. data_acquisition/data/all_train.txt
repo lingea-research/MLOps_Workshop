@@ -1,0 +1,3750 @@
+__label__ces Nezbyla ani jedna sušenka.
+__label__ces Dostal jsi ten balík, který jsem ti poslal?
+__label__ces Tom zvažuje, že dá výpověď z práce.
+__label__ces Jeho auto je venku.
+__label__ces Přál jsi Tomovi k Vánocům?
+__label__ces Proberte to s Tomem.
+__label__ces Myslím si, že Tomovi chyběla vlast.
+__label__ces Je zdrogovaný.
+__label__ces Byli byste raději, kdyby sem Tom nepřišel?
+__label__ces Všichni v této skupině jsou moji přátelé.
+__label__ces Štěstí je velmi osobní zkušenost.
+__label__ces Můj vnuk je ještě mimino.
+__label__ces Mačkal jsem spoušť znovu a znovu.
+__label__ces Pokud máš hlad, najez se.
+__label__ces Pracoval jsem celý den a byl jsem velmi unavený.
+__label__ces Byl jsem v divadle.
+__label__ces Co budeme s Tomem dělat?
+__label__ces Právě se chystala koupat, když zazvonil zvonek.
+__label__ces Byli na mě moc milí.
+__label__ces Jeho pouhá přítomnost je pro mě velkou útěchou.
+__label__ces Byl jsem nadšený!
+__label__ces Rozvažte Toma.
+__label__ces Znal jsem je všechny jménem.
+__label__ces Jsi mladý a naivní.
+__label__ces Gabor vkročil na scénu.
+__label__ces Máš všechno, co potřebuješ?
+__label__ces Mluvil jsi s někým?
+__label__ces Můj kůň je rychlý.
+__label__ces Bojkot trval něco přes rok.
+__label__ces Takový výsledek jsme nečekali.
+__label__ces I 30 minut je příliš dlouho.
+__label__ces Tom musí zůstat doma.
+__label__ces Už nám nikdy nelži.
+__label__ces Všichni něco dostali, jen Tom nedostal nic.
+__label__ces Zůstanu, když ty taky zůstaneš.
+__label__ces Stále máme šanci vyhrát.
+__label__ces Co ještě Tom chce, abychom udělali?
+__label__ces Modleme se k Bohu, bratři a sestry!
+__label__ces Nenajal jsem si ji.
+__label__ces S úžasem jsme sledovali proměnu Toma, která se odehrávala přímo před našima očima.
+__label__ces Proč nechcete Toma přijmout ?
+__label__ces V přírodě není nic zbytečného.
+__label__ces Tom se šel jednoho zimního večera projít do parku. Domů už se ale nikdy nevrátil. Zmizel beze stopy.
+__label__ces Snažili se ho zabít.
+__label__ces Varoval jsem ho před nebezpečím.
+__label__ces Nikdy jsem ho neviděl šťastnějšího.
+__label__ces Jsem promočený až na kůži.
+__label__ces A teď se budeme bavit o Tomovi.
+__label__ces Tom bere hodně léků.
+__label__ces Raději trávím čas vevnitř.
+__label__ces Kde je Mark? Sprchuje se.
+__label__ces Sentence #12201571 — belongs to Ergulis
+__label__ces Chce na narozeniny něco výjimečného.
+__label__ces Tom není tam, kde by měl být.
+__label__ces Pijete pivo?
+__label__ces Mám pocit, že jsem udělal chybu.
+__label__ces Kdo to Toma naučil?
+__label__ces Jeho snoubenka je už vdaná.
+__label__ces Nechala jsi rtěnku na krbové římse.
+__label__ces Všechno jsem vyzkoušel.
+__label__ces Nechtěl bych o tom s tebou diskutovat.
+__label__ces Přála jsi Tomovi k Vánocům?
+__label__ces Všichni chceme udržitelný světový mír.
+__label__ces Tohle Tom nechce.
+__label__ces Jsi mladá a nezkušená.
+__label__ces Řekli jste Tomovi vše?
+__label__ces Volám číšníka.
+__label__ces Nic mu nechybělo.
+__label__ces Měsíc už svítí.
+__label__ces Nechte mě zpívat.
+__label__ces Nosíš obvykle cyklistickou helmu?
+__label__ces Tohle je pravda jen částečně.
+__label__ces Děda se naučil rusky na Sibiři.
+__label__ces Zápach linoucí se z kanalizace byl nesnesitelný.
+__label__ces Její tvář prozrazovala její skutečné pocity.
+__label__ces Ještě to nechápu.
+__label__ces Mýdlo, prosím.
+__label__ces Včera se řízl do prstu.
+__label__ces Led je voda v pevném stavu.
+__label__ces Tom začal běhat teprve nedávno.
+__label__ces Pes běžel za kočkou.
+__label__ces Chci to pro Toma.
+__label__ces Co ho zabilo?
+__label__ces Nikdy neustoupí.
+__label__ces Proč si myslíš, že to Tom udělal schválně?
+__label__ces Jak může někdo být tak blbý?
+__label__ces Snil o tom, že se stane překladatelem, ale stal se instalatérem.
+__label__ces Začali běhat.
+__label__ces Řekl jsi Tomovi o svých pocitech?
+__label__ces Vím, že jsi na mě stále naštvaná.
+__label__ces Nemáme žádnou šanci.
+__label__ces Jsi tu, abys Tomovi pomohl.
+__label__ces Půjčil jsem Tomovi peníze, aby mohl koupit dárky pro své děti.
+__label__ces Proč jsi o to žádal Toma a ne mě?
+__label__ces Už není třeba počítat.
+__label__ces Včera večer jsem napsal tři dopisy.
+__label__ces Chci poslouchat hudbu.
+__label__ces Zasadil jsem několik ovocných stromů.
+__label__ces Hladovém praseti se zdá o žaludech.
+__label__ces Takhle se to dělat nebude.
+__label__ces Můj synovec je hokejista.
+__label__ces Pátrání po Tomovi stále pokračuje.
+__label__ces Nachytal chlapce při krádeži hodinek.
+__label__ces Tvůj hlas je moc hlasitý.
+__label__ces Tom řekl, že lžíce jsou čisté.
+__label__ces Tom nechrápe.
+__label__ces Zapomněli jste, co nás Tom učil?
+__label__ces Zdají se ti sny ve francouzštině?
+__label__ces Nemám auto, jen kolo.
+__label__ces Toma někdo zezadu udeřil.
+__label__ces Je o tři palce vyšší než já.
+__label__ces Kdo řekl, že Tom může dovnitř?
+__label__ces Chci znát fakta.
+__label__ces Nekoupej se v řece.
+__label__ces Můžete rozsvítit světlo? Nic není vidět.
+__label__ces Chtěli jsme ti popřát hodně štěstí.
+__label__ces Nerad mluvím před lidmi.
+__label__ces Chci s tebou mluvit o samotě.
+__label__ces V zimě se cítím víc unavený.
+__label__ces Pomohl jsem mnoha lidem.
+__label__ces Myslím na Toma každý den.
+__label__ces Veselé Vánoce, Tome!
+__label__ces Koupil jsi cibuli?
+__label__ces Ukliďte ten nepořádek, než to uvidí Tom.
+__label__ces Tom byl obviněn z nelegálního držení střelné zbraně.
+__label__ces Lepší tým zvítězil.
+__label__ces Tom je zklamaný ze svého syna.
+__label__ces Neříkám, že je Tomova hudba špatná.
+__label__ces Minulý rok byli v Egyptě.
+__label__ces Holub naletěl zobákem do stromu.
+__label__ces Vložil jsem to do svého počítače.
+__label__ces Pohřešované dítě bylo nalezeno o dvě hodiny později v parku.
+__label__ces Vždycky jsem ti říkal pravdu.
+__label__ces Proč jsi ještě tady, Tome?
+__label__ces Dítě potřebuje jídlo.
+__label__ces Začneme znovu?
+__label__ces Už jsi někdy viděl Toma kouřit?
+__label__ces Šli do parku.
+__label__ces Naše cesty se nikdy nezkřížily.
+__label__ces Nakonec jsem přeci jen rád, že Tom nepřišel.
+__label__ces Máš velký problém.
+__label__ces Nemusím věřit každému.
+__label__ces Nebojíme se vás. Bojíme se Toma.
+__label__ces Dnes je velmi větrno.
+__label__ces Ukážu ti to.
+__label__ces Pořád můžeš změnit budoucnost.
+__label__ces Tom a Mary řekli, že se jim včera večer dobře spalo.
+__label__ces Zítra si beru volno, ale Stefanovi to neříkej!
+__label__ces Vše se změnilo poté, co Tom nastoupil do funkce.
+__label__ces Někdo do Toma zezadu narazil.
+__label__ces Zhubl jsi?
+__label__ces Kolik stojí přibližně vánoční stromek?
+__label__ces Tohle je můj synovec. Je to syn mého bratra.
+__label__ces Tom je hokejista.
+__label__ces Jsem z Norska.
+__label__ces Ráda chodí na procházky do lesa.
+__label__ces Můžeš dneska večer přijít ke mně domů?
+__label__ces Vrátili jste mi je.
+__label__ces Tom se mnou odmítá mluvit.
+__label__ces Udělám to pod podmínkou, že to Tom dovolí.
+__label__ces Ani jeden z mých rodičů nekouří.
+__label__ces Květiny jsou vždy dobrý nápad.
+__label__ces Léto je nejlepší čas na pití piva.
+__label__ces Proč nemůžu jít s vámi?
+__label__ces Právě jsem uběhl tři míle.
+__label__ces Ještě jednu láhev vína, prosím.
+__label__ces Řekni mi něco o Tomovi.
+__label__ces Měl jsem hlad, a tak jsem obědval již okolo jedenácté.
+__label__ces Nevypadáš jako vrah.
+__label__ces V zimě mrzne.
+__label__ces Neustále pracuje.
+__label__ces Tom není způsobilý k řízení motorových vozidel.
+__label__ces Chtěl jsem na něj udělat dojem.
+__label__ces Ještě jste neodjeli.
+__label__ces Šéf tam místo mě poslal Toma.
+__label__ces Našla svůj klobouk a nasadila si ho.
+__label__ces Když jsem přijela, nikoho jsem neviděla.
+__label__ces Tom si zapomněl vzít lék.
+__label__ces Nikdo na to Toma nepřipravil.
+__label__ces Všichni hledali pohřešované dítě.
+__label__ces Mám proti Tomovi námitky.
+__label__ces Dej to Tomovi k podpisu.
+__label__ces Mluvíš plynně anglicky?
+__label__ces Tom to může zase dělat.
+__label__ces Měl ses zeptat Toma.
+__label__ces Změnil jsi něco?
+__label__ces Tom užívá hodně léků.
+__label__ces Byl jsem rád, že Toma zase vidím.
+__label__ces Pozval jsem všechny své přátele.
+__label__ces Snažil jsem se na něco si vzpomnout, ale nešlo mi to.
+__label__ces Tohle je koupelna.
+__label__ces Tom nedostal nic.
+__label__ces Musím se konečně pořádně vyspat.
+__label__ces Lituji, že jsem to Tomovi neřekl.
+__label__ces To není máslo. Je to margarín.
+__label__ces Tom zná mnoho známých lidí.
+__label__ces Přesně tohle Tomovi chybí.
+__label__ces Hodně lidí si myslí, že finština je velice těžký jazyk.
+__label__ces Tahle vláda je naprostá katastrofa.
+__label__ces Proč Tom chtěl, aby odešli?
+__label__ces Yanni se přiblížil.
+__label__ces Nebylo jasné, co mám dělat.
+__label__ces Mám v úmyslu stát se právníkem.
+__label__ces Zemětřesení vyvolalo tsunami.
+__label__ces Obviní Toma?
+__label__ces Se svojí dívkou se vídal jen o nedělích.
+__label__ces Tom nás vyfotil.
+__label__ces Mluvili jste s někým jiným?
+__label__ces Můžete mi říct, kde je nejbližší autobusové nádraží?
+__label__ces Kolik ti platí?
+__label__ces Příští týden tady nebudu.
+__label__ces V lednici mám jenom máslo.
+__label__ces Potřebuje byt.
+__label__ces Měl Tom nějaké podezření?
+__label__ces Proč nechcete Toma zaměstnat ?
+__label__ces Hudba hraje v nekonečné smyčce.
+__label__ces Hmota je také jen vibrace.
+__label__ces Tom zničil všechny důkazy.
+__label__ces Řekli, že neprovedli nic nezákonného.
+__label__ces Dělá, co může.
+__label__ces Potřebuju spát šest hodin nebo víc, abych se cítil dobře.
+__label__ces Chtěli jít s Tomem.
+__label__ces Tady se můžeš přesvědčit sama.
+__label__ces Nepoděkovala mu za pomoc.
+__label__ces Přišel jsem se rozloučit s Tomem.
+__label__ces Jsem nešťastný.
+__label__ces Máš špinavé ruce. Potřebují umýt.
+__label__ces Po nehodě přišel o zrak.
+__label__ces Odešel jsem, abych Toma nemusel poslouchat.
+__label__ces Víš, co se stalo Tomovi?
+__label__ces Štukovaná omítka se drolila.
+__label__ces Tom ti to nesmí vzít.
+__label__ces Rozdal všechen svůj starý nábytek.
+__label__ces Nikdo neví, co je to za ženu.
+__label__ces Mám zimu rád, zatímco Tom ji nesnáší.
+__label__ces Jsem Židovka.
+__label__ces Tom vám nemůže dát víc peněz.
+__label__ces Sytí žraloci nejsou nebezpeční.
+__label__ces Tom ví, o čem mluví.
+__label__ces Jak chráníte svůj počítač před viry?
+__label__ces Rostliny potřebují zalévat.
+__label__ces Slíbil, že jí zavolá.
+__label__ces Řekni nám pravdu, Tome.
+__label__ces Tom si nevyzvedl svoji odměnu.
+__label__ces V současné době nemáme žádné důkazy.
+__label__ces Vy nás navštívit můžete, ale Tom nesmí.
+__label__ces Mohl bych to udělat sám.
+__label__ces Je hezčí, než její sestra.
+__label__ces Byly ke mně velice laskavé.
+__label__ces Je to vážně na tobě.
+__label__ces Vlak narazil do kamionu na železničním přejezdu.
+__label__ces Jsou teprv tři hodiny a už je tma.
+__label__ces Půjčil jsem si od kamaráda dvanáctistrunnou kytaru.
+__label__ces Jsem obklopen nepoctivými lidmi.
+__label__ces Řekni Tomovi, aby mi napsal.
+__label__ces Žiju v Anglii.
+__label__ces Tenkrát jsi Tomovi nevěřil.
+__label__ces Přišel jsem dřív než obvykle.
+__label__ces Je nemocný. Má teplotu.
+__label__ces Měl jsi mě pozvat.
+__label__ces Vezmi mě s sebou, Tome.
+__label__ces Dělají se chyby.
+__label__ces Ne všichni souhlasili.
+__label__ces Měl ses s Tomem sejít v poledne.
+__label__ces Včera jsem ztratil hodinky.
+__label__ces Dnes je mi lépe.
+__label__ces Trestá mě každý den.
+__label__ces Prodal jsem knihu.
+__label__ces Zaneprázdněný jako vždy?
+__label__ces Náš rozvod byl smírný.
+__label__ces Snídám každé ráno v sedm.
+__label__ces Tom se Mary vysmíval.
+__label__ces Tom nechce brát žádné léky.
+__label__ces Obula si boty obráceně.
+__label__ces Skoro nikdo si toho nevšiml.
+__label__ces Oloupal jsem jablko.
+__label__ces Nic Tomovi nepůjčuj.
+__label__ces Pojďme si dát něco k jídlu.
+__label__ces Nenos brýle v kapse.
+__label__ces Pošleme jí pohled.
+__label__ces Není vám mě líto?
+__label__ces Jsem Žid.
+__label__ces Rohlíky jsou křivé a basta!
+__label__ces Co dnes bude mít Tom k obědu?
+__label__ces Mohl bych pracovat na částečný úvazek?
+__label__ces Tom jezdí s modrou dodávkou.
+__label__ces Potřebujeme vědět, co se stalo.
+__label__ces Měl jsem stejný problém.
+__label__ces Cítila jeho přítomnost.
+__label__ces Záleží jen na vás.
+__label__ces Ještě Toma potřebujete?
+__label__ces Jsi mladá a naivní.
+__label__ces Jeho předci pocházejí odtud.
+__label__ces Jezero bylo také zamrzlé.
+__label__ces Stojí to dvě eura.
+__label__ces Četla jeho deník.
+__label__ces Je tady náhodou.
+__label__ces Řekni jí, že jsem na ni naštvaný.
+__label__ces Jede za námi nějaké auto.
+__label__ces Zhubla jsi?
+__label__ces Budu tam celý den.
+__label__ces Nepřekážej mi. Mám moc práce.
+__label__ces Rozhodl se stát se lékařem.
+__label__ces Moji rodinu tvoří čtyři členové.
+__label__ces Smog byl dnes velmi silný.
+__label__ces Tyhle věci už nepotřebuji.
+__label__ces A nyní si promluvme o Tomovi.
+__label__ces S tchánem vycházím dobře.
+__label__ces Řekl, že je velmi bohatý.
+__label__ces Můžu si půjčit tvůj fén?
+__label__ces Nechcete mě, ale moje peníze.
+__label__ces Tom udělá všechno, co chcete.
+__label__ces Ani si nezamknuli dveře.
+__label__ces Byl jsi už někdy ve vězení?
+__label__ces Proč ženy přitahují muži?
+__label__ces Nechtěl jsem Toma dráždit, a tak jsem raději mlčel.
+__label__ces Mnoho anglických slov pochází z latiny.
+__label__ces Chci navštívit Toma.
+__label__ces Tom byl rád, že jsem to udělal tak, jak chtěl.
+__label__ces Tom není tak ošklivý, jako jeho bratr.
+__label__ces Měli jsme dva psy.
+__label__ces Náš radiátor je rozbitý.
+__label__ces Proč mi nevěříš, když ti říkám, že jsem šťastný.
+__label__ces Tom vám to nesmí brát.
+__label__ces Tom se rozhodl jít jinam.
+__label__ces Ví Tom, že jsi teď tady?
+__label__ces Máte vše potřebné?
+__label__ces Našel jsem Toma v šatně, jak pláče.
+__label__ces Červené rty mojí milované jsou jako zralé jahody.
+__label__ces Hledám svůj klobouk.
+__label__ces Tom není můj spolupracovník. Je to můj nadřízený.
+__label__ces Ztratil jsem své přátele.
+__label__ces Oběd bude v poledne.
+__label__ces Tahle brožura je zadarmo.
+__label__ces Ten příběh mi vyprávěl Tom.
+__label__ces Studentky ji mají rádi.
+__label__ces Nikdo neví, kdo je ta žena.
+__label__ces Prostě nevíme proč.
+__label__ces Tom mi pomohl uklidit garáž.
+__label__ces Napřed si umyj ruce a obličej.
+__label__ces Kancelářské románky jsou špatný nápad.
+__label__ces Nejsem moc štastný.
+__label__ces Tom není tam, kde má být.
+__label__ces Jakmile zazvonilo, vešel do třídy učitel.
+__label__ces Lehl si do postele vedle mě.
+__label__ces Nikdy jsem neodmítl udělat to, co po mně Tom chtěl.
+__label__ces Nejedli ten dort.
+__label__ces Anglicky se učím dva roky.
+__label__ces Proč se musíš tolik vrtět?
+__label__ces Její podpis byl ještě mokrý, když jí vytrhl papír z ruky.
+__label__ces Jste překladatel?
+__label__ces Liška je nejmazanější ze všech zvířat.
+__label__ces Hraje hokej.
+__label__ces To je velmi dramatické.
+__label__ces Nepovažuji ho za přítele.
+__label__ces Dohoním tě.
+__label__ces Není možné, aby to Tom zvládl sám.
+__label__ces Bojte se mě!
+__label__ces V poledne jste se měli sejít s Tomem.
+__label__ces Nechce se mi mu říkat pravdu.
+__label__ces Kdo vám řekl, že je Tom nemocný?
+__label__ces Můj profilový obrázek se nechce nahrát.
+__label__ces Kéž bych býval Toma nikdy nepotkal.
+__label__ces Kolik lidí tenkrát umrzlo?
+__label__ces Čas posiluje přátelství, ale oslabuje lásku.
+__label__ces Proč ses vrátil tak brzy?
+__label__ces Silný vítr mu odnesl klobouk.
+__label__ces Ti dva se spřátelili.
+__label__ces Někdo to tam položil.
+__label__ces Chci vidět, jak to skončí.
+__label__ces Co o tom můžeš říci?
+__label__ces Ztratil nové hodinky.
+__label__ces Jestli se Tom bude takhle chovat, nic dobrého ho nečeká.
+__label__ces Je Švýcarka.
+__label__ces Je v ceně zahrnuto DPH?
+__label__ces Není to pro mě těžké.
+__label__ces Jsem dalekozraký.
+__label__ces Tom si nepřeje být nikým rušen.
+__label__ces Na co se mám zeptat nejdříve?
+__label__ces Potřeboval jsem k tomu Toma.
+__label__ces Nechci ovoce.
+__label__ces Pavouci lezou po zdech všude.
+__label__ces Máte stále problémy se spánkem?
+__label__ces Dneska je poslední den, kdy se před Vánoci svážejí odpadky.
+__label__ces Jez polévku, dokud je horká.
+__label__ces Léto je na pití piva nejlepší.
+__label__ces Dala si peníze do tašky.
+__label__ces Vše se vrátilo do normálu.
+__label__ces Co tě k němu přitahuje?
+__label__ces Neučíte se pro rodiče, ale pro sebe.
+__label__ces Nejsem tak chudý, jak si myslíte.
+__label__ces Nabízí se vám nekonečně mnoho možností.
+__label__ces Co bude dnes Tom obědvat?
+__label__ces Včera jsem jí volal, ale nezvedala to.
+__label__ces Změnil jsem program.
+__label__ces Minulý týden jsem si koupil nová sluchátka.
+__label__ces V neděli bývám vždycky doma.
+__label__ces Chodíte často na divadelní předtavení?
+__label__ces Pronásleduje nás auto.
+__label__ces Odvaž Toma.
+__label__ces Telefonuju, jak vidíš.
+__label__ces Nemyslel jsem nikoho konkrétního.
+__label__ces Málokdy si kupuju zmražené potraviny.
+__label__ces Budete k tomu potřebovat Toma?
+__label__ces Šla s ním.
+__label__ces Nemáme pro tebe místo.
+__label__ces Uvedu ti ještě jeden příklad.
+__label__ces Co myslíš, že bylo dřív: slepice nebo vejce?
+__label__ces Tom nás to naučil.
+__label__ces Mohl bych to udělat s Tomem.
+__label__ces Pověs si kabát na háček.
+__label__ces Tento román má dvě kapitoly.
+__label__ces Tom je tam kde byste nečekali, že bude.
+__label__ces „Jaké národnosti jsou tví rodiče?“ „Německé.“
+__label__ces Neměl jsem šanci.
+__label__ces Rodiče Toma zahynuli při dopravní nehodě.
+__label__ces Quentin je z nóbl rodiny, kde se říká večeři "supper". Tam, kde žijeme, říká každý "tea".
+__label__ces Tom má rád buráky.
+__label__ces Spolupracuješ s Tomem?
+__label__ces Tom se učí šít.
+__label__ces Stalo se to kvůli Tomově nedbalosti.
+__label__ces Tom má určitá zdravotní omezení.
+__label__ces Lingvistovi se může zdát gramatika tagalštiny složitější než gramatika angličtiny nebo čínštiny. A přesto gramatické spletitosti tagalštiny nejsou tak malicherné, frustrující jako "their" versus "they're" versus "there" nebo "every day" versus "everyday".
+__label__ces Pomalu postupovali vpřed.
+__label__ces Celý víkend bude pršet.
+__label__ces Nikdo to nechtěl pro Toma udělat.
+__label__ces Nejsem si ještě úplně jistý.
+__label__ces Tom tady na Vánoce nebude.
+__label__ces Medvědi nejsou jedinými zvířaty, která se ukládají k zimnímu spánku.
+__label__ces Být vámi, držel bych jazyk za zuby.
+__label__ces Fyzika je vědní obor.
+__label__ces Přestalo pršet a on se vydal na procházku.
+__label__ces Odhoďte zbraň!
+__label__ces Otevři knihu a uč se!
+__label__ces Nezapomeňte si pasy.
+__label__ces Ten tajemný muž se na nás dívá.
+__label__ces Opravdu sis vsadil na toho koně?
+__label__ces Mary řekla, že jsi jí ukradl auto.
+__label__ces Kolik hodin to podle vás potrvá?
+__label__ces Odvezli mě do psychiatrické léčebny.
+__label__ces Už mám domluvenou schůzku na desátou hodinu.
+__label__ces Koupil jsem si psa.
+__label__ces Co ještě po nás Tom chce?
+__label__ces Následkem nehody přišel o zrak.
+__label__ces Chci knihu.
+__label__ces Dívá se na něj.
+__label__ces Španělsky ho naučila jedna Mexičanka.
+__label__ces Já to nezvládnu, ale Tom určitě ano.
+__label__ces Koupili si nový vysavač.
+__label__ces Zkazili jsme chvilku.
+__label__ces Má velmi malé oči.
+__label__ces Docela dost mi to pomohlo.
+__label__ces Chci jít na bowling.
+__label__ces Chci vidět, co je uvnitř.
+__label__ces Tom má alergii na mořské plody.
+__label__ces Jeho žena je Japonka.
+__label__ces Věděl jsem, že mi Tom lhal.
+__label__ces Tom to přinese.
+__label__ces Jak často jíte houby?
+__label__ces Neopouštějte Toma.
+__label__ces Děti jsou noví lidé.
+__label__ces Tom už další šanci nedostane.
+__label__ces Našel jsem svoje boty.
+__label__ces Čeká nás tuhá zima.
+__label__ces Můj bratr žije nedaleko Vilniusu.
+__label__ces V životě je všechno otázkou organizace.
+__label__ces Zapomněla jsi, co jsem říkal?
+__label__ces Tom slíbil, že je zaměstná.
+__label__ces Vím, jak to zní.
+__label__ces Kdy se oteplí?
+__label__ces Nic nepostrádal.
+__label__ces Chytil kluka, který mu kradl hodinky.
+__label__ces Dejte prosím Tomovi ještě jednu šanci.
+__label__ces Tom si nevypil kávu, kterou jsem mu udělal.
+__label__ces Nemyslím si, že by rozuměli francouzštině.
+__label__ces Tom řekl, že se to takhle musí udělat.
+__label__ces Ráda vaří.
+__label__ces Do práce jezdím každý den autem.
+__label__ces Byl bych Toma najal.
+__label__ces Řekl jsi Tomovi všechno?
+__label__ces Tento dům je velice malý.
+__label__ces To bych si o Tomovi nikdy nepomyslel.
+__label__ces Tom musí být zticha.
+__label__ces Chci být mimo dosah Toma.
+__label__ces Tom se Mary smál.
+__label__ces Je plešatý.
+__label__ces Nejeli jsme do Bostonu.
+__label__ces Nic se tady stavět nebude.
+__label__ces Jde o operu o pěti dějstvích.
+__label__ces Řekl bych, že Tom hned tak kouřit nepřestane.
+__label__ces Ubytoval jsem se v malém hotelu poblíž jezera.
+__label__ces Daroval jsem to Tomovi.
+__label__ces Málokdy to děláme sami.
+__label__ces Tom musel jít tudy.
+__label__ces Není velký, ale je silný.
+__label__ces Měli byste pozvat také Toma.
+__label__ces Chcete, aby se Tom vrátil?
+__label__ces Řekla, že ji bolí hlava.
+__label__ces Přítomnost Toma cítím skoro všude.
+__label__ces Neděláš nic špatného, viď?
+__label__ces Tom to udělal nejlépe ze všech.
+__label__ces Moje učitelka je velmi přísná.
+__label__ces Skoro jsme to nezvládli.
+__label__ces K chybám dochází.
+__label__ces Věříte všemu.
+__label__ces Některé kamarády z dětství už nepoznávám.
+__label__ces Našel jsem Toma v šatně plakat.
+__label__ces Má oči jen pro něj.
+__label__ces Skoro všichni se opozdili.
+__label__ces Máme na tebe počkat?
+__label__ces Potřebuji peníze, které jsem ti půjčil.
+__label__ces Tom na mě byl moc hodný.
+__label__ces Jedna minuta má šedesát vteřin.
+__label__ces Dosáhli jste svého cíle.
+__label__ces Tito miliardáři se stali miliardáři díky vykořisťování lidí a národů s pomocí politiků.
+__label__ces Vím, že nejsi ten, který to provedl.
+__label__ces Mluvím taky dolnoněmecky.
+__label__ces Tom je teď někde ve Francii.
+__label__ces Ve snu mě přišel navštívit Tom.
+__label__ces Chtěl jsem to změnit.
+__label__ces Tom bydlí v jurtě.
+__label__ces Tom nemohl ten hluk vydržet.
+__label__ces Takové lidi nemám rád.
+__label__ces Teď se mi vyhýbá i moje vlastní dcera.
+__label__ces Lhal jsi své ženě.
+__label__ces Posilovna byla dnes zavřená, takže jsem musel posilovat doma.
+__label__ces Myslel sis, že nepřijdu?
+__label__ces Hlasovali jsme proti návrhu.
+__label__ces Nezapomněla.
+__label__ces Podíval jsem se do okna.
+__label__ces Led je voda v pevném skupenství.
+__label__ces Potřebuju se jen trochu vyspat.
+__label__ces Šel do parku.
+__label__ces Bomba měla vybuchnout za třicet minut.
+__label__ces Kapusta je zdravá zelenina.
+__label__ces Včera jsem jí volal, ale nebrala to.
+__label__ces Tohle všechno Tom postavil.
+__label__ces Omamné látky jsou velice nebezpečné.
+__label__ces Ještě máš problémy se spaním?
+__label__ces Mnoho lidí tam tehdy umrzlo.
+__label__ces Sentence #12220131 — belongs to aldar
+__label__ces Pozval jsem své přátele.
+__label__ces Kolik dětí se narodilo?
+__label__ces Nechci zapomenout.
+__label__ces Chci si s tebou zatancovat.
+__label__ces Už jsem Tomovi odpustil.
+__label__ces Konec je blízko.
+__label__ces Už dlouho jsem nic takového nedělal.
+__label__ces Příčinou nehod je neopatrnost.
+__label__ces Kup mi telefon.
+__label__ces Běž spát.
+__label__ces Jaro je hezké roční období.
+__label__ces Raději bys neměl Toma obtěžovat.
+__label__ces Vrátil jsem se.
+__label__ces Viděl jsem Toma u kůlny.
+__label__ces Máme z tebe velkou radost.
+__label__ces Často cestuju sám.
+__label__ces Raději bych to udělal bez Toma.
+__label__ces Na Tatoebě je víc vět v klingonštině než v lojbanu.
+__label__ces Řekněte Tomovi, ať jde nahoru.
+__label__ces Chci jen ji.
+__label__ces Jídlo je hotové. Jsou brambory se špenátem a sázená vejce.
+__label__ces Volal ti Tom.
+__label__ces Zhubneš.
+__label__ces Máte řešení?
+__label__ces Někdo to tam dal.
+__label__ces Naučil jsem toho psa dělat kousky.
+__label__ces Přidej trošku cukru.
+__label__ces Máš nůž?
+__label__ces Jsem zcela na tvojí straně.
+__label__ces Tom už ode mě nedostane ani korunu.
+__label__ces Jeho syn při té nehodě zahynul.
+__label__ces Máte finanční potíže?
+__label__ces Tomovi ujel poslední autobus.
+__label__ces Tom se nechtěl vrátit do Austrálie.
+__label__ces Určitě něco skrývá.
+__label__ces Tom má problémy se zákonem.
+__label__ces Dostanu padáka.
+__label__ces Ne vždycky je v neděli doma.
+__label__ces Tom by to měl udělat, ne ty.
+__label__ces Proč ses rozhodl odejít?
+__label__ces Tom namlel kávu.
+__label__ces Zapomněl jsem kliknout na "odeslat".
+__label__ces Pakuje si kufr.
+__label__ces Pokusili se ho zabít.
+__label__ces Tom se jí smál.
+__label__ces Led byl dostatečně silný, aby se po něm dalo chodit.
+__label__ces Viselo to tam.
+__label__ces Nevěřili byste, čeho je Tom schopen.
+__label__ces Když ti napíšu, tak mi odpověz!
+__label__ces "Kdo uvařil tu kávu?" "Tom".
+__label__ces Tom zněl zaujatě.
+__label__ces Dokázal bys zabít člověka?
+__label__ces Viděl jsem tě na druhé straně ulice.
+__label__ces Bylo to tam pověšeno.
+__label__ces Stala se ženou.
+__label__ces Byl jsem překvapený, že vidím lva.
+__label__ces Můj pes je čistý.
+__label__ces Hledám své klíče. Možná jsem je nechal doma.
+__label__ces Řekl jsem, že můžeš odejít.
+__label__ces Kočky nejsou lidé.
+__label__ces Jsme manželé tři roky.
+__label__ces Musím přeložit tyhle věty z italštiny do latiny.
+__label__ces Bulka byla napůl snědená.
+__label__ces Maďarský forint se začal používat po druhé světové válce.
+__label__ces Přepadli nás.
+__label__ces Potřebuju byt.
+__label__ces Budeme mít ty peníze.
+__label__ces Tom se za ty roky vůbec nezměnil.
+__label__ces Myslím, že jsi docela chytrý, ne?
+__label__ces Můj syn není doma, je ve škole.
+__label__ces Mary řekla, že si nebyla jistá.
+__label__ces Prostě to nechápou.
+__label__ces Funguje ten projekt dobře?
+__label__ces Jdete vydělávat peníze ve Spojených státech amerických?
+__label__ces To zvládneš. Bude to hračka!
+__label__ces Tom se vzbouřil proti firemní politice.
+__label__ces Byl to Tom, kdo to tam nechal.
+__label__ces Byl jsem ve Spojených Státech.
+__label__ces Musíš Tomovi říct, co se stalo.
+__label__ces Do práce chodím vždy včas.
+__label__ces Udělá všechno, co se jí řekne.
+__label__ces Máte nějaké jiné vysvětlení?
+__label__ces Ten, kdo se neodváží zeptat, ničeho v životě nedosáhne.
+__label__ces Tom málokdy nosí pyžamo.
+__label__ces Tom mi poslal několik fotek z Itálie, kde byl na výletě se svou přítelkyní.
+__label__ces Prodávám diamanty.
+__label__ces Nemůžu ti vysvětlit, co se stalo.
+__label__ces Lilek, mrkev, rajče.
+__label__ces Tom mi opravil auto.
+__label__ces Kdo říkal, že sem Tom smí?
+__label__ces Poznal jsem ji hned, jak jsem ji uviděl.
+__label__ces Co způsobilo ten problém?
+__label__ces Tom má rád arašídy.
+__label__ces Byla jsem v sedmém nebi!
+__label__ces Teď už to máš.
+__label__ces Můj strýc je doktor.
+__label__ces Zahrajeme si hru se slovy.
+__label__ces Je veterinář.
+__label__ces Tom čeká sám.
+__label__ces Jestli potřebuješ deštník, půjčím ti svůj.
+__label__ces Chodím do této školy.
+__label__ces Povodeň je od sebe oddělila.
+__label__ces Tom nechce, aby ho někdo rušil.
+__label__ces Tom se mi svěřil, že nemá peníze na vánoční dárky.
+__label__ces Byl jsem farmář.
+__label__ces Tom cestuje časem.
+__label__ces Povinnost nade vše.
+__label__ces Jím rýži.
+__label__ces Tomuto ptáku hrozí vyhynutí.
+__label__ces Viděli jste, jak to funguje?
+__label__ces 20. října mi bude třicet.
+__label__ces Dopravní nehody se stávají každý den.
+__label__ces Držte se Toma.
+__label__ces Mluvíš mandarínskou čínštinou?
+__label__ces Tom měl na sobě reflexní vestu.
+__label__ces Jaký máte rybářský prut?
+__label__ces Bylo to tam někým položeno.
+__label__ces V neděli jsem vždycky doma.
+__label__ces Jsem zvědav, jestli to Tom udělal.
+__label__ces Sní o tom stát se kosmonautem.
+__label__ces Vždycky je oblečená v černém.
+__label__ces Strávil jsem s Tomem celý den.
+__label__ces Barcelona je největším městem Katalánska.
+__label__ces Podél silnice je plot.
+__label__ces Zločinci by měli jít do vězení.
+__label__ces Řekni mi, co si myslíš o Tomovi.
+__label__ces Zlodějka byla vypátrána podle jedné z věcí, které zanechala na místě činu.
+__label__ces Nejprve si umyjte ruce a obličej.
+__label__ces Mám zelené jablko.
+__label__ces Tom ty děti vyvedl z jeskyně.
+__label__ces Obvykle vstávám velmi brzy.
+__label__ces Proč jsou ženy přitahovány muži?
+__label__ces Co ještě musí Tom udělat, abyste byli spokojeni?
+__label__ces Jeho podpis byl takřka nečitelný.
+__label__ces Stalo se to brzy ráno.
+__label__ces Snědl jsem s Tomem dva banány.
+__label__ces Viz výše.
+__label__ces Odjela s ním.
+__label__ces Kniha je o ženě, která odejde do kláštera.
+__label__ces Chci vidět své děti.
+__label__ces Myslím, že si musíme promluvit.
+__label__ces Nikdy nezapomene zaplatit účet.
+__label__ces Tom je ten nejodpornější člověk, kterého znám.
+__label__ces Tom je vždy v černé.
+__label__ces Nevíš, co je toto?
+__label__ces Zapomněl jsi, co jsem říkal?
+__label__ces Náš dům je v troskách.
+__label__ces Milují Hokkaido.
+__label__ces Slyšíš to? Někdo hraje na housle!
+__label__ces Tenhle člověk je duševně nemocý; nelze na něj aplikovat běžná měřítka.
+__label__ces Má hodně závislostí.
+__label__ces Musíme začít hned teď.
+__label__ces Rozešel jsem se se svou přítelkyní před třemi měsíci.
+__label__ces Knihy, které jsem koupil, leží na stole.
+__label__ces Už můžu jít domů.
+__label__ces Tohle všechno vybudoval Tom.
+__label__ces Damašek se nachází v Sýrii.
+__label__ces Někteří lidé mají zimu rádi, zatímco jiní ji nesnáší.
+__label__ces Přijď ke mně!
+__label__ces Sundala si kabát a rukavice.
+__label__ces Tom o tom měl vědět.
+__label__ces Jak daleko můžeme jít?
+__label__ces Už jste někdy byli ve vězení?
+__label__ces Proč jsi ještě tady?
+__label__ces Umřu, a to brzy.
+__label__ces Zpotily se.
+__label__ces Potili se.
+__label__ces Tom ten příběh zkrátil.
+__label__ces Ryba je ještě syrová.
+__label__ces Tom ležel týden nemocný v posteli.
+__label__ces Pracují pro Toma.
+__label__ces Není možné, aby to Tom dokázal sám.
+__label__ces Téměř všude cítím Tomovu přítomnost.
+__label__ces Které jsou vaše dcery?
+__label__ces Máme čas si to promyslet.
+__label__ces Nikdo to nechtěl dělat za Toma.
+__label__ces Neudělal jsem všechno, co jsem měl.
+__label__ces Blíží se konec světa.
+__label__ces Nenech se zlákat!
+__label__ces Potřebuju tužku. Můžu si od tebe jednu půjčit?
+__label__ces Nikdo Tomovi nerozumí tak, jako já.
+__label__ces Měl problémy s dýcháním.
+__label__ces Jsi si jistý, že nechceš přijít?
+__label__ces Tom o té aféře věděl hodně.
+__label__ces Dal jsem to Tomovi jako dárek.
+__label__ces Věříš v posmrtný život?
+__label__ces Jsi překladatel?
+__label__ces Musíš to Tomovi dát.
+__label__ces Je riziko, že nepřijde.
+__label__ces Chci, aby ta práce byla rychle hotova.
+__label__ces Dneska jsem se zranil.
+__label__ces Zdá se, že ta dívka je do Toma zamilovaná.
+__label__ces Tom pomohl jedné staré paní přejít ulici.
+__label__ces Tom měl na sobě starý, vlněný svetr.
+__label__ces Byl jsi včera večer s Tomem?
+__label__ces Tom ví o celé záležitosti víc, než prozradil.
+__label__ces Za posledních 50 let se toho hodně změnilo.
+__label__ces To není špatný nápad.
+__label__ces Co vás na něm přitahuje?
+__label__ces Nemám v úmyslu pokřtít své děti.
+__label__ces Měl dýchací potíže.
+__label__ces Všichni lidé, kteří tady byli, už odešli.
+__label__ces Omluvte moje špatné písmo.
+__label__ces Nemůžu myslet na všechno.
+__label__ces Tom uklízel sklad.
+__label__ces Nabídni to Tomovi.
+__label__ces Tom začal mluvit později.
+__label__ces Ahoj, vítej zpět!
+__label__ces Tom na mě byl docela milý.
+__label__eng Investigators say their next step is to come up with an implantable computer device without wires, which could take years if not decades to develop before the technology is available for human trials.
+__label__eng The prehistoric human sacrificed animals to the spirits.
+__label__eng I feel really terrible about this.
+__label__eng This discovery became a starting point for the evolution of the archeology of our country.
+__label__eng Tom disappeared while out on bail.
+__label__eng Did you really get angry?
+__label__eng There's no way Tom will ever change.
+__label__eng Did you think that would last?
+__label__eng Is today an unlucky day?
+__label__eng My room had a picturesque view of the mountains.
+__label__eng Life is a matter of tact.
+__label__eng This is a list of things we need to do.
+__label__eng He has never asked us for money.
+__label__eng If Tom doesn't hurry, he'll miss his train.
+__label__eng Were you peeping through the keyhole?
+__label__eng The sealed documents can be found at the notary.
+__label__eng Sentence #12314029 — belongs to CK
+__label__eng Please come after 2:30.
+__label__eng My pickup is stuck in the mud.
+__label__eng Tom got himself a job.
+__label__eng Why was Tom running?
+__label__eng He wants me to run without first learning to walk.
+__label__eng The boat was specially made for the queen's voyage.
+__label__eng A variety of health conditions can rob people of their ability to speak, including stroke, a neuromuscular disease called amyotrophic lateral sclerosis or Lou Gehrig’s disease, and locked-in syndrome, in which individuals are completely awake and aware of their surroundings but unable to move or communicate with the outside world.
+__label__eng The way you're doing it is fine.
+__label__eng Sentence #12318930 — belongs to Ergulis
+__label__eng I feel pretty confident about it.
+__label__eng Why wasn't Tom helping you?
+__label__eng I'd stay indoors if I were you.
+__label__eng Every place I have worked and that's Asia, Africa, Europe, America, South America, mastitis is typically the number-one problem of dairy farmers.
+__label__eng I'd never have noticed if you hadn't pointed it out to me.
+__label__eng We really like her.
+__label__eng Mississippi is one of the states of the U.S..
+__label__eng This whole thing was your idea.
+__label__eng Perseus cut off Medusa's head.
+__label__eng Today, the snow needs to be shoveled.
+__label__eng Did you play with Tom today?
+__label__eng If you're so silenced, how come you're always on TV talking about it?
+__label__eng Pay attention to the details.
+__label__eng Tourism is terrorism.
+__label__eng We made quick progress.
+__label__eng I'd suggest you go home.
+__label__eng Our new cook is very good.
+__label__eng That reproach is unfair.
+__label__eng Our only option was to attack.
+__label__eng I feel like I should go.
+__label__eng I like to eat lunch alone.
+__label__eng Tom had diabetes.
+__label__eng The works of Zamenhof have to be studied, not just read.
+__label__eng I felt thankful for that.
+__label__eng In any case, it's his obsession.
+__label__eng There's no way Tom will change.
+__label__eng I would've been really worried.
+__label__eng Sentence #12319365 — belongs to Miktsoanit
+__label__eng I feel very scared.
+__label__eng Did you know those gentlemen?
+__label__eng Their lies cost lives.
+__label__eng Please help me for a moment.
+__label__eng Our job here is done.
+__label__eng Please walk a little slower.
+__label__eng Instead of the village head, today the meeting was led by the notary.
+__label__eng Do you know what she wants to do?
+__label__eng His obsession with splitting hairs about punctuation is truly unbearable.
+__label__eng I feel kind of weird.
+__label__eng This is the team.
+__label__eng She misses you.
+__label__eng I'd be a terrible mother.
+__label__eng Did you get Tom's permission?
+__label__eng A raven is as black as coal.
+__label__eng Tom and I discussed the problem with Mary.
+__label__eng Did you turn the lights off?
+__label__eng Our only option is to fight.
+__label__eng I arrived at midnight.
+__label__eng The name is unisex.
+__label__eng Do you really need to be doing that?
+__label__eng I'd rather be a farmer.
+__label__eng It is fitting for a servant to be blindfolded.
+__label__eng You should have some coffee.
+__label__eng Did you make any suggestions?
+__label__eng Why do you want to move to Boston?
+__label__eng That was very rude of me.
+__label__eng Tom and Mary are both workaholics.
+__label__eng One should tell the truth.
+__label__eng Worrying doesn't hurt.
+__label__eng Part high-tech farm, part laboratory, and part floating classroom, the New York Sun Works Science Barge sports solar panels, wind turbines, a couple of greenhouses and other gear aimed at demonstrating sustainable agriculture in one of the world's most densely-packed cities.
+__label__eng He was with him.
+__label__eng They will be forced to beg in the streets.
+__label__eng What happens after a blood transfusion?
+__label__eng I feel very happy tonight.
+__label__eng Suddenly, I feel all alone.
+__label__eng Did you have a bad day?
+__label__eng I'd go to Australia if I could.
+__label__eng Please line up.
+__label__eng Our family is very large.
+__label__eng I won't be back until 2:30.
+__label__eng Did you say you heard noises?
+__label__eng Her father is my mother's brother. We're both cousins.
+__label__eng So far this evening, every train leaving this station has been full.
+__label__eng I'll be back by 7:00, I promise.
+__label__eng I feel that way myself.
+__label__eng Tom pretended not to see what was happening.
+__label__eng Let's meet again tomorrow.
+__label__eng I'm a gynecologist.
+__label__eng He accompanied him.
+__label__eng I'd advise you to cooperate.
+__label__eng We couldn't play tennis outside because of the rain.
+__label__eng The buses run at ten-minute intervals.
+__label__eng You'd make a great boss.
+__label__eng He lost her new watch.
+__label__eng I promise I'll be back by 7 o'clock
+__label__eng Did you have lunch today?
+__label__eng I would've appreciated knowing that.
+__label__eng I've asked Tom to help me.
+__label__eng ''I teach you the Superman!'' said Zarathustra.
+__label__eng Tom sings better than you.
+__label__eng Tom has work.
+__label__eng He has finally decided to get married.
+__label__eng Did you understand what was said?
+__label__eng Did you really like the flowers?
+__label__eng Tom won't likely be there.
+__label__eng Mary looks angry.
+__label__eng The cat unravelled the reel of cotton.
+__label__eng I've been stung by a jellyfish.
+__label__eng Tom is very well-connected.
+__label__eng It sounds like you really want to quit.
+__label__eng Our families are really close.
+__label__eng That sweet liquor made my head spin strangely.
+__label__eng Prehistoric man understood that being fat increases one's chances of survival.
+__label__eng In this workgroup, I'm responsible for digital affairs and mass media.
+__label__eng Did Tom get everything he needed?
+__label__eng His loquaciousness is almost a compulsion.
+__label__eng Do you know what Tom saw?
+__label__eng Nobody prepared Tom for that.
+__label__eng Our job is to protect you.
+__label__eng It's daytime in America right now.
+__label__eng I'd like to go soon.
+__label__eng Did you pull the trigger?
+__label__eng Did you think I was lying?
+__label__eng Tom seems to be joking.
+__label__eng Alice really existed, but Wonderland is a fictional place.
+__label__eng I'd suggest you reconsider.
+__label__eng Did you look through Tom's things?
+__label__eng I'm not drunk. I'm just tired.
+__label__eng How much time does it take to get from here to the airport?
+__label__eng I had three days to pack all my things and go.
+__label__eng Did you say you want to wrestle?
+__label__eng I have something to add.
+__label__eng Prehistoric man lived in the primeval forest.
+__label__eng I feel a bit sleepy.
+__label__eng I feel rejuvenated now.
+__label__eng Open the door a little.
+__label__eng Did you unlock the storeroom door?
+__label__eng Woe to the country that needs heroes.
+__label__eng Who was with you guys?
+__label__eng Our guests have just arrived.
+__label__eng Did you know Tom studied law?
+__label__eng Sentence #12317474 — belongs to ddnktr
+__label__eng Did you really just fix everything?
+__label__eng You don't need to explain that to me.
+__label__eng Tom and Mary left me alone.
+__label__eng Did you get to do what you wanted?
+__label__eng The mouths of this river lie further north.
+__label__eng The panorama is great.
+__label__eng Tom and Mary probably know each other.
+__label__eng I need to be alone tonight.
+__label__eng Tom is in his office alone.
+__label__eng Could I get your email address?
+__label__eng I think Tom is too old for this job.
+__label__eng I feel so lonely at night.
+__label__eng Actually, I don't even know where to start searching for a job.
+__label__eng The water is purified.
+__label__eng Tom likely won't be there.
+__label__eng Reproach demotivates.
+__label__eng Our trip was wonderful.
+__label__eng I'd never harm anyone.
+__label__eng Did you try the knob?
+__label__eng Is this food seasoned with pepper or paprika?
+__label__eng Have you talked to her yet?
+__label__eng I feel dizzy all the time.
+__label__eng I have been studying Japanese aesthetics consciously since my teenage years on Lulu Island, or maybe even before, as a prepubescent somewhat unwittingly in the Philippines. In Quezon City, we kids watched Japanese samurai shows and cartoons. We made Zero fighters and Messerschmidts as cardboard airplanes to hang from the ceiling of our library, where we had collection jars of crab-like spiders with thick exoskeletons. On Lulu Island, I studied autodidactically the basics of Hiragana, Katakana, and Kanji, the components of the Japanese language, during vacation as a teenager, whilst I did also watercolour painting and sculptures from DAS air-dry clay. I then took Japanese language in university. In my twenties, I actually lived in Japan for some time. Later, for years on my Social Media, I have been observing exquisite Japanese images. And I become a fan of anime. To me, Japanese aesthetics allude to Finnish, Eskimo, and Polynesian artwork. Japanese art can contrast the ancient with the ultramodern.
+__label__eng Tom knew a lot about the affair.
+__label__eng I should say something to Tom.
+__label__eng When I grow up, I want to work as an ice cream taster.
+__label__eng Tom definitely hates me.
+__label__eng Tom and Mary both like climbing.
+__label__eng Our marriage is in trouble.
+__label__eng I feel very uncomfortable in here.
+__label__eng I would've waited all night.
+__label__eng A rectangle has four angles and four sides.
+__label__eng I feel so ashamed.
+__label__eng I watch a lot of videos.
+__label__eng Did you return the present?
+__label__eng I would've just stayed home.
+__label__eng I have a sofa.
+__label__eng You were born in October.
+__label__eng Tomorrow's weather should be sunny with a chance of rain.
+__label__eng You shouldn't have done that without asking Tom if it was OK.
+__label__eng I'm going to Berlin, not Prague.
+__label__eng I need some time alone tonight.
+__label__eng Did you notice Tom's accent?
+__label__eng Did you take these photographs?
+__label__eng You should've come right home.
+__label__eng I don't really like exercising, but my doctor tells me I need to.
+__label__eng I'd hate to offend someone.
+__label__eng Did you teach Tom that?
+__label__eng Did you stop taking your pills?
+__label__eng Didn't you feel lonely?
+__label__eng The Atacama Desert is the world's driest desert.
+__label__eng My husband is plotting to kill me.
+__label__eng I got used to being alone.
+__label__eng That's not ethical.
+__label__eng I was sick in October.
+__label__eng Caring for plants is calming.
+__label__eng The mouth of the Hudson River is in New York.
+__label__eng My family loves Tom.
+__label__eng Some professors use drugs.
+__label__eng You should've kept your promise.
+__label__eng Be careful not to break anything.
+__label__eng Would you like a pretzel?
+__label__eng What a skit!
+__label__eng Who owns the restaurant?
+__label__eng Tom has to rest.
+__label__eng The child needs food.
+__label__eng I wanted some alone time.
+__label__eng Paprika is heavily used in Indian cooking.
+__label__eng Did you make reservations?
+__label__eng The cold winter wind wasn't really an incentive to cycling.
+__label__eng Our men are already in position.
+__label__eng I need to make several decisions.
+__label__eng In the Midwestern U.S. state of Michigan, the city of Grand Rapids has begun operating a plant that uses a new method for disinfecting wastewater and turning it into drinking water.
+__label__eng Have you loaded the rifle?
+__label__eng Tom was bipolar.
+__label__eng I'd have to concur.
+__label__eng What's the difference between a wall and a hedge?
+__label__eng What is God?
+__label__eng Sentence #12317902 — belongs to ddnktr
+__label__eng Paparazzi follow me everywhere.
+__label__eng I know you no longer live here.
+__label__eng Tom Jackson is our head of security.
+__label__eng The science data formatter, as it's called, has a number of housekeeping functions, including preparing data collected by Hubble's instruments for transmission down to Earth.
+__label__eng When I got out of the hospital, I found out that I had been placed on medical leave from college.
+__label__eng I felt very lonely there.
+__label__eng This blood is picturesque.
+__label__eng With Tom, you have to be on your guard.
+__label__eng They stood under the shop's awning to shelter from the rain.
+__label__eng Did you learn anything from this?
+__label__eng Our work is done here.
+__label__eng I'd like to draw you.
+__label__eng Tom has decided otherwise.
+__label__eng Did Tom say anything interesting?
+__label__eng It's your turn now.
+__label__eng You should've screamed.
+__label__eng The story of these fundemental features of our universe is called physics.
+__label__eng Don't forget to pick me up at the station.
+__label__eng Tom scalded himself with boiling water.
+__label__eng What kind of places do you like to visit?
+__label__eng What does this paragraph mean, then?
+__label__eng He takes his plushie with him everywhere.
+__label__eng It was like I was living with you.
+__label__eng Did you paint all these?
+__label__eng She was stung by a jellyfish.
+__label__eng Syndromes are often named after the physician or group of physicians who discovered them or initially described the full clinical picture. Such eponymous syndrome names are examples of medical eponyms. Recently, there has been a shift towards naming conditions descriptively (by symptoms or underlying cause) rather than eponymously, but the eponymous syndrome names often persist in common usage.
+__label__eng Tom will pick up everything.
+__label__eng Although ground-based telescopes are getting better all the time, Livio says there are still advantages to putting a telescope in space, out beyond the distorting and filtering effects of Earth's atmosphere.
+__label__eng How long did you live alone?
+__label__eng I had one just like it when I was a kid.
+__label__eng How can we achieve that?
+__label__eng Tom is somewhere in France now.
+__label__eng Tom taught me how to barter.
+__label__eng We still believe in his innocence.
+__label__eng Have you met Tom's parents?
+__label__eng Doesn't it worry you that your son barely has any contact with other children?
+__label__eng His leg's in a cast.
+__label__eng I don't want to end up like them.
+__label__eng Do you guys fight a lot?
+__label__eng A runner passed me while I was biking. I was speechless.
+__label__eng The trick is too obvious.
+__label__eng What kind of hotel would you like?
+__label__eng He missed him a lot.
+__label__eng In Tatoeba there are many useful and beautiful sentences that should be adopted.
+__label__eng The Kenyan capital, Nairobi, is 125 miles away from Esther Kume’s homestead.
+__label__eng I feel kind of nervous.
+__label__eng I seldom go fishing alone.
+__label__eng How hot is too hot to go outside?
+__label__eng I think it depends on the context.
+__label__eng The driver was under the influence.
+__label__eng Did you read the indictment?
+__label__eng Tom knows nothing about this.
+__label__eng Today must be October 20th.
+__label__eng Tom and Mary both know the risks.
+__label__eng Did you read the inscription?
+__label__eng A wolf bit Mary.
+__label__eng I still try.
+__label__eng The thieves wore gloves.
+__label__eng Flirting with boys is exhausting.
+__label__eng You should've concentrated more.
+__label__eng The cat knocked over the tin of fish so that it could eat its contents.
+__label__eng It sounds like you've been having some problems.
+__label__eng Know where to hide.
+__label__eng They crossed the line.
+__label__eng I thought you wanted to be alone.
+__label__eng Did you take care of that?
+__label__eng You should've sided with Tom.
+__label__eng The economy shows a tendency to improve.
+__label__eng Did you try that?
+__label__eng Who's ready to command?
+__label__eng Tom was misdiagnosed.
+__label__eng I'd like to hire you.
+__label__eng I'm looking for someone I could fall in love with.
+__label__eng Tom knows everyone.
+__label__eng Tom papered the wall with white wallpaper.
+__label__eng I can't be there until 2:30.
+__label__eng I understand a sentence in Portuguese better when I compare it with its translation into Galician.
+__label__eng The buses are all full.
+__label__eng For Tom, gaming is an addiction.
+__label__eng I feel so much better here.
+__label__eng She looked much more attractive online.
+__label__eng I'll be back home tomorrow.
+__label__eng Did you stay home today?
+__label__eng Did you say three weeks or three months?
+__label__eng By any chance, do you know Tom Jackson?
+__label__eng Did you not hear the alarm?
+__label__eng There were a lot of things I didn't like about this movie.
+__label__eng You should've let me answer.
+__label__eng I work better alone.
+__label__eng I've completed all the classes necessary for my certification.
+__label__eng It just works as an ornament.
+__label__eng His time has come.
+__label__eng Tom is really bad at driving.
+__label__eng I like pretzels.
+__label__eng I'd like to compete, too.
+__label__eng There's too much sugar in this tea.
+__label__eng You should've arrived sooner.
+__label__eng I had to wait for three hours.
+__label__eng Our fathers are brothers.
+__label__eng Did you think Tom was drunk?
+__label__eng He wants me to run without having first learned to walk.
+__label__eng This sentence can basically mean anything.
+__label__eng Are you open on Sundays?
+__label__eng Tom will miss his train if he doesn't hurry.
+__label__eng Tom has lost his teddy bear.
+__label__eng I'd rather do this myself.
+__label__eng Tom was doing his job.
+__label__eng Did you guys get a dog?
+__label__eng I have not made up my mind yet.
+__label__eng It was pretty obvious right out of the gate.
+__label__eng I was sent to the hospital because I was hearing voices telling me to kill myself.
+__label__eng Did you get Tom's address?
+__label__eng Goulash without red paprika is unimaginable.
+__label__eng A few minutes later, Tom returned with a bottle of wine.
+__label__eng When was the last time you washed clothes?
+__label__eng Mary gave me a kiss on the cheek.
+__label__eng They have achieved a first step toward that goal by decoding the electrical activity in a region of the brain, called the superior temporal gyrus, that’s stimulated by hearing.
+__label__eng Did Tom come alone?
+__label__eng Your website's homepage is very beautiful.
+__label__eng Did you take Tom's things?
+__label__eng Desalination is often seen as an expensive and energy-intensive way to remove salt from water.
+__label__eng Our prisons are packed.
+__label__eng The smoke detector went off.
+__label__eng I wouldn't go so far as to say your theory is wrong.
+__label__eng Please sing for us.
+__label__eng You should've said please.
+__label__eng Did you have a good supper?
+__label__eng There's a book about dancing on the table.
+__label__eng You can't kick me out.
+__label__eng Tom, do you have a cell phone?
+__label__eng Did you think about my suggestion?
+__label__eng How many languages can a person learn?
+__label__eng I've never been to a museum.
+__label__eng I would've fired you.
+__label__eng Tom and I worked until dawn.
+__label__eng "What is the name for the witnesses to a baptism?" "The baptism witnesses are called godparents."
+__label__eng Do you still feel sick?
+__label__eng About 13.5 billion years ago, Matter, energy, time and space came into being with something which we name as Big Bang.
+__label__eng Did you read Tom's note?
+__label__eng Woe are us!
+__label__eng In Canada, the main language is English, but in Quebec, they speak French.
+__label__eng I would've been there sooner if I could've been.
+__label__eng Tom doesn't smile very much.
+__label__eng More than half of people diagnosed with schizophrenia experience significant recovery.
+__label__eng My breakfast was cereal.
+__label__eng Do you know what Tom expected?
+__label__eng We're waiting for Tom to arrive.
+__label__eng Have you sold it already?
+__label__eng It was short.
+__label__eng That was very rude of me. I apologize.
+__label__eng Did you go to Tom's place?
+__label__eng How do you use chopsticks?
+__label__eng A picturesque panorama opened before us.
+__label__eng His time has not come yet.
+__label__eng Our focus is on efficiency.
+__label__eng Nobody seemed to be paying any attention to Tom.
+__label__eng I'd like to drive.
+__label__eng Would you like some time alone?
+__label__eng I love her skits.
+__label__eng I like to savor raspberry ice cream.
+__label__eng He's nearly forty.
+__label__eng Can you get in touch with Tom?
+__label__eng Did you read the directions?
+__label__eng It's a shooting star.
+__label__eng Your back is completely pale.
+__label__eng Have you seen anything unusual?
+__label__eng I thought you wouldn't be doing that any more.
+__label__eng I went back and finished my degree.
+__label__eng Actually, I don't even know where to start looking for a job.
+__label__eng An abundance of other crops, including tomatoes, lettuce, cucumbers, and other vegetables are flourishing in the New York Sun Works greenhouses. They're grown using hydroponics technology where the roots are immersed in trays of nutrient rich water, not soil.
+__label__eng People come from everywhere.
+__label__eng I should've heeded Tom's warning.
+__label__eng It's insane.
+__label__eng "Do you know which city Zamenhof was born in?" "Zamenhof was born in the Polish city of Bialystok."
+__label__eng Will you be fine alone?
+__label__eng I don't spend as much time reading as I used to.
+__label__eng One citron tea, please!
+__label__eng Do you guys understand the difference?
+__label__eng Tom has fled.
+__label__eng I'm sorry. That was very rude of me.
+__label__eng Our plans have been changed.
+__label__eng I feel really calm.
+__label__eng Did you know Tom knew?
+__label__eng Emma likes relishing strawberries.
+__label__eng I think I'd be a good janitor.
+__label__eng I have never asked my father for money.
+__label__eng You should've brought an umbrella.
+__label__eng It was easy to find seats on the train because there were so few passengers.
+__label__eng The driver was intoxicated.
+__label__eng I feel the urge to do that.
+__label__eng Winter covers the fields with snow.
+__label__eng Children go to school.
+__label__eng Caring doesn't hurt.
+__label__eng Are you ready for command?
+__label__eng He has not decided yet.
+__label__eng We have never asked them for money.
+__label__eng He accompanied her.
+__label__eng I enjoy exercising.
+__label__eng No one can hear what the old woman says because she keeps whispering.
+__label__eng That girl walking over there is my little sister.
+__label__eng You should've told us everything.
+__label__eng Did you have something for me?
+__label__eng Did you inform the police?
+__label__eng Our orders were very clear.
+__label__eng I woke up this morning with a splitting headache.
+__label__eng I feel surprisingly good.
+__label__eng I'm transferring.
+__label__eng Did you know that Tom snores?
+__label__eng We should always put on a safety belt in case we have an accident.
+__label__eng Did you notice Tom was gone?
+__label__eng Do you have someone meeting you?
+__label__eng Our rates are negotiable.
+__label__eng It's no fun playing with you.
+__label__eng She accompanied her.
+__label__eng He behaved, unconsciously, in ways that sometimes inspired sharp criticism and scathing rebukes.
+__label__eng Did you get some help?
+__label__eng I re-read my manuscript again.
+__label__eng Grammar is divided into phonology, morphology, syntax, and semantics.
+__label__eng You have not made your minds yet.
+__label__eng Why are you sitting here all alone?
+__label__eng Put the wet umbrella inside the bag, please.
+__label__eng Our taxes are too high.
+__label__eng Tom and Mary are really nice.
+__label__eng That's a vile falsehood.
+__label__eng Did you save me a seat?
+__label__eng Please wait a sec.
+__label__eng I'm pretty embarrassed about that.
+__label__eng Were you able to persuade Tom?
+__label__eng The teacher arranged a competition between his students to find and explain mistakes.
+__label__eng I'd like to apply for that job.
+__label__eng Tom is acting crazy.
+__label__eng Can you bring me a glass of water?
+__label__eng I feel pretty good this morning.
+__label__eng Caring, empathy, and sensitivity aren't feminine traits, but human ones.
+__label__eng Other projects being developed include mobile salt-removal systems for remote Aboriginal communities where supplies from groundwater wells are contaminated by high concentrations of saline and nitrates.
+__label__eng Tom and Mary both saw it happen.
+__label__eng It suddenly got cold.
+__label__eng His house is small and old.
+__label__eng Let's forget what happened yesterday.
+__label__eng I've already forgiven Tom.
+__label__eng It sounds like you're dealing with a lot at the moment.
+__label__eng I took the plushie.
+__label__eng Apparently, Tom lives alone.
+__label__eng In a foreword, the author defends herself against anticipated critics.
+__label__eng I was going to come alone.
+__label__eng Tom and Mary's main problem is that they can't find a place to live.
+__label__eng This is a list of what needs to be done.
+__label__eng I feel a little bit uncomfortable.
+__label__eng With the ill will of these referees, my team can never win a match.
+__label__eng Tact is the ability to think with another person's brain.
+__label__eng Our relationship is strong.
+__label__eng Tom and Mary always make us wait.
+__label__eng This is a pretzel.
+__label__eng I started hearing voices at the age of twenty-one.
+__label__eng Sales is like flirting.
+__label__eng This is the detachment.
+__label__eng A dog is barking at strangers.
+__label__eng Reword the idea or ideas of this paragraph.
+__label__eng Did you sing songs?
+__label__eng Please don't compare me to her.
+__label__eng No one understands it yet.
+__label__eng At a news conference at JAXA in Sagamihara, about 51 kilometers southwest of Tokyo, space agency scientists said the capsule is now secured safely in a curation facility at its research center.
+__label__eng I'm on the waiting list.
+__label__eng I'd really enjoy it.
+__label__eng Did you miss me very much?
+__label__eng I work alone these days.
+__label__eng Certain wavelengths, like ultraviolet light, just don't make it through the atmosphere.
+__label__eng The prehistoric human began to build a house on poles.
+__label__eng Who did you sell it to?
+__label__eng Did you make that for me?
+__label__eng How will our descendents fare after a potential nuclear war?
+__label__eng Sentence #12316393 — belongs to ddnktr
+__label__eng I feel sleepy now.
+__label__eng What is a hominid?
+__label__eng I've recently lost a lot of weight.
+__label__eng A square is a rectangle and a rombus at the same time.
+__label__eng You don't know how I actually am.
+__label__eng I actually like being alone.
+__label__eng Tom is feeling hungry.
+__label__eng Tom will definitely be back.
+__label__eng Tom started dating an older woman.
+__label__eng Stop flirting with me!
+__label__eng It was laid there by someone.
+__label__eng I can't be there by 2:30.
+__label__eng There have been many accidents at this intersection.
+__label__eng It's a really good sketch.
+__label__eng Do you have any unfinished business?
+__label__eng I love his skits.
+__label__eng Delete all the messages I sent.
+__label__eng I'd like to return home.
+__label__eng Have you been drinking wine?
+__label__eng He has never known love.
+__label__eng I'm hungry for a good meal.
+__label__eng I always watch this show's intro.
+__label__eng In some places, chocolate and paprika are considered aphrodisiacs.
+__label__eng The teacher arranged a competition between her students to find and explain mistakes.
+__label__eng Sentence #12312479 — belongs to CK
+__label__eng Please get in line.
+__label__eng There's meat at the butcher's.
+__label__eng Tom is still last.
+__label__eng Do you like watching movies?
+__label__eng I was completely alone.
+__label__eng I'd like to have kids.
+__label__eng My mother isn't like the others.
+__label__eng It's a protection racket.
+__label__eng I'd never believe that.
+__label__eng She was with her.
+__label__eng Did you really make this yourself?
+__label__eng I feel a bit upset now.
+__label__eng Tom and Mary both seemed very impatient.
+__label__eng Don't annoy them.
+__label__eng Did you try Tom's home number?
+__label__eng My internship is about to end.
+__label__eng You can forget my comment.
+__label__eng You should have plenty of time.
+__label__eng You should've reported it immediately.
+__label__eng I should've eaten breakfast at home.
+__label__eng I took incompletes, which I later converted into passing grades.
+__label__eng Our meeting ran late.
+__label__eng "Coffee, please." "With or without liquor?" "Without coffee, please."
+__label__eng When her husband arrived, her lover hid in the wardrobe.
+__label__eng I'd head south if I were you.
+__label__eng I used to be in a rock band.
+__label__eng Workers move quickly down the stalls, cleaning the cows' teats and attaching the milking hoses.
+__label__eng Professional wrestling is a performance art.
+__label__eng We're tired of fighting.
+__label__eng I feel really safe now.
+__label__eng What a sketch!
+__label__eng Our water was poisoned.
+__label__eng I'd like to buy one.
+__label__eng Oy vey! That's how you ruin your life!
+__label__eng The woman did what she had to do.
+__label__eng At this building, horticultural products are sold to the public.
+__label__eng How cold is too cold to go outside?
+__label__eng The young man is very enthusiastic about cycling.
+__label__eng Sentence #12316110 — belongs to doemaar14
+__label__eng There was a long line of people waiting to get into the stadium.
+__label__eng Did you have a tough day?
+__label__eng I feel so lonely tonight.
+__label__eng Did you get bitten by mosquitoes?
+__label__eng They really like him.
+__label__eng I want to speak to your supervisor.
+__label__eng Locals are being priced out of the area.
+__label__eng Proverbs are the ornaments of speech.
+__label__eng She tends to underestimate her own abilities.
+__label__eng Come to the front, please.
+__label__eng Sentence #12319015 — belongs to Miktsoanit
+__label__eng I'm leaving on October 20th.
+__label__eng You should have an assistant.
+__label__eng If it weren't for your help, he wouldn't have succeeded.
+__label__eng Tom promised to hire them.
+__label__eng That's a fake gem.
+__label__eng I'll never visit my godfather's house again.
+__label__eng Did you inform Tom?
+__label__eng In any case, it's her obsession.
+__label__eng My mother's birthplace is in the east of this country.
+__label__eng You didn't know that?
+__label__eng Look, a jellyfish.
+__label__eng Our plan was excellent.
+__label__eng Sentence #12317736 — belongs to CK
+__label__eng I plan to go shopping this afternoon.
+__label__eng Romanian is an official language in Romania, Moldova and the autonomous province of Vojvodina, Serbia. It is also an official language in several communities and organizations, such as the Latin Union and the European Union.
+__label__eng He must be in because the light's on.
+__label__eng In Canada, the main language is English, but in Quebec, French is spoken.
+__label__eng I prefer to practice alone.
+__label__eng Sarcasm is a type of irony.
+__label__eng Paramedics are en route.
+__label__eng You should've phoned earlier.
+__label__eng The referee in that match was not just incompetent, he was biased.
+__label__eng She lost his new watch.
+__label__eng That was a misunderstanding.
+__label__eng I was going to go get more coffee, but Cookie came and sat on my lap.
+__label__eng Open the door a bit.
+__label__eng Pack your bag and get going.
+__label__eng I was there and saw everything.
+__label__eng Did you iron my blue shirt?
+__label__eng I feel even lonelier now.
+__label__eng I know that I should sleep for at least eight hours every night, but I usually sleep less.
+__label__eng Did you play golf all day?
+__label__eng They encountered a lot of rain on the bike ride.
+__label__eng Who are you looking at there?
+__label__eng There are cherry trees behind the hedge.
+__label__eng Our fates are sealed.
+__label__eng Did you know Tom was missing?
+__label__eng His mother is my father's sister. We are cousins.
+__label__eng Do you like teaching children?
+__label__eng Did you get to sing?
+__label__eng This often happened in winter.
+__label__eng We got here a couple hours ago.
+__label__eng I'd like to try something.
+__label__eng Did you try knocking?
+__label__eng Our mothers used to be friends.
+__label__eng The aggressor has set a number of goals for his forces to achieve in time for the presidential election, apparently at any cost with regard to men and material.
+__label__eng It's a really good skit.
+__label__eng This is too simple.
+__label__eng Did you know Tom long?
+__label__eng You owe me a dance.
+__label__eng How long has Tom been alone?
+__label__eng He did not ask me for money.
+__label__eng Only two years ago, the idea of a Fascist regime waging a bloody war on imaginary Nazis in Europe would have seemed absurd.
+__label__eng We have never known love.
+__label__eng I need that money by Monday.
+__label__eng The youth is very enthusiastic about cycling.
+__label__eng Have you been in love before?
+__label__eng Our only hope now is escape.
+__label__eng This is a jellyfish.
+__label__eng The future has many names. For the weak, it is the unattainable. For the fearful, it is the unknown. For the brave, it is chance.
+__label__eng When was the last time you went to a wedding?
+__label__eng Didn't you know Tom couldn't understand French?
+__label__eng Our jobs are difficult.
+__label__eng The strangeness of such a claim made me laugh against my will.
+__label__eng Sentence #12316476 — belongs to CK
+__label__eng Tom claims he can converse with plants and animals.
+__label__eng It seems like you've lost a little weight.
+__label__eng Did you drive your car here?
+__label__eng I'd like a drink, too.
+__label__eng Tom promised to employ them.
+__label__eng I'd change this if I could.
+__label__eng Clement Atlee was elected prime minister in 1945.
+__label__eng Our happiness depends on that.
+__label__eng I need my money.
+__label__eng Our fate lies in your hands.
+__label__eng He never talks about politics.
+__label__eng You should've stayed at home.
+__label__eng Did you really write this yourself?
+__label__eng Life is always too short.
+__label__eng A lot of people took part in the conference.
+__label__eng After harmful bacteria are removed the filtered water is disinfected with chemicals.
+__label__eng Sentence #12313904 — belongs to CK
+__label__eng Did you eat cake?
+__label__eng Pack up and leave now.
+__label__eng I pooped behind the hedge.
+__label__eng First impressions are often wrong.
+__label__eng I'm trying to grumble.
+__label__eng I can't draw birds.
+__label__eng Our parents are worried.
+__label__eng We have known for millennia that the change in us, in our evolutionary future, needs to make us better people, kinder to our neighbors, more sensitive to beauty and capable of distributing justice.
+__label__eng I felt a sharp pain.
+__label__eng It's been almost three years.
+__label__eng Maria is a dentist.
+__label__eng He doesn't like heat waves.
+__label__eng I'll mow the lawn tomorrow.
+__label__eng What are you kids doing here?
+__label__eng Is the zoo open today?
+__label__eng Tom can say nothing.
+__label__eng You should've called back.
+__label__eng What is love for you?
+__label__eng I feel awfully sorry for you.
+__label__eng Mary needs to see a gynecologist.
+__label__eng "Oh, what are you like? You're so gauche!" she laughed. "Here, read this." She threw a book towards me. I caught it. "What is it?" "A sodding book! What do you think it is?"
+__label__eng The locomotive was decoupled from the railway carriages.
+__label__eng Pack your bags and get out.
+__label__eng Did you say you and Tom kissed?
+__label__eng The strangeness of such a claim forced me to laugh.
+__label__eng Our neighbors are quiet.
+__label__eng I feel terribly upset.
+__label__eng Pablo went back with his father.
+__label__eng Tom doesn't smoke and he never has.
+__label__eng She's a gynecologist.
+__label__eng Have you made any resolutions?
+__label__eng Tom found a place to stay.
+__label__eng It is necessary to learn to obey in order to be able to command.
+__label__eng A romantic couple isn't a waste.
+__label__eng Won't you close the door? It's drafty in here.
+__label__hun Kérj bocsánatot!
+__label__hun Ez nem az én bugyim!
+__label__hun Abrak!
+__label__hun A férjem a mexikói spanyolt beszéli.
+__label__hun Fizetnem kell.
+__label__hun Komolyak a szándékaim.
+__label__hun Bizonytalan a jövőnk.
+__label__hun Először nevetett, mert azt hitte, csak viccelünk.
+__label__hun A tudósok fele áltudós; valamelyik lobbi fizeti őket.
+__label__hun A titkos társoságokat beszüntették.
+__label__hun Majdnem megöltelek.
+__label__hun Nem tesz mást, csak nyavalyog egész nap.
+__label__hun Tervezem, hogy elveszem a barátnőmet.
+__label__hun Ide semmit nem építenek.
+__label__hun — Tom még mindig a szülei között alszik. — Ezek betegek.
+__label__hun — Mit akartál mondani? — Már nincs jelentősége.
+__label__hun Le a kalappal! István nem is tudott volna ennél jobban reagálni ebben a helyzetben!
+__label__hun Valaha itt egy apátság állt.
+__label__hun Egész éjjel fenn voltál?
+__label__hun Elmagyarázta nekem, hogyan működik a gép.
+__label__hun Nem hitt nekünk senki.
+__label__hun Tomnak műtétre van szüksége.
+__label__hun Láttad, hogyan készül ez?
+__label__hun Blokkolva van az elméjük.
+__label__hun Lorenzo egy elhagyott házban bújt el.
+__label__hun Felelős vagy a történtekért.
+__label__hun Angolon egy csoportban vagyok Natasával.
+__label__hun El fog fáradni.
+__label__hun Ő játsza Julius Caesart.
+__label__hun Eljátszák, hogy jótékony célokra gyűjtenek, közben meg saját maguknak.
+__label__hun Ügyes asztalos Tom.
+__label__hun Nekem kell fizetnem mindent.
+__label__hun Nehéz megtippelni.
+__label__hun A kiszolgálásra nem lehetett panaszunk.
+__label__hun A tűz mellett olvad a viasz.
+__label__hun Megint csak egyedül volt.
+__label__hun Én ráérek várni.
+__label__hun Az írók többsége kisnemesi családból került ki.
+__label__hun Baszd meg az ötleteiset!
+__label__hun Nekem van időm várni.
+__label__hun Távozz, Sátán!
+__label__hun Hányszor kell ezt csinálnunk?
+__label__hun Nálunk a cégnél folyamatosan van felvétel. A dolgozók jönnek, mennek.
+__label__hun Most elmondok neked egy érdekes történetet.
+__label__hun Beszélhetek Tommal?
+__label__hun Semmi oka nem volt lopni, hiszen van pénze elég.
+__label__hun Fogoly vagy?
+__label__hun Elfogyott a kraft.
+__label__hun Nagyon fáztam.
+__label__hun A kormány Covid-terroristákból áll.
+__label__hun Nincs fény.
+__label__hun Bassza meg a rendszer!
+__label__hun Vettem egy pullóvert és egyből felvettem.
+__label__hun Csak én láttam azt a fényt?
+__label__hun Itt én igazán jól érzem magam.
+__label__hun Ukrajnát az Egyesült Államok élelmiszeripara uralja.
+__label__hun Így próbáltad?
+__label__hun "A nemzeti hős" "odaadta" az amerikai élelmiszeripari óriásoknak az ukrán termőföldeket.
+__label__hun A bolt előteteje alatt álltak az eső végett.
+__label__hun A mesék szürreálisak.
+__label__hun Senki sem hisz annak, amit mondok.
+__label__hun A szélcsend miatt két napot vesztegeltünk a tengeren.
+__label__hun Én tudom, mi az igazság.
+__label__hun Az emberek hisznek nekik.
+__label__hun Miért ragaszkodsz Tomihoz?
+__label__hun Ez nagyon egyszerű szabály.
+__label__hun Azt hiszem, megöltem valakit.
+__label__hun Láttalak táncolni. Szédületes voltál.
+__label__hun Nem hiszem el, hogy az emberek ezt elhiszik!
+__label__hun Velem akarsz jönni?
+__label__hun Megebédeltél már?
+__label__hun Mi van, tápos vagy?
+__label__hun Ők hittek nektek.
+__label__hun Tom elfelejtette megköszönni.
+__label__hun Alig 10 éve a klímaváltozás fő okozója az olaj volt, 5 éve a szén, ma pedig a tehenek és sertések fingja. És minden esetben a legjobb tudósok állitották ezt.
+__label__hun A hétvégén egyedül leszek.
+__label__hun Mit tennék mi nélküled?
+__label__hun A rossz emberek szerencséje a buta és hiszékeny emberek.
+__label__hun Tom ignorálja a valóságot.
+__label__hun A kormánypártnak egy szavazóbázisa maradt csak: az agyhalottak. Sajnos sokan vannak.
+__label__hun Van önbizalmad.
+__label__hun Ez az úri picsa meg kicsoda?
+__label__hun A Mars-projekt valóban a Devon-szigeten van?
+__label__hun Elegem van a problémáidból!
+__label__hun Akaszd a ruhásszekrénybe!
+__label__hun És ki tudja, mi a tényleges igazság?
+__label__hun Várok egy szállítmányra.
+__label__hun Van két kutyám, három macskám és hat csirkém.
+__label__hun Hittem nekik.
+__label__hun Zsidók, muzulmánok és keresztények szépen megfértek egymás mellett a Szentföldön, míg a politikusok ebbe bele nem avatkoztak.
+__label__hun Elég gyorsan történt minden.
+__label__hun Ugye te még mindig nem látod összefüggéseiben, hogy mi folyik a világban?
+__label__hun — Hiúságok hiúsága — mondá a prédikátor. / — Hiúságok hiúsága. Minden hiúság.
+__label__hun Nem értettem pontosan a nevét.
+__label__hun Az Apollo 11 holdraszállásakor nem voltak csillagok, csak fekete háttér.
+__label__hun Ha a rendőrség valóban a népet szolgálná, akkor egy tüntetés során a nép oldalán állna.
+__label__hun Nálunk az országban még mindig tabu ateistának lenni.
+__label__hun Nem tudom, mi a célja a sok agymosott embernek az ignorálásukkal.
+__label__hun Ehhez most nincs nekem idegzetem.
+__label__hun Akkor meg minek kérdezed, ha jobban tudod!?
+__label__hun Elegem van ebből a rendszerből!
+__label__hun Hittünk nekik.
+__label__hun Soha nem éreztem még ilyet.
+__label__hun Az exem próbál visszaszerezni.
+__label__hun Nem volt olyan drága, mint ahogy gondoltam.
+__label__hun A bankármaffia ezrek házát vette el.
+__label__hun Túlenni magad nem tesz jót az egészségnek.
+__label__hun A kocsi sokkal gyorsabb a kerékpárnál.
+__label__hun A hinduk reinkarnálodnak, mert ők abban hisznek, a többi ember meg nem reinkarnálódik?
+__label__hun Baszd meg a kutyád!
+__label__hun Ne hidd el – nem érdekel!
+__label__hun Mivel Dániában mindenki bankkártyával fizetett, kivonják a készpénzt, a szabadság egyik alappillérét.
+__label__hun Ti nem mehettek oda!
+__label__hun Sanyi marhára eltűnt.
+__label__hun Megmérgezik az életet.
+__label__hun Szeretném ezt hinni.
+__label__hun A vonat nekiszaladt egy kamionnak egy vasúti átjáróban.
+__label__hun Tegyél fel még két tízkilós tárcsát.
+__label__hun A költő anyja mosónő volt, az apja hivatalnok.
+__label__hun Gyönyörű szép nő volt formás idomokkal, de az anorexia elrabolta őt.
+__label__hun Tetszik nekem ez a modell.
+__label__hun A Föld mindenkié, nem csak egy kiválasztott, elnyomó, élősködő rétegé.
+__label__hun Mi nagyon hasonlóak vagyunk.
+__label__hun Nem látott téged senki?
+__label__hun Szerintem nem lesz holnap eső.
+__label__hun Bill Gates a WHO legfőbb szponzora. Az etióp muksó az ő embere. A kérdés akkor az most az, hogy ez a világszervezet mennyire független az eszelős milliárdostól.
+__label__hun Ma kell a pénzem!
+__label__hun Ukrajna csak akkor van biztonságban, ha Putyin 360 fokkal megfordul.
+__label__hun Pihenj indulás előtt.
+__label__hun A materializmus démona a pénz.
+__label__hun Apátság volt itt egykor.
+__label__hun — Nézel pornót? — Ugyan, kérlek! A pornó gyerekeknek van.
+__label__hun Kék szemük van.
+__label__hun Az újságírás a képesség egyes dolgokat elhallgatni, míg másokat megírni.
+__label__hun Sok játéka van.
+__label__hun Azt mondják, nincs tökéletes ember. Ő az.
+__label__hun Rosszul éreztem magam, hogy egyedül hagytalak téged.
+__label__hun Ez nem felel meg a valóságnak.
+__label__hun Puszit nyomtam a homlokára.
+__label__hun Két óra előtt érkezett.
+__label__hun A világszervezet afrikai származású igazgatójának militáns, kommunista terrorista múltja természetesen törölve lett az internetről, mert nem venné ki magát jól.
+__label__hun Ez az emberek többségének már több mint gyanús lenne, Tominak és Marinak semmi furcsa nem tűnt fel.
+__label__hun Aki nem tudja megcsinálni a lótuszülést, az csinálhatja törökülésben a gyakorlatot.
+__label__hun Nekem nincs nagy fantáziám; én csak fordítom a műveket.
+__label__hun Itt vagyok, hogy segítsek.
+__label__hun Újra egyedül volt.
+__label__hun Ki kell vinnem levegőre a kutyát.
+__label__hun Ki tudsz vinni az állomásra?
+__label__hun Nincs film a fényképezőben.
+__label__hun Ki volt csípve Tom.
+__label__hun Az alkohol beszél belőle.
+__label__hun Unom már a sorbanállást!
+__label__hun Vissza kell nyernem a régi alakomat.
+__label__hun Ennek a könyvnek 13 fejezete van.
+__label__hun Megittam egy üveg sört.
+__label__hun Egész éjszaka fent maradtál?
+__label__hun Nem érek rá egész nap!
+__label__hun A nőknek sokkal könnyebb dolguk van.
+__label__hun Te csakugyan arra a lóra tettél!?
+__label__hun Az áruló nem jár egyedül.
+__label__hun A hó csak hullt.
+__label__hun Kijavítottam a hibát.
+__label__hun Újfent egyedül volt.
+__label__hun Senki sem szeret minket.
+__label__hun Nyaralni vagyok.
+__label__hun A története hihetőnek hangzik.
+__label__hun — Már háromszor javítottam a mondatot! — De még mindig hibás.
+__label__hun Nem tudom, hogyan csináljam ezt.
+__label__hun Igazi férfi nem vezet elektromos autót.
+__label__hun Én senkinek nem kellek.
+__label__hun Sami zsebhokizott.
+__label__hun Mikor jön ki az új könyve?
+__label__hun Így, vagy úgy, nem a te problémád.
+__label__hun Bill Gates a WHO fő adományozója.
+__label__hun — Megcsináltad? — Meg.
+__label__hun Te okos vagy. Ezt meg kellene értened.
+__label__hun Az ujgurok nem hasonlítanak a kínaiakra.
+__label__hun Csak meg tudja valaki szerelni!
+__label__hun Elegem van abból, hogy minden nap krumplit eszünk!
+__label__hun Még mindig dühösek rám.
+__label__hun Csak annyit kértem tőled, hogy látogasd meg.
+__label__hun Nem feküdhetsz itt egész nap magadat sajnáltatva!
+__label__hun Mi lenne velünk nélküled?
+__label__hun A nagymamánknak sok kutyája van.
+__label__hun Megittam egy felest és egy sört.
+__label__hun Az öcsém angolul tanul.
+__label__hun Meséket írok és a gyerekeim illusztrálják őket.
+__label__hun Tomot lecserélték egy robotra.
+__label__hun Összevesztünk és ő elment.
+__label__hun Te senkit nem szeretsz saját magadon kívül.
+__label__hun Én is úgy meg vagyok lepve, mint te.
+__label__hun — Nyelvet tanulni nehéz. — Neked a távirányítót megnyomni is nehéz.
+__label__hun Ez nem a te dolgod!
+__label__hun Vasile értésemre adta, hogy el akarja adni a házat.
+__label__hun Otthon törökül beszélünk.
+__label__hun Tom barátnője kanadai.
+__label__hun Én kellek neki.
+__label__hun Azt tervezem, hogy felveszem anyám nevét.
+__label__hun Végre hazaértünk!
+__label__hun Hányan mentek?
+__label__hun A chamtrail permetezést 2006-ban kezdték.
+__label__hun A válaszodra várok.
+__label__hun Hova teszi az állam a pénzünket?
+__label__hun Örökre megváltozott az életünk.
+__label__hun Hason csókoltam.
+__label__hun A kutya oda követte, ahova csak ment.
+__label__hun Szakítottunk. Már nincs rá szükségem.
+__label__hun Nem látott meg senki?
+__label__hun Nem akarok tőle semmit.
+__label__hun Az életük a pénz körül forog.
+__label__hun Szerintem nem fog esni holnap.
+__label__hun Szerfelett hálás vagyok önöknek.
+__label__hun Vagy tranzakciós díjat fizetsz vagy készpénzfelvételi díjat – a bankok minden esetben megfizettetik veled az extra adójukat.
+__label__hun Elnézést, hogy félbeszakítom.
+__label__hun — Madárinfluenza, sertéspestis, kergemarhakór – le kell ölni minden állatot. — Akkor tudunk enni Bill Gates féle műhúst.
+__label__hun Szörnyű a japánom.
+__label__hun A valóságtagadók nem hisznek el a szemüknek valamit, ha a média azt mondja nekik, hogy az nincs.
+__label__hun Neked ezt tudnod kellene; te fizika tanár vagy.
+__label__hun Tom tragikus esmény szemtanújává vált.
+__label__hun Ha jóllakott, akkor boldog.
+__label__hun Olyan szintű ignoranciát és pökhendiséget, mint ott, még soha nem tapasztaltam.
+__label__hun A nép pénzén fizetett rendőrség mindig a kormányt védi a néppel szemben.
+__label__hun Sok a légy.
+__label__hun Fent vagy Facén?
+__label__hun Bill Gates be akarja tiltatni az állattartást, hogy mindenki a kibaszott műhúsát vegye és egye.
+__label__hun Anna ananászt evett.
+__label__hun A fele már elfogyott.
+__label__hun Örömében zokogott.
+__label__hun Neked az egész világgal bajod van.
+__label__hun Miért így csinálja?
+__label__hun Türelmes legyél már, bazd meg!
+__label__hun Ismerd fel a valóságot!
+__label__hun Nem hiszem, hogy ma esni fog.
+__label__hun Kíváncsi lennék rá, mennyit keresett Bill Gates tisztán a Covid-pandémián, kormányok megvesztegetésének levonása után.
+__label__hun Hiszed vagy nem, ez az igazság.
+__label__hun A Biblia velem volt.
+__label__hun Újra egyedül van.
+__label__hun Hajlamos rá Tom, hogy eltúlozza a dolgokat.
+__label__hun Tom és Mary sorozatfüggők.
+__label__hun Ezt még meg fogod bánni.
+__label__hun Bob Gates visszaváltozott svábbogárrá.
+__label__hun Üldöz téged ez a kérdés.
+__label__hun Szakadatlanul szakadt az eső.
+__label__hun A távolban egy kunyhóféleség volt látható.
+__label__hun Kicsi a házam.
+__label__hun — Jaj, te minden összeesküvés-elméletet elhiszel! — Te meg a mainstream médiának hiszel el mindent.
+__label__hun Hittek nekünk.
+__label__hun Csak mi ketten mentünk el végül sátorozni?
+__label__hun Az óriás sárkány elvitte az égboltról a csillagokat.
+__label__hun Az állam mind kapzsibb és amellett zsugoribb.
+__label__hun Ez túl csípős.
+__label__hun Ez egy kizsákmányoló rendszer. Meg kell szüntetni!
+__label__hun Jobb vagy, mint ő.
+__label__hun Mindenki hitt nektek.
+__label__hun Ő vagy én menjek?
+__label__hun Németország bezáratta az atomerőműveit, most Franciaországtól veszi az áramot atomerőművekből.
+__label__hun Egy háborúnak csak vesztesei vannak a fegyvergyárosokon kívül.
+__label__hun Nem tudtam, miként válaszoljak a kérdésedre.
+__label__hun Már harminc éve tanár vagyok.
+__label__hun Nem cigizik és nem is iszik.
+__label__hun Hazudik, hogy az előző hazugságát fedezze.
+__label__hun Hosszú út vár ránk.
+__label__hun A bírót halálra késelte egy férfi prostituált.
+__label__hun Tom fojtogatja a kígyót.
+__label__hun Túl régóta él már egyedül.
+__label__hun Nem minden rózsaszín.
+__label__hun Egész életében csak álmodozott.
+__label__hun Az elnök öreg és demens.
+__label__hun Folyton csak panaszkodsz.
+__label__hun Te tényleg arra a lóra fogadtál?
+__label__hun Izlandról származnak.
+__label__hun Mondja meg, hová tette a térképet!
+__label__hun Csak két kezem van!
+__label__hun Azt mondta, házas.
+__label__hun Ő nyújtja a legjobb szolgáltatást.
+__label__hun Ezek valami belterjes idióták.
+__label__hun Nem tartod furcsának, hogy a gyilkos egy gyenge, vézna öregember?
+__label__hun Simán elhitték.
+__label__hun Bízol magadban.
+__label__hun Ez az ő háza.
+__label__hun Hosszú lesz a következő hét.
+__label__hun Kitartott mellettem jóban-rosszban.
+__label__hun Minél több évet eltölt valaki az oktatási rendszerben, annál kevésbé képtelen már józan paraszti ésszel gondolkozni.
+__label__hun A politika az emberek megvezetése. A politika a pénzek szétszórása. A politika a pénzek lenyúlása. A poltitika az emberek megosztása. A politika a népek közötti gyűlöletkeltés.
+__label__hun Anna az osztály legjobbja, és mégcsak nem is stréber.
+__label__hun Elmesélek nektek egy történetet, ami velem történt meg.
+__label__hun Eddig csak öten vagyunk összesen.
+__label__hun Mikor van rám szükségetek?
+__label__hun Egy üres tányér volt előtte.
+__label__hun Legjobban az emberek közönye bosszant.
+__label__hun Ők ezt elhiszik.
+__label__hun Ne adj rá neki okot!
+__label__hun Amerikai állampolgár vagyok.
+__label__hun Ezek a cuccok nekem már nem kellenek.
+__label__hun A gonosz király bezárta a Holdkirályt a pincéjébe.
+__label__hun Megcsókoltam a homlokát.
+__label__hun — Gyúrsz? — Ja. Hogy meg tudjam védeni a családomat.
+__label__hun Akkor együnk!
+__label__hun Ne vegye tőlem rossz néven!
+__label__hun — Te magyar vagy? — Nem, szlovák.
+__label__hun A hó csak hullt és hullt.
+__label__hun Nincs semmi bizonyíték rá, hogy a 77-es járat becsapódott volna a Pentagonba – egyetlen megtalált bőrönd, ülés, utas vagy akár videó.
+__label__hun Ez nem a legjobb minőség, de nem is rossz.
+__label__hun Ez egy picit túl nehéz.
+__label__hun Sokan állnak sorban.
+__label__hun Félek a kóborkutyáktól. Védj meg tőlük, jó?
+__label__hun Miattam mész el?
+__label__hun Nekik nem kell megtudniuk.
+__label__hun Most nem tudok erről beszélni.
+__label__hun Nem győz meg a magyarázatod.
+__label__hun De puccos autód van!
+__label__hun Maríát megcsókolta Don Diego, amit Don Alfonso látott a ló mögül.
+__label__hun Mindenki hitt nekünk.
+__label__hun Nem bírod el!?
+__label__hun A Seychelle-szigetekről való.
+__label__hun Te dobsz kétszer.
+__label__hun Egész testemben remegni kezdtem.
+__label__hun Ezt most komolyan kérdezed?
+__label__hun Az eső elmosta a nyomokat.
+__label__hun Ha elfelejteném, emlékeztess!
+__label__hun A világjatalmi elit a pedofília elfogadtatásán van.
+__label__hun Bioterroristák ezek.
+__label__hun Mire mutattál?
+__label__hun Amiről folyamatosan beszélnek a médiában, az az agenda része; mint a migránsválság, a Covid vagy a klímahiszti.
+__label__hun Ő az első nő, akivel elmentem valahova.
+__label__hun A világot s a benne lakókat teremtő Isten nem lakik emberi kéz emelte templomokban.
+__label__hun Mennyi ideje állsz és vársz?
+__label__hun Az emberek kezdték elhinni.
+__label__hun Nem hiszem, hogy van más lehetősége.
+__label__hun Miről lehet megtudni egy tojásról, hogy záptojás-e?
+__label__hun Széthullik a családunk.
+__label__hun Itt már nem vagyok biztonságban.
+__label__hun De hisz ezek üresek!
+__label__hun Ne maradjatok sokáig!
+__label__hun A politikusok a társadalom legkárosabb elemei.
+__label__hun Nem gyakorolja a vallását.
+__label__hun Vajon mennyit keresett Bill Gates tisztán a Covid-pandémián?
+__label__hun Rám senkinek nincs szüksége.
+__label__hun A tengerben lubizok.
+__label__hun Tom egy kicsit őrült.
+__label__hun Pocsolyák vannak mindenfelé, mert tegnap esett.
+__label__hun Eddig csak chat-en beszélgettünk.
+__label__hun Van csütörtökön egy szabad időpontom.
+__label__hun Ilyenekről nekem tulajdonképpen lövésem sincs.
+__label__hun Ez a mi titkunk.
+__label__hun Nevetésre semmi ok.
+__label__hun Úgy tűnik, fordul a szerencsénk.
+__label__hun Sok ideje nem marad Istvánnak a fiára.
+__label__hun Te mindent elhiszel.
+__label__hun Nem feküdhetsz itt egész nap!
+__label__hun No, együnk!
+__label__hun Nem láthatnak ők minket.
+__label__hun Nem érdekel, hogy hiszed-e vagy sem.
+__label__hun Messziről jött ember, azt mond, amit akar.
+__label__hun Tartsunk már egy szünetet az árnyékban!
+__label__hun Nem én írtam ezt az üzenetet.
+__label__hun Ezt mi alkottuk.
+__label__hun A politikusok hazug tolvajok.
+__label__hun Most akarok menni.
+__label__hun Jobb vagy nála.
+__label__hun Tom hajlamos a lustálkodásra.
+__label__hun Itt egy üzlet volt anno.
+__label__hun Ön végezte a műtétet?
+__label__hun Rendkívül hálás vagyok maguknak.
+__label__hun Néhány osztálytársad van itt.
+__label__hun Megpusziltam a hasát.
+__label__hun Hittem neki.
+__label__hun Azt mondtad, elveszel!
+__label__hun Én vagyok az új professzor.
+__label__hun A nyugat dekadenciáját belső erők vezérlik.
+__label__hun Pöpec verdád van!
+__label__hun Homlokon csókoltam.
+__label__hun Nem beszélek koreaiul.
+__label__hun Hideg vízben fürödtem.
+__label__hun Holnap nem jó, de a holnapután sem.
+__label__hun Milyen színű ez: zöld vagy kék?
+__label__hun El tudod azt képzelni?
+__label__hun Európa jóléti országai (Svájc, Ausztria, Finnország, Svédország és Norvégia) nem voltak tagjai a NATO-nak.
+__label__hun Douglas Adams az írók Salvador Dalija.
+__label__hun Nevetséges az elméleted.
+__label__hun A befagyott tóra hajtott a sofőr.
+__label__hun Igen! Ez az én lányom!
+__label__hun Miért mesélsz ilyen butaságot?
+__label__hun Dugjunk.
+__label__hun Az örömtől sírt.
+__label__hun Bassza meg a Világgazdasági Fórum!
+__label__hun Eddig türelmes voltam.
+__label__hun Sok házim van holnapra.
+__label__hun Vaddisznók túrták fel a kertemet.
+__label__hun Meg vannak kötve a kezeink.
+__label__hun Ki ír neked?
+__label__hun Ne is álmodjon róla, ez nem fog megtörténni.
+__label__hun Ismételten egyedül volt.
+__label__hun Az elnök két lábon járó zöldség.
+__label__hun Tudna várni egy percet?
+__label__hun Agenda 2030-as zászlót égettek.
+__label__hun Amíg kellett nekem, együtt voltunk.
+__label__hun Mikor lesz melegebb?
+__label__hun Sajnos ez egy globális folyamat; az egész világon ez van – hiába költözöl el.
+__label__hun Tedros Adhanom Ghebreyesus-t személyesen Bill Gates tette a WHO elnöki székébe.
+__label__hun Ha egy összeesküvés elméletet tagadni kell, akkor az már gyanús.
+__label__hun Elon Musk technokrata, ahogy a felmenői is azok voltak már.
+__label__hun Tomi és Mari nem merik kimondani a saját igazukat.
+__label__hun A harmadik albumán dolgozik.
+__label__hun Lehet enni.
+__label__hun Kettőnknek négy gyereke van.
+__label__hun A bomba úgy volt időzítve, hogy harminc perc elteltével robban.
+__label__hun Tudom, hogy nem vagy még felkészülve rá.
+__label__hun A boltban ugyan nincs meg minden, de a legszükségesebbek igen.
+__label__hun Fel kell készülnünk a következő világjárványra.
+__label__hun A vezeték el volt vágva.
+__label__hun Ezt abba kell hagynod.
+__label__hun Sört ittam.
+__label__hun Csak magamra haragszom.
+__label__hun Merre megyünk?
+__label__hun Ezek nem véletlenül történnek meg egymás után.
+__label__hun Megetted az ebédet?
+__label__hun Tönkre akarják tenni a gazdákat mindenhol.
+__label__hun Ez szerinted olyan nehéz?
+__label__hun Ez volt a legjobb az egész utazásban.
+__label__hun Hát most meg miért sírsz?
+__label__hun Még nincs jövő.
+__label__hun Tom szomorúnak tűnt.
+__label__hun Csak a szüleitől nem viseli el a kritikát.
+__label__hun Focizol vagy rögbizel?
+__label__hun Nehéz manapság jó segítséget találni.
+__label__hun Még mindig nem hallottam a válaszodat.
+__label__hun Látta önök közül valaki ezt a fiút?
+__label__hun Van sofőröm.
+__label__hun Beszélsz franciául, vagy nem?
+__label__hun A hajó nem magától süllyedt el.
+__label__hun Azáltal, hogy megszületsz, még nem leszel nemes.
+__label__hun A férjem egy nővel jött a házunkhoz, amikor én ott voltam a szeretőmmel.
+__label__hun Csak egy vékony fal választja el a két helyiséget.
+__label__hun Ahogy én látom, az emberek jobban szeretnek eredeti mondatokat fordítani.
+__label__hun Az Isten teremtette meg az embereket vagy az emberek az Istent?
+__label__hun Az elnök egy sétáló zöldség.
+__label__hun Oda nem mehettek!
+__label__hun Van egy eltitkolt fia.
+__label__hun Újra és újra büszke vagyok a mi Annánkra.
+__label__hun Békében akarunk élni.
+__label__hun Vizbe dugta a madár a fejét.
+__label__hun Nem elég mondani, csinálni is kell.
+__label__hun Szeretne még valaki beszélni?
+__label__hun Sajtot eszik és bort iszik.
+__label__hun Senki sem mondott olyat, hogy nincs pénz a szemétben.
+__label__hun Az MI-nek nincs humorérzéke.
+__label__hun Egyetek, igyatok, drága barátaim, amennyi csak belétek fér!
+__label__hun Nincs más megoldás, mint negszökni.
+__label__hun Próbálta nem mutatni a félelmét.
+__label__hun Tájékoztatnod kellett volna engem korábban.
+__label__hun Kevesebb mint negyedig van a benzintank.
+__label__hun Na, ha média állítja, hogy ez a valóság, akkor a valóság biztosan valami más.
+__label__hun A szabadság átbaszás a demokrácia meg délibáb.
+__label__hun Itt lakni nem olcsó.
+__label__hun Friss a hal.
+__label__hun Rövidítsd le ezt a mondatot kicsit.
+__label__hun Sok tanulnivaló van holnapra.
+__label__hun Kerested mindenütt?
+__label__hun Nem fürödtem, mert nem volt meleg víz.
+__label__hun Tudtam, hogy megszerzem őt magamnak.
+__label__hun Mi áll ott? Innen nem látom én.
+__label__hun Nagy ez az alma.
+__label__hun Próbáltam már így is meg úgy is...
+__label__hun Gyere át hozzám!
+__label__hun Nem ért sokat a mai napom.
+__label__hun Nem vagyok benne biztos, hogy valóban őt láttam.
+__label__hun A felesége japán.
+__label__hun Meg kell tanulnunk szeretni.
+__label__hun Ellopták a bankkártyámat.
+__label__hun Az osztály fele lány.
+__label__hun Ő is látja ezeket a dolgokat.
+__label__hun Amikor fiatal volt, népszerű volt.
+__label__hun Te egy igazi nyelvtanbuzi vagy és a Dudenre élvezel.
+__label__hun Valóban megéri ez?
+__label__hun De hiszen neked nincsenek is barátaid!
+__label__hun Véres volt az ingujja.
+__label__hun Tomi és Mari médiahívők; cinikusok azokkal szemben, akik nem hisznek már a médiának, és hajlamosak elfelejteni, mit hazudott a média két hete, két,éve vagy húsz éve.
+__label__hun Magamra haragszom.
+__label__hun Ők nem látnak minket.
+__label__hun Megjavították az autódat?
+__label__hun Mélyen megérintett a film.
+__label__hun Ráfagyott a levegő páratartalma.
+__label__hun Ő hogy van?
+__label__hun Keményebben dugj!
+__label__hun Ez baromi nagy bika! Ilyet még sosem láttam!
+__label__hun A feleségem tud rólad.
+__label__hun Megittam egy sört.
+__label__hun Vedd fel a kardigánom!
+__label__hun Ezt már nem érdemes megjavítani.
+__label__hun Van bármi fogalmad róla, ki ő?
+__label__hun Ez nem szószerinti fordítás, viszont ez tűnik a legtermészetesebbnek.
+__label__hun Holnap vásárolgatni fogok.
+__label__hun Megállás nélkül esett a hó.
+__label__hun Tom kiakasztotta a gigáját és gurította le a sört.
+__label__hun Gyerekkorom kondenzcsíkjai nem maradtak meg egy órán keresztül az égen.
+__label__hun Ő a harmadik fiam.
+__label__hun Sétált a fiú, és számolta a lépéseit.
+__label__hun Nem kell sokat várnotok.
+__label__hun Elmentem a könyvtárba fénymásolni.
+__label__hun Annyi év után is emlékezett még rám.
+__label__hun Ma nagyon meleg van kint.
+__label__hun Nem dohányzik és nem iszik.
+__label__hun Kémkednek utánunk.
+__label__hun Mikor lesz a következő kupa?
+__label__hun Hogy van a család?
+__label__hun Az igazság átbaszás.
+__label__hun Byrd admirális naplóját halála után a fia jelenttette meg.
+__label__hun Ezt ki találta?
+__label__hun Ez a legbiztonságosabb börtön.
+__label__hun Az optimisták rosszul informált pesszimisták.
+__label__hun Mindenki elhagyta a termet.
+__label__hun Nem jutottam sokra a mai napon.
+__label__hun Szerintem elfelejtett.
+__label__hun Eddig megvagyunk, de hogy ez után mi lesz...
+__label__hun A rendőrség nem a népet és az alkotmányt védi, hanem a kormányt.
+__label__hun Amerikai lakos vagyok.
+__label__hun A kutya mindenhova követte, ahova csak ment.
+__label__hun Mondjad, merre menjek!
+__label__hun Kék szemeik vannak.
+__label__hun Nem tudják elkezdeni nélkülem.
+__label__hun Hajlamos rá Tom, hogy eltúlozzon dolgokat.
+__label__hun Korábbit jobban bírtam.
+__label__hun Ez a legjobb variáns.
+__label__hun Apám két évvel fiatalabb, mint az anyám.
+__label__hun Láttad is?
+__label__hun Nem találták a kutyáikat.
+__label__hun Én is félek kicsit.
+__label__hun Az embereknek néha szüksége van rá, hogy egymagukban legyenek.
+__label__hun Még mindig nem vagytok készen!?
+__label__hun Nem látom a csillagokat, be van borulva.
+__label__hun Hogyan jutok oda?
+__label__hun A befektetés rövid távon veszteség, hosszú távon nyereség.
+__label__hun Nem mertek nemet mondani.
+__label__hun Eleget áldoztunk.
+__label__hun Megmondtam, hogy minden rendben!
+__label__hun Ez most egy csók volt?
+__label__hun Megjavítottad a dudát?
+__label__hun Amikor Tomi ismét magához tért, sötét volt a helyiségben.
+__label__hun Hittünk neki.
+__label__hun Ők nem emberek.
+__label__hun Kérnek bort?
+__label__hun — Itt forduljon balra! Ballra! Ballra! — Melyik bal? — A másik bal! Amelyik kézen jobboldalt van a hüvelykujj! Molnár úr! Most hajtson oda hátulra, a parkolóba és forduljon meg!
+__label__hun Nem ettél és nem ittál ma.
+__label__hun Lássunk neki enni!
+__label__hun Azt hittük, egyedül vagyunk.
+__label__hun Megkaptad, ami kell neked?
+__label__hun Tom még mindig a szülei mellett alszik.
+__label__hun Szeretem a száraz bort.
+__label__hun — Mikor érsz rá? — Mire?
+__label__hun A Big Brother célja, hogy az embereket szoktassa a gondolathoz, hogy kamerákkal megfigyelt világban élnek.
+__label__hun A "klímaváltozás" miatt legelőször és legfőképpen meg kell szüntetni a magánrepülőket, jachtokat és óceánjárókat.
+__label__hun Megvan a véleményem, csak nem mondom inkább el.
+__label__hun A jaguárok levadásszák a lajhárokat, amikor azok lejönnek a lombkoronából kakkantani.
+__label__hun A temetésén sem voltam ott.
+__label__hun Nálunk minden van a boltban.
+__label__hun Hittek nekik.
+__label__hun Remélem, nincs nagy baj.
+__label__hun Fiatal korában közkedvelt volt.
+__label__hun A vendéglátóiparban mosolyognod kell.
+__label__hun Egy fülbemászó dallamot a legegyszerűbben egy másikkal lehet elűzni.
+__label__hun Jöjjetek közelebb! Nem akarom, hogy más is hallja, amit mondok.
+__label__hun Fölöttébb hálas vagyok önnek.
+__label__hun Hagytam, hogy megcsókoljon.
+__label__hun Meg tudsz tanítani?
+__label__hun Neki nem kellettek gyerekek. Egy igazi egoista ember.
+__label__hun A mindenit! Nem gondoltam volna ezt Istvánról! Mestermunka volt, ahogy egyedül kivágta magát ebben a vitában öt emberrel szemben, beleértve a moderátort is.
+__label__hun Kizsákmányoló rendszer ez.
+__label__hun Nem vagyok képes megoldani ezt.
+__label__hun Hittek neked.
+__label__hun Annalena Baerbock Németország szégyene, totálisan alkalmatlan politikusnak.
+__label__hun Nyolcmilliárd ember él a Földön.
+__label__hun Csak mi voltunk ott.
+__label__hun Senkinek nem kell egymilliárd dollár az élethez. Ezek lelkileg beteg vagy elmeháborodott, istentelen emberek.
+__label__hun Én olyan voltam, mint te most.
+__label__hun Megint aktív a vulkán.
+__label__hun Elektromos autót csak a buzik vesznek.
+__label__hun Nem tesz mást, csak nyafog egész nap.
+__label__hun No, várj csak! Ezt visszakapod még!
+__label__hun Egyenes vonalat rajzolt a papírra.
+__label__hun Ha-ha.
+__label__hun Hulk kettétépte a miniszterelnököt.
+__label__hun Ostobaság lenne azt állitani, hogy ez csak politika; hiszen ez az életünk.
+__label__hun Ezt eddig még senki másnak nem mondtam el.
+__label__hun Másik szakmát kell kitanulnom.
+__label__hun — Vettem egy tojást. — Nem tudsz egy tojást venni.
+__label__hun Én csak téged szeretlek!
+__label__hun Egészséges leszek megint?
+__label__hun Kac-kac.
+__label__hun Hol a hal?
+__label__hun A kutyák sokszor elássák a csontot.
+__label__hun Uralkodott az érzésein.
+__label__hun Látta valamelyőtök ezt a fiút?
+__label__hun Senki sem hitt nekik.
+__label__hun Meztelennek éreztem magam a fegyverem nélkül.
+__label__hun A Disney új sorozatában Romolusz egy afrikai nő, akinek öccse, Ábel, egy nemátalakitó műtéten esett át.
+__label__hun Baszd meg az alapelveidet!
+__label__hun Mit ünneplünk?
+__label__hun Velem senki nem akar lefeküdni.
+__label__hun Apám golfozik, de nem valami jól.
+__label__hun Nem a fiunk pólóját vetted fel?
+__label__hun Leszarja a következményeket.
+__label__hun A boltban vett csirke fele antibiotikum és hormonok.
+__label__hun Ha segítek magának, engem kirúgnak.
+__label__hun A történelem tele van ferdítésekkel.
+__label__hun — Hol tanult meg Schwarzenegger angolul? — Gondolom, a Kijevi Haditengerészeti Főiskolán.
+__label__hun Csomó embernek tartozom rakás pénzzel.
+__label__hun Hitler és Angela Merkel is fel lett terjesztve Nobel békedíjra.
+__label__hun Tom majd ki bújik a bőréből örömében.
+__label__hun Jó lenne, de ez soha nem fog megvalósulni.
+__label__hun A fa árnyéka a falra vetült.
+__label__hun Na, elfogyott a kraft?
+__label__hun Tom előszeretettel beszél franciául.
+__label__hun Tom besokalt ebből a megerőltető szakmából.
+__label__hun A klímavédelem érdekében legelőször be kellene tiltani a magánrepülőket és yachtokat és az óceánjáró hajókat.
+__label__hun A nőkkel szépen kell beszélni.
+__label__hun A tó is befagyott.
+__label__hun Hazudni tudni kell.
+__label__hun Nekem elég volt mára a sokkhatásokból. Ki vagyok, mint állat!
+__label__hun Kac-kac-kukac.
+__label__hun Azt állítva, hogy a Covid-19 pandémia átbaszás, Tom elutasítja a maszk hordását.
+__label__hun Tom nem szereti a háziállatokat.
+__label__hun Befolyásos barátokra van szükségem.
+__label__hun Van fogalmad róla, ki ő?
+__label__hun — Nem feküdhetsz itt egész nap! — Miért nem?
+__label__hun Hét nyelven beszél. Berber és francia az anyanyelve.
+__label__hun Néha az az érzésem, hogy Tom szeret az emberek agyára menni.
+__label__hun A tömeg Bill Gates letartóztatását követelte.
+__label__hun Hosszú a sor.
+__label__hun Túlenni magad nem tesz jót az egészségednek.
+__label__hun Nem tudok semmit se mondani erről.
+__label__hun Minden költözéskor elveszett valamim.
+__label__hun Hittél Tomnak?
+__label__hun Ez nem csúcsszuper minőség, viszont nem is gagyi.
+__label__hun Ez a ló nagyon sokba kerül.
+__label__hun Nézd, ez olcsóbb!
+__label__hun Ki ez az úri picsa!?
+__label__hun Már ők nyertek.
+__label__hun Folyamatosan csak sír a szád!
+__label__hun Elment orvoshoz.
+__label__hun Az életnek nincs értelme, míg nem adsz neki.
+__label__hun Te nem mehetsz oda!
+__label__hun A WEF milliárdos gecikből áll.
+__label__hun Magamra hagynátok?
+__label__hun Az alvás nem pótolható.
+__label__hun Magasabb már, mint az apja.
+__label__hun Senki sem hitt nekünk.
+__label__hun Vártam, amíg kiszabadulsz.
+__label__hun Ők nem akarják ezeket látni.
+__label__hun Faszom ebbe az időjárásba!
+__label__hun A szerelmet nem lehet kikényszeríteni.
+__label__hun Ezt csak az nem látja, aki nem akarja látni.
+__label__hun A fivérem angolul tanul.
+__label__hun Add neki azokat.
+__label__hun Nincs időm várni.
+__label__hun Kínában soha sem volt igazából demokrácia.
+__label__hun Mari annyit sírt, hogy egy új tenger alakult ki.
+__label__hun Merem remélni!
+__label__hun Ilyen szépet még nem mondott nekem senki.
+__label__hun Te egy gyerek vagy.
+__label__hun Nem ezért teszem.
+__label__hun Nem, nem akarok.
+__label__hun Baszd meg a diplomádat!
+__label__hun Rab vagy?
+__label__hun Ő álmaim nője.
+__label__hun A szerződés automatikusan meghosszabbodik évenként.
+__label__hun Ő megkapott mindent.
+__label__hun Nincs hűvös a házban.
+__label__hun Tomnak nehéz gyerekkora volt.
+__label__hun Jó jel volt.
+__label__hun Megittam egy rövidet és egy sört.
+__label__hun Románul akarok tanulni.
+__label__hun Nem ön a polgármester?
+__label__hun Fenn vagy Faszbukon?
+__label__hun Ne engedd a gyerekeket idejönni!
+__label__hun Nem hinném, hogy az igazság feltárása gyűlöletbeszéd lenne; viszont az elhallgatása sokkal inkább idiótizmus.
+__label__hun Nem, én nem hiszek abban, amit ti mondotok.
+__label__hun Az embereknek ez nem tetszik, mégis ezt csinálják.
+__label__hun — Miért mosolyogsz? — Miért? Kell a mosolygáshoz indok?
+__label__hun Eddig csak chat-eltünk egymással.
+__label__hun Ha nem tévedek, láttam már ezt az embert valamikor.
+__label__hun Hogy a Földön valóban nyolcmilliárd ember él-e vagy csak mondják, fogalmam sincs.
+__label__hun Ma akarok elmenni.
+__label__hun A történelem csupa hazugság.
+__label__hun Ez a legnehezebb a munkámban.
+__label__hun Spanyolt és angolt tanítok.
+__label__hun Gyere fel hozzám!
+__label__hun Szívesen szendergek ebéd után.
+__label__hun Katolikus, de nem jár templomba.
+__label__hun Válaszokat kell kapjak.
+__label__hun A tököm tele van ezekkel a vén, faszkalap milliárdosokkal, akik jó ember látszatát akarják keltetni magukról!
+__label__hun Igazán szimpatikusnak találom azokat, akik visszautasítják az Oscar és Nobel díjat.
+__label__hun Próbálj meg aludni!
+__label__hun A piramisok nem sírhelyek; egy múmiát sem találtak még piramisokban.
+__label__hun Gyorsabban kéne dolgoznunk.
+__label__hun Jó fizetése van.
+__label__hun A gyerekek almát esznek.
+__label__hun A fénymásolót jött megszerelni?
+__label__hun Magyarul beszél.
+__label__hun Mire kértelek én téged?
+__label__hun Vasárnap soha nem vagyok otthon.
+__label__hun A bátyám angolul tanul.
+__label__hun Hajamos rá Tom, hogy túlgondoljon dolgokat.
+__label__hun Tudom, hogy ez neked nem könnyű.
+__label__hun Vannak ezeknek a gyerekeknek szüleik?
+__label__hun Ha az igazság leírása gyűlöletbeszéd, akkor az igazság bizonyára ronda dolog.
+__label__hun Nem tehetem meg, hogy több időt veszítsek.
+__label__hun Bill Gates a mesterséges hús atyja.
+__label__hun Kitanultam nála a kovács mesterséget.
+__label__hun A miniszterelnök neve nálunk a családban egy szitokszó.
+__label__hun Miért halt meg?
+__label__hun Itt volt a párkányon egy kék madár.
+__label__hun Van valami bajod velem?
+__label__hun Tom helyettesít majd engem.
+__label__hun Mondj mindig igazat!
+__label__hun Gyertek közelebb! Nem akarok hangosan beszélni.
+__label__hun Te senkit nem szeretsz.
+__label__hun Tom van sapkája, nincs sapkája játékot játszik az egyszeművel.
+__label__hun Mi az a haiku?
+__label__hun Tomnak rákja volt.
+__label__hun Kerékpárral megy munkába.
+__label__hun Kérem, üljön le, jó?
+__label__hun A politikusok és a bankármaffia kirabolnak minket és mi nem teszünk ellene semmit.
+__label__hun Megkérhetném, hogy Tom csinálja meg?
+__label__hun Egész évben itt fogok maradni.
+__label__hun Kit hallottál?
+__label__hun Egy sört ittam.
+__label__hun Nem tarthatod meg az összes kismacskát!
+__label__hun A nővérem fia annyi idős, mint a kisebbik öcsém.
+__label__hun A biztosítónk nem egy jótékonysági intézmény, világos, kollégák?
+__label__hun Együnk hát!
+__label__hun Lakásban élek.
+__label__hun Tudod, mi baja a fénymásolónak?
+__label__hun Jöjj kicsit közelebb, és jobban fogod látni.
+__label__hun Valami nem oké a lifttel.
+__label__hun Az örömtől sírni kezdett.
+__label__hun Valaki biztos meg tudja csinálni.
+__label__hun Az ő országában 60 éve jólét van már, és nem tudja elképzelni, hogy ez máshogy legyen.
+__label__hun Megtalálták a gyilkos fegyvert?
+__label__hun Egy medúza volt a hátán.
+__label__hun Lovagolni tanulok.
+__label__hun Na, együnk!
+__label__hun Szükségét látom, hogy beavatkozzam.
+__label__hun Fizess több adót, és megszűnik az ózonlyuk.
+__label__hun Ez velem történt meg.
+__label__hun Most megyünk enni.
+__label__hun Amerika Ukrajnán keresztül akarja behozni Európába a GMO-s gabonát.
+__label__hun Úgy tett Tom, mint aki nem látná, mi történik.
+__label__hun Ha a média mondja, akkor biztosan úgy van.
+__label__hun Változásokra van itt szükség.
+__label__hun Nekem holnapra kell.
+__label__hun Más és más a célunk.
+__label__hun Mindig fordítva van rajta a baseball sapka.
+__label__hun Bassza meg magát bill gates!
+__label__hun Csak hárman vagyunk.
+__label__hun Tudod, mit akarsz csinálni?
+__label__hun Ötnapos munkahetünk van.
+__label__hun Nagyon szép nő volt, de most borzalmasan sovány.
+__label__hun A legnehezebbet kérem tőletek: Gondolkodjatok!
+__label__hun Éhes vagyok még.
+__label__hun Igen, kettőt.
+__label__hun Megcsinálták az autód?
+__label__hun Szeretnék egy autót és egy nagyobb házat.
+__label__hun Isten hozott a kémia világában!
+__label__hun Mi a te dolgod?
+__label__hun Nálunk minden megtalálható a boltban.
+__label__hun A holdraszállások nem voltak kamuk. Egyszerűen csak elfelejtették azt a technológiát.
+__label__hun Hittek nekem.
+__label__hun Tegnap még csak húsz-harmincan voltunk, ma meg már több százan.
+__label__hun Szeretnéd, hogy most egyedül hagyjunk inkább?
+__label__hun Isten dühös most ránk.
+__label__hun A politikusok herék.
+__label__hun Sok vizet használok el.
+__label__hun Így hívnak néhányan.
+__label__hun Davosban összegyűltek megint a geciládák.
+__label__hun A gyerekekre az egyik nagynénjük vigyázott.
+__label__hun Ezt tanitják az iskolában és ezt kell tudni a gyerekeknek, de tudjuk, hogy ez nem igaz.
+__label__hun Csak egy sört ittam.
+__label__hun — Csodás az este, nem gondolod? — De igen, csak nagy a hőség.
+__label__hun Ismét egyedül volt.
+__label__hun A jó embereknek nincs egymilliárd dollárjuk.
+__label__hun A Föld kétharmadát fedi víz.
+__label__hun Zenét kellene hallgatni.
+__label__hun Ezt én soha nem engedhetném meg magamnak.
+__label__hun Nem bírtam megállni röhögés nélkül.
+__label__hun Néha a média is mond igazat.
+__label__hun Most már az enyém.
+__label__hun Ezt most őszintén kérdezem.
+__label__hun Holnap nem jó.
+__label__hun Hétfőnként miért van sok kocsma zárva?
+__label__hun Simán bevették.
+__label__hun Fél kézzel beledöngöllek a földbe.
+__label__hun Úgy tűnik, nincs más választási lehetőségünk.
+__label__hun A tetőt javítjuk.
+__label__hun Csak nagyon kevesen vették ezt egyáltalán észre.
+__label__hun Ezek a politikusok egyertelműen a globalistákat szolgálják.
+__label__hun Tom elkészült.
+__label__hun Skacok, láttatok valamit?
+__label__hun Most hol él ő?
+__label__hun Szerbiai magyar vagyok.
+__label__slk Mal som to urobiť už dávno.
+__label__slk Je to, čo ste práve povedali, niečo dôležité, niečo nové?
+__label__slk Kedy som to urobil?
+__label__slk Nie je to len ilegálne, ale aj nebezpečné.
+__label__slk Obúvame sa.
+__label__slk Jedna minúta má šesťdesiat sekúnd.
+__label__slk Tom mi povedal, že má v úmysle vyhrať.
+__label__slk Je tvoj brat s nimi?
+__label__slk Tom nechce byť veterinárom.
+__label__slk Tom je smutný.
+__label__slk Opäť ste to urobili.
+__label__slk Hádajte, čo povedal Tom.
+__label__slk Pozná moju ženu.
+__label__slk Prečo si stále s ňou?
+__label__slk Dokončím to do hodiny.
+__label__slk Tom veľa rozpráva o svojej bývalej priateľke.
+__label__slk Je vám jedno, čo sa stalo?
+__label__slk Potrebujem ho.
+__label__slk Musí ísť.
+__label__slk Budúci mesiac budem mať šestnásť.
+__label__slk Táto budova bola určená k demolácii.
+__label__slk Prečo je obloha modrá?
+__label__slk Znamená to, že ju kúpiš?
+__label__slk Dobre. Čo mám zaspievať?
+__label__slk Ani neviem, čo to znamená.
+__label__slk Zriedka chodím do knižnice.
+__label__slk Sú nejaké otázky?
+__label__slk Neboli si istí svojimi odpoveďami.
+__label__slk Poznáte odpoveď?
+__label__slk Ten kvet je pre ňu veľmi dôležitý.
+__label__slk Určite ti to nemôžeme vyčítať.
+__label__slk V pondelok nepracujem.
+__label__slk Tom celý čas mlčal.
+__label__slk Videl si ho v parku?
+__label__slk Čo vám povedala?
+__label__slk Prosím, neotvárajte okno.
+__label__slk Choď do kelu.
+__label__slk Ako sa hláskuje jej meno?
+__label__slk Ničoho sa nechytajte.
+__label__slk Kto ťa udrel?
+__label__slk Nehovorím francúzsky.
+__label__slk „Koľko si doniesol?“ „Dosť pre všetkých.“
+__label__slk Sú na pláži.
+__label__slk Vy dvaja ste rozkošní.
+__label__slk Deti sa naháňajú na dvore.
+__label__slk Prosím, nepribližuj sa k sporáku.
+__label__slk Udri Toma.
+__label__slk Je to ťažké ako olovo.
+__label__slk Sýty hladnému neverí.
+__label__slk Máte milenca?
+__label__slk Predstavil rodine svoju snúbenicu.
+__label__slk Dobre ovláda francúzštinu.
+__label__slk Vôbec to nebolo také skvelé.
+__label__slk Neide nám teplá voda.
+__label__slk Už sa sem nikdy nevracajte!
+__label__slk Idem do toho!
+__label__slk Jamal by pre ňu zomrel.
+__label__slk Aký je dnes dátum?
+__label__slk Čítala si to pozorne?
+__label__slk Chcem to zoradiť podľa abecedy.
+__label__slk Rozhodla sa presťahovať do Belgicka.
+__label__slk Odišla so svojimi priateľmi.
+__label__slk Nie som si istý, či vám verím.
+__label__slk Pokračujte v tom!
+__label__slk Začali s jednoduchými vetami.
+__label__slk Nehovorím fínsky.
+__label__slk Ukázali mi veľa pekných fotografií.
+__label__slk Kto pije pivo?
+__label__slk O chvíľu to skončí.
+__label__slk Chcem sa stať učiteľkou.
+__label__slk Robím, čo môžem.
+__label__slk Pýtaj sa!
+__label__slk Deti sa hrajú na policajtov.
+__label__slk Akej farby je obloha?
+__label__slk Na tom ani nezáleží.
+__label__slk Koľko dlžíš Tomovi?
+__label__slk Rezervácie sú nutné.
+__label__slk Vidím ľad.
+__label__slk Počas vojny boli ceny prísne regulované.
+__label__slk Nepokazte prekvapenie.
+__label__slk Myslíme, že príde.
+__label__slk Môj pes je rýchly.
+__label__slk Kde je najbližšia umelecká galéria?
+__label__slk Iba sa pýtam.
+__label__slk Spýtajte sa ho, kedy odlieta ďalšie lietadlo.
+__label__slk Už si si urobil všetky domáce úlohy?
+__label__slk Ako ste zbohatli?
+__label__slk Kurnik!
+__label__slk Koľko peňazí dlžíte Tomovi?
+__label__slk Našla ich Tomova dcéra.
+__label__slk Chcem sa stať učiteľom.
+__label__slk Jej odpoveď je správna.
+__label__slk Dali ste jej odpoveď?
+__label__slk Mami, idem do školy. Maj sa!
+__label__slk To je dievča, ktoré poznám dobre.
+__label__slk Skočme do vody.
+__label__slk Dnes je sviatok?
+__label__slk Nemusíte sa ospravedlňovať.
+__label__slk Kedy prídeš?
+__label__slk Vrátim sa o pol hodiny.
+__label__slk Dobrá otázka.
+__label__slk Byť či nebyť?
+__label__slk Moje meno je Ľudovít.
+__label__slk Prosím, nechajte ma na chvíľu na pokoji.
+__label__slk Dobre, kto ste?
+__label__slk Vymažte niekto, prosím, túto vetu.
+__label__slk Nehovorím rusky.
+__label__slk Urobia to.
+__label__slk Umývadlo je špinavé.
+__label__slk Bav sa!
+__label__slk Nikto sa nepýtal.
+__label__slk Mám zlomený členok.
+__label__slk Tom je muž.
+__label__slk Slnko je hviezda.
+__label__slk Čo si myslíš o tejto knihe?
+__label__slk Ďakujem!
+__label__slk Tom sa nebál Mary.
+__label__slk Ja viem, že Tom vedel, prečo by to mal urobiť.
+__label__slk Šli sme sa poprechádzať na pláži.
+__label__slk Obed je hotový.
+__label__slk Som proti vojne.
+__label__slk Koľko dlžíte Tomovi?
+__label__slk Vieme, že si to bol ty, kto rozbil okno.
+__label__slk Hrad je na druhom brehu rieky.
+__label__slk Môžeme sa spoliehať iba sami na seba.
+__label__slk Komáre zmizli.
+__label__slk O ôsmej som zjedla raňajky.
+__label__slk Nehovorím švédsky.
+__label__slk Zamrzol mi počítač.
+__label__slk Každý hľadá šťastie.
+__label__slk Hneď prídem.
+__label__slk Nie je dokonalá.
+__label__slk Nepoznám ťa veľmi dobre.
+__label__slk Tom a Mary ešte nie sú dosť starí na to, aby sa vzali.
+__label__slk Tom pozerá film.
+__label__slk Dáte si ešte piva?
+__label__slk To je tá kniha, o ktorej som ti hovoril.
+__label__slk Tom je zubár.
+__label__slk Na čom ste sa dohodli?
+__label__slk Oboch ich poznám.
+__label__slk Spadol do studne.
+__label__slk Necítim to.
+__label__slk Niekto sa vyhrážal, že zabije toho politika.
+__label__slk Chcel som sa ľuďom páčiť.
+__label__slk Nie som veľmi unavený.
+__label__slk Čosi padá zo strechy.
+__label__slk Správate sa k sebe ako cudzinci.
+__label__slk Byť či nebyť, to je otázka.
+__label__slk Myslela som, že neznášaš Halloween.
+__label__slk Bude to úžasné.
+__label__slk Nezradím ťa.
+__label__slk Christian je najznámejší z týchto troch.
+__label__slk Dúfam, že sa nič zlé nestalo.
+__label__slk Vieš rozoznať ovcu od kozy?
+__label__slk Zacítil som dym.
+__label__slk Zabrzdi.
+__label__slk Motýľ!
+__label__slk Moja priateľka je odo mňa o tri roky mladšia.
+__label__slk To je všetko!
+__label__slk Nie je perfektná.
+__label__slk Tom nebude čakať Máriu.
+__label__slk To je hrad, ktorý sme navštívili minulý týždeň.
+__label__slk Poď, nech ťa učešem.
+__label__slk Málokedy sa mi ozve.
+__label__slk Chcem Vás vidieť zajtra.
+__label__slk Tom sa stále ospravedlňoval.
+__label__slk Záleží na tom?
+__label__slk Na Zemi je sedem kontinentov.
+__label__slk Maj sa!
+__label__slk Viem, ako na to.
+__label__slk Čo tak sa prejsť po pláži?
+__label__slk Prečo pes hrabe?
+__label__slk Kam pôjdeš?
+__label__slk Zajtra budem zaneprázdnený.
+__label__slk Niekto sa ma dotkol.
+__label__slk Ber si príklad zo svojej sestry.
+__label__slk Mám rád mandle.
+__label__slk V pondelok je sviatok.
+__label__slk Príroda je prekrásna.
+__label__slk Pošlite mi to.
+__label__slk Je čas ísť.
+__label__slk Čo si myslíte o tejto knihe?
+__label__slk Ešte som si na to nezvykla.
+__label__slk Nedávaj mi to!
+__label__slk Tom jej znova zavolal.
+__label__slk Tom mohol ochorieť.
+__label__slk Využiješ to alebo to mám vyhodiť?
+__label__slk Kde je ryba?
+__label__slk Dnes večer sa osprchujem.
+__label__slk Nie som perfektný.
+__label__slk Odpustil som Tomovi.
+__label__slk Budeš dnes naobed doma?
+__label__slk „Bol si včera doma?“ „Nie.“
+__label__slk Použi svoj mozog.
+__label__slk Myslím, že som v poriadku.
+__label__slk Zem je guľatá.
+__label__slk Má rada kávu.
+__label__slk Je mi jedno, či príde alebo nie.
+__label__slk „Chcem domov.“ „Ja tiež.“
+__label__slk Som presvedčený o jeho nevine.
+__label__slk Vrhol na mňa zúrivý pohľad.
+__label__slk Môžete sa vrátiť domov.
+__label__slk Nikto ma to nenaučil.
+__label__slk Koľko pomarančov si kúpil?
+__label__slk Ten film má štyri nominácie na Oscara.
+__label__slk Zajtra môžete urobiť viac.
+__label__slk Nie je to časť oficálneho plánu.
+__label__slk Prečo je tráva zelená?
+__label__slk Cítil som, že sa mi trasú ruky a prudko bije srdce.
+__label__slk Ale no tak.
+__label__slk Sme spojení večným putom.
+__label__slk Stretla som ich len trikrát.
+__label__slk Moje srdce je zlomené.
+__label__slk Toto je mandľa.
+__label__slk O to nejde.
+__label__slk Ničoho sa nedotýkaj.
+__label__slk Nákup slov nestojí peniaze.
+__label__slk Je odo mňa o päť rokov mladšia.
+__label__slk Môžeš sa vrátiť domov.
+__label__slk Nemám CD prehrávač, ale aj tak som kúpila CDčko.
+__label__slk Stmieva sa.
+__label__slk Ako dlho žije korytnačka?
+__label__slk Chceš sladkosti?
+__label__slk Každý vek má svoje povinnosti.
+__label__slk Nikdy som si nemyslela, že sa to stane.
+__label__slk Musíme Toma nájsť predtým, ako ho nájde Mária.
+__label__slk Čo to presne znamená?
+__label__slk Odpovedal na otázku.
+__label__slk Choď do piči.
+__label__slk Dnes je nedeľa?
+__label__slk Využila moju nevedomosť.
+__label__slk Koľko pomarančov ste kúpili?
+__label__slk Priemerná teplota sa zvýšila.
+__label__slk Vieš odpoveď?
+__label__slk Chcela by som sa stať kresťankou.
+__label__slk Hej, počúvaj ma!
+__label__slk Je takmer pol tretej.
+__label__slk Ešte som si na to nezvykol.
+__label__slk Je to kôň.
+__label__slk Ako sa píše toto slovo?
+__label__slk Vidím sa.
+__label__slk V mladosti si mnoho vytrpel.
+__label__slk Včera som bol v Tokiu.
+__label__slk Tom stratil môj rešpekt, keď dal výpoveď.
+__label__slk Nečakám nikoho.
+__label__slk Žirafy majú hrubú kožu.
+__label__slk Ryba je čerstvá.
+__label__slk Volám sa Quy
+__label__slk Boh je slon.
+__label__slk Tom nešiel k lekárovi.
+__label__slk Videla si ho v parku?
+__label__slk Sťažoval sa, že polievka je príliš horúca.
+__label__slk Auto bolo opustené.
+__label__slk Býva Marika ešte stále s rodičmi?
+__label__slk Je piatok?
+__label__slk Chcel som byť s tebou.
+__label__slk Mama, ľúbim ťa!
+__label__slk Aká je zima!
+__label__slk Mám svalovku.
+__label__slk Nepokaz prekvapenie.
+__label__slk Potrebujem múku.
+__label__slk Trvá to príliš dlho.
+__label__slk Kto bol na večierku okrem Jacka a Márie?
+__label__slk To mi ide najlepšie.
+__label__slk Hrozná tragédia 😢.
+__label__slk Idem priamo do kuchyne.
+__label__slk Vysvetlím vám to.
+__label__slk Tom včera veľa pil.
+__label__slk Po výhre v lotérii sa vybrala na nákupy.
+__label__slk Možno to zasa nie je až taký dobrý nápad.
+__label__slk Zmeň cieľ.
+__label__slk Čo môžeš urobiť dnes, neodkladaj na zajtra.
+__label__slk Sami požiadal o rozvod.
+__label__slk Nie som si istá, či ti verím.
+__label__slk Poľsko sa nachádza v strednej Európe a zdieľa hranice s Nemeckom na západe, Českou republikou a Slovenskom na juhu a Ukrajinou, Bieloruskom, Litvou a kúskom Ruska na východe.
+__label__slk Nikdy som ho nevidel.
+__label__slk Nehovorím po nemecky.
+__label__slk To nebol dôvod.
+__label__slk Mám bicykel.
+__label__slk Pes stále brechal.
+__label__slk Bolí ma brucho.
+__label__slk Ešte stále nie som prezlečená.
+__label__slk Tom je momentálne v Austrálii.
+__label__slk Ospravedlnili sme sa.
+__label__slk Zoo je otvorená.
+__label__slk Nehovorím po čínsky.
+__label__slk Nemá meno.
+__label__slk Pizza je tu.
+__label__slk Včera večer som sledoval televíziu.
+__label__slk Prišla hodinu po stanovenom čase.
+__label__slk Dlho sme sa nevideli, Bill.
+__label__slk Dnes večer ideme do divadla.
+__label__slk Prezúvame sa.
+__label__slk Povedal ti Tom, kto to bol?
+__label__slk Tom všetkých pozval.
+__label__slk Ak budem mať čas, prídem.
+__label__slk Bývaj s nami.
+__label__slk Už mám toho plné zuby.
+__label__slk Objal ju.
+__label__slk Skrýval svoje emócie a predstieral nadšenie.
+__label__slk Spánok je dôležitý.
+__label__slk Tom plakal.
+__label__slk Naozaj chápem, čo máš na mysli.
+__label__slk Toto ma nezastaví.
+__label__slk Už o tom nechcem počuť ani slovo.
+__label__slk Nenastupuj do auta k cudzincom.
+__label__slk To dievča mi behá po rozume.
+__label__slk Nehovorím poľsky.
+__label__slk Máš nejaké otázky?
+__label__slk Dali Tomovi kúsok torty.
+__label__slk Ešte tu nie sú.
+__label__slk Aké rýchle je to lietadlo!
+__label__slk Nechceme vás tu.
+__label__slk Treba dokúpiť toner do tlačiarne.
+__label__slk Nepúšťaj moju ruku, lebo sa stratíš.
+__label__slk Vrátil si sa.
+__label__slk Dva a dva sú štyri.
+__label__slk Hovoríš po slovensky?
+__label__slk Tebe sa to ľahko hovorí.
+__label__slk Stretol som ich iba tri razy.
+__label__slk Ničoho sa nedotýkajte.
+__label__slk Deti sa hrajú v parku.
+__label__slk Povedal mi, aby som poňho prišla o tretej.
+__label__slk Bush verí v Boha.
+__label__slk Pohni si!
+__label__slk Veverička mu jedla z ruky.
+__label__slk Akej farby je auto?
+__label__slk Horúčava zabíja ľudí.
+__label__slk „Aký je dnes deň?“ „Štvrtok.“
+__label__slk Krym je poloostrov.
+__label__slk Sú Taliani?
+__label__slk Treba pozametať podlahu.
+__label__slk Si Rus?
+__label__slk Si neuveriteľne krásna.
+__label__slk Vyhodil som ju.
+__label__slk Môžeš ich tam odviezť?
+__label__slk Povedal vám Tom, kto to bol?
+__label__slk Rád spím.
+__label__slk Tom bol príliš hrdý priznať, že Mária mala pravdu a on sa mýlil.
+__label__slk Tom pozná Máriu.
+__label__slk Nezabudnite!
+__label__slk Som presvedčená o jeho nevine.
+__label__slk Dnes je piatok?
+__label__slk Ja som Quy
+__label__slk Uvidíme sa neskôr, dobre?
+__label__slk Niečo sa páli.
+__label__slk Čo si o nej myslíte?
+__label__slk Som Tom.
+__label__slk Nebuď hanblivá.
+__label__slk Mali by sme si pohnúť.
+__label__slk No tak, povedz nám to!
+__label__slk Vieš mi povedať, čo to je?
+__label__slk Kde bol Tom včera večer?
+__label__slk Si ku mne príliš láskavý.
+__label__slk Čo je lepšie?
+__label__slk Nie ste na to trochu mladí?
+__label__slk V pondelok mám voľno.
+__label__slk Si dobrá matka.
+__label__slk V podstate máš pravdu.
+__label__slk Si na to príliš mladý.
+__label__slk To je to, čomu ľudia nerozumejú.
+__label__slk Z čoho ma obviňuješ?
+__label__slk Kde sú ryby?
+__label__slk Kto čakal?
+__label__slk Čo od neho chcete?
+__label__slk Nebude to možné.
+__label__slk Prosím, neotváraj okno.
+__label__slk Veľa o tom neviem.
+__label__slk Je tam príliš veľa nezrovnalostí.
+__label__slk Si dobrá kuchárka.
+__label__slk Si pripravený pohovoriť si o tom?
+__label__slk Dnes je sobota?
+__label__slk Práve som sa okúpala.
+__label__slk Nie ste smutní?
+__label__slk Koľko pomarančov si kúpila?
+__label__slk Kolu, prosím.
+__label__slk Nehovorím španielsky.
+__label__slk Musia ísť.
+__label__slk Pýtajte sa!
+__label__slk Prosím, nepribližujte sa k sporáku.
+__label__slk Je to skôr známa ako priateľka.
+__label__slk Máme ovocie.
+__label__slk Babka k babce budú kapce.
+__label__slk Učený z neba ešte nikto nespadol, ale sprostých ako keby zhadzovali.
+__label__slk Veľmi ma to zaujíma.
+__label__slk Povedz Tomovi, ako si zistil, že to urobil.
+__label__slk Fajčenie je tu prísne zakázané.
+__label__slk Mám pocit, že to skončí zle.
+__label__slk Je začiatočník, ale učí sa rýchlo.
+__label__slk Potrebujem niekoho.
+__label__slk Tom pozval Mary do Bostonu.
+__label__slk Prečo psy kopú?
+__label__slk Tom mal inú predstavu.
+__label__slk Nechceš ju vidieť?
+__label__slk Nemám rada knihy s viac než päťsto stranami.
+__label__slk Prehrali sme o dva body.
+__label__slk Pravdepodobne nič.
+__label__slk Len sa pýtam.
+__label__slk Myslím, že sa táto kniha bude páčiť tvojim sestrám.
+__label__slk Nezabudni mu zavolať.
+__label__slk Viem, kde býva.
+__label__slk Mám ti niečo kúpiť z obchodu?
+__label__slk Zamkli ste auto?
+__label__slk Vedel som, že vyhráme.
+__label__slk Zmenil si heslo?
+__label__slk Nehovorím po francúzsky.
+__label__slk Tom pôjde budúci rok do dôchodku.
+__label__slk Prečo ste sami? Kde je vaša mama?
+__label__slk Spustiť stopára.
+__label__slk Tom má veľké brucho.
+__label__slk Idem do Bostonu.
+__label__slk Čítal som vašu správu.
+__label__slk Pomôž mi to rozobrať.
+__label__slk To môže mať smrteľné následky.
+__label__slk Som najlepšia!
+__label__slk Viete rozoznať ovcu od kozy?
+__label__slk Iný kraj, iný mrav.
+__label__slk Obujte sa.
+__label__slk Kedy ich môžeme vidieť?
+__label__slk Vyzdvihnite ho!
+__label__slk Ste pripravení?
+__label__slk Musíme nájsť Toma skôr než Mária.
+__label__slk Mám plnú hlavu starostí.
+__label__slk Dáš mi uterák?
+__label__slk Potrebujem oveľa viac.
+__label__slk Tom pije veľa mlieka.
+__label__slk Ešte som na to neprivykol.
+__label__slk V mladosti si prešiel mnohými útrapami.
+__label__slk Povedal mi, aby som nefajčil.
+__label__slk Čo horí?
+__label__slk Poviem ti pravdu.
+__label__slk Náš pes hryzie len zriedka.
+__label__slk Výpis z registra trestov.
+__label__slk Dovidenia.
+__label__slk Tom potreboval odísť skôr.
+__label__slk Zohrej to.
+__label__slk Vstáva o siedmej.
+__label__slk To je pohodlné kreslo.
+__label__slk To je moja vec.
+__label__slk Si jej pasák?
+__label__slk Mám rada mandle.
+__label__slk Zatiaľ všetko prebiehalo dobre.
+__label__slk Čo je Boh?
+__label__slk Hovoríš po poľsky?
+__label__slk To by bolo skvelé.
+__label__slk Zlomila mi srdce.
+__label__slk To, že zjedol pizzu, nahnevalo jeho sestru.
+__label__slk Vyčisti umývadlo.
+__label__slk Získal veľký majetok.
+__label__slk V Japonsku nikdy nemusíte chodiť ďaleko, aby ste našli obchod so zmiešaným tovarom.
+__label__slk Musíš ísť?
+__label__slk Teraz je potrebný zázrak, aby nás zachránil.
+__label__slk Trávite viac času doma alebo v práci?
+__label__slk Vždy sa ráno kúpem.
+__label__slk Nebuďte na ňu príliš tvrdí.
+__label__slk Vitaj späť!
+__label__slk Myslel som, že zostanem trocha dlhšie.
+__label__slk Si liberál?
+__label__slk Musím počkať, kým sa rozmrazí mäso.
+__label__slk Včera som bola v Tokiu.
+__label__slk Piješ kávu?
+__label__slk Najprv práca, potom pláca.
+__label__slk Obávam sa, že na to ešte nedozrel čas.
+__label__slk Večera je hotová.
+__label__slk Nič som s tým nemohol urobiť.
+__label__slk Piješ čaj?
+__label__slk Dúfam, že si sa v Bostone bavil.
+__label__slk Kde si bol včera večer?
+__label__slk Iba som s ním chcela hovoriť.
+__label__slk Dám si sprchu a prídem.
+__label__slk Možno je čas na zmenu.
+__label__slk „Bol si doma?“ „Nie, nebol.“
+__label__slk Páni!
+__label__slk Je vydatá za cudzinca.
+__label__slk Ako bolo dnes v práci?
+__label__slk Nakreslila jeho obrázok.
+__label__slk Nie, nemám rád mačky.
+__label__slk Mám dobré oči.
+__label__slk Je to lepšie.
+__label__slk Udrela ho.
+__label__slk Ak to môže urobiť Tom, môžeš aj ty.
+__label__slk Tomovi chýba zmysel pre humor.
+__label__slk Zohrej mlieko.
+__label__slk Dáš si ešte piva?
+__label__slk Viete odpoveď?
+__label__slk Tento program nie je možné spustiť v režime DOS.
+__label__slk To je jeho problém.
+__label__slk Tichá noc, sväta noc, všetko spí ...
+__label__slk Neviem, odkiaľ sa to vzalo.
+__label__slk Mesiac bola v nemocnici.
+__label__slk Motýle sú hmyz.
+__label__slk Nie som si istá, či vám verím.
+__label__slk Pomôžte mi to rozobrať.
+__label__slk Ako si zbohatla?
+__label__slk Kde sú moje noviny?
+__label__slk Nehovorím po fínsky.
+__label__slk Hanba!
+__label__slk Zas si to urobil.
+__label__slk Sníval sa mi divný sen.
+__label__slk Nesranduj!
+__label__slk Kde je východ?
+__label__slk Zdáš sa byť trocha dezorientovaný.
+__label__slk Som otec.
+__label__slk Chcem byť pilotom, keď vyrastiem.
+__label__slk Vidím dom.
+__label__slk Viem, čo ma robí šťastnou.
+__label__slk Neviem, či sa to bude dať urobiť.
+__label__slk Starý rok treba zapiť !
+__label__slk Viem, že Tom to robí aspoň raz denne.
+__label__slk Naspäť cesta nemožná, napred sa ísť musí.
+__label__slk Nie, to nie je pravda.
+__label__slk Je obchod zatvorený?
+__label__slk Čo ti povedala?
+__label__slk Chcem ťa len počuť o tom rozprávať.
+__label__slk No tak.
+__label__slk Situácia je takáto.
+__label__slk Tiež som si to všimla.
+__label__slk Na počiatku bolo slovo
+__label__slk Úprimne dúfam v jeho šťastie.
+__label__slk Málokedy chodím do knižnice.
+__label__slk Je to veľmi nebezpečné.
+__label__slk Čítali ste to pozorne?
+__label__slk Prisahám, nebol som to ja!
+__label__slk Chcela by som, ale nemôžem!
+__label__slk Študujem.
+__label__slk Obťažoval ma plač dieťaťa.
+__label__slk Ako zomrel tvoj prvý manžel?
+__label__slk Čítaš nesprávne knihy.
+__label__slk Neviem, čo by som si bez teba počal.
+__label__slk Tom o tom napísal knihu.
+__label__slk Možno sa mu niečo stalo.
+__label__slk Hnevá ťa to?
+__label__slk Kto sa sám neopúšťa, nebýva opustený.
+__label__slk Všetky dobré veci prichádzajú v troch.
+__label__slk Zajtra je pondelok.
+__label__slk Verte tomu alebo nie.
+__label__slk Bolí ma čeľusť.
+__label__slk Privítala ma širokým úsmevom.
+__label__slk Je dosť teplo.
+__label__slk Nemusíš sa ospravedlňovať.
+__label__slk Po večeri umyjem riad.
+__label__slk Raz chcem ísť do Afriky.
+__label__slk Nehovorím po taliansky.
+__label__slk Prečo na tom vôbec záleží?
+__label__slk Som späť!
+__label__slk Tom by tu mal byť.
+__label__slk Využívanie elektrickej energie zmenilo svet.
+__label__slk Chcem, aby si tu zostal, kým sa nevrátim.
+__label__slk Ľudia majú radi slobodu.
+__label__slk Účel sväti prostriedky.
+__label__slk Moje meno je Saša.
+__label__slk Dali ste mu odpoveď?
+__label__slk Radšej nie.
+__label__slk Knižnica je otvorená.
+__label__slk Čo sú to za spôsoby?
+__label__slk Toto je obchod, kde som pracoval.
+__label__slk Nevšimol som si to.
+__label__slk Som stále tu.
+__label__slk Oni vedia, že im veríme.
+__label__slk Nič sa nedá robiť.
+__label__slk Prepustil som ju.
+__label__slk Sama pripravila večeru.
+__label__slk Okamžite musíme ísť do nemocnice.
+__label__slk Z ktorej kapitoly je tento verš?
+__label__slk Prestaň ma udierať!
+__label__slk Vie o tom ešte niekto?
+__label__slk Vonku je ešte stále teplo.
+__label__slk Číslo je obsadené.
+__label__slk Nehovorím po španielsky.
+__label__slk Nie je to perfektné.
+__label__slk Nikdy predtým som to nevidel.
+__label__slk V pondelok pracujem.
+__label__slk Svoj sľub dodržím.
+__label__slk Prezujte sa.
+__label__slk Odmietate moju ponuku?
+__label__slk Hádaj, čo povedal Tom.
+__label__slk Udri ma.
+__label__slk Zlomil som si členok.
+__label__slk Ktorý je Váš pes?
+__label__slk Ešte raz, prosím.
+__label__slk Viem, kde žije.
+__label__slk Naozaj ste to videli?
+__label__slk Ona je pripravená.
+__label__slk Stretol som ich len trikrát.
+__label__slk Bolia ma svaly.
+__label__slk Doktor povedal, že tie bolesti spôsobujú obličkové kamene.
+__label__slk Musíš stále dodržať slovo.
+__label__slk Toto je riešenie.
+__label__slk Nechcem stratiť svojho priateľa.
+__label__slk Strč prst skrz krk!
+__label__slk Urobil si to znova.
+__label__slk Všetkým ste nám chýbali.
+__label__slk Mohlo by to fungovať.
+__label__slk Toto je moja špeciálna omáčka.
+__label__slk Musím ešte odniesť poštu.
+__label__slk Moc som toho nepočul.
+__label__slk Nepoužívame to.
+__label__slk Tom jej opäť zavolal.
+__label__slk Neviem, odkiaľ sa vzal.
+__label__slk Kto udrel Toma?
+__label__slk Čaute!
+__label__slk Skús toto.
+__label__slk Ty si tá, ktorú chcem.
+__label__slk Som študentka.
+__label__slk Máš radšej čaj alebo kávu?
+__label__slk Poznáme ho.
+__label__slk Svoje mám stále.
+__label__slk Ničoho sa nechytaj.
+__label__slk Zostaňte pozitívne naladení.
+__label__slk Nikdy sa nepýtaš.
+__label__slk V nedeľu nepracujem.
+__label__slk Mám bielu mačku.
+__label__slk Tom a Mary povedali Johnovi, že je im to ľúto.
+__label__slk „Bola si doma?“ „Nie, nebola.“
+__label__slk Ste dobrá kuchárka.
+__label__slk Krava odišla.
+__label__slk Berte si príklad zo svojej sestry.
+__label__slk Viem, čo urobil.
+__label__slk Hluchonemí ľudia sa rozprávajú posunkovou rečou.
+__label__slk Potrebuješ veľa peňazí?
+__label__slk Neočakávajte odo mňa príliš veľa.
+__label__slk Trpezlivosť je cnosť.
+__label__slk Privítala ma veľkým úsmevom.
+__label__slk Myslím si, že som v minulom živote bola princezná.
+__label__slk Dayxa je moja švagriná.
+__label__slk Never nikomu!
+__label__slk Boris rýchlo otvoril svoj počítač.
+__label__slk Všetkých vyhodil.
+__label__slk Nebojte sa povedať, čo si myslíte.
+__label__slk Hľadáme šťastie.
+__label__slk Nič nie je nemožné.
+__label__slk Layla je moja švagriná.
+__label__slk Pravda víťazí.
+__label__slk Do videnia!
+__label__slk Vezmite si ho!
+__label__slk Zlá burina nevyhynie.
+__label__slk Mysli pozitívne.
+__label__slk Musíš prísť v správnom čase.
+__label__slk Tom mal zážitok blízky smrti.
+__label__slk Myslím, že by si mal Tomovi zavolať.
+__label__slk Zostaň so mnou v kontakte.
+__label__slk Toma bolelo brucho a išiel do postele skoro.
+__label__slk Myslím, že som práve niečo počul.
+__label__slk Veverička jej jedla z ruky.
+__label__slk Máte slovo.
+__label__slk Chcem sa naučiť korčuľovať.
+__label__slk Ten film má vyše troch hodín.
+__label__slk Poznáš odpoveď?
+__label__slk Nehovorím po maďarsky.
+__label__slk Nepočkáš?
+__label__slk Dobre, ahoj.
+__label__slk Boston je pekné mesto.
+__label__slk Čítal si to pozorne?
+__label__slk Tom s tým stále bojuje.
+__label__slk Nemám rád knihy s viac než päťsto stranami.
+__label__slk Sentence #10814709 — belongs to aldar
+__label__slk Je do nej zaľúbený.
+__label__slk Tento film sa mi naozaj páčil!
+__label__slk Vďaka vám sa cítim omnoho lepšie.
+__label__slk Je príliš neskoro.
+__label__slk Vďaka tebe sa cítim omnoho lepšie.
+__label__slk Zase je tu.
+__label__slk Obidve poznám.
+__label__slk Ešte nie sú doma.
+__label__slk Potápame sa?
+__label__slk Všetkým si nám chýbal.
+__label__slk Mám mnoho kanadských priateľov.
+__label__slk Ste zamilovaní.
+__label__slk Napíšte si svoje ciele.
+__label__slk Veľa som toho nepočul.
+__label__slk Kiež by sa to nikdy nestalo.
+__label__slk Chcel by som lístok.
+__label__slk Nehovorím po poľsky.
+__label__slk Boli šokovaní, keď zistili, že Tom bol zabitý.
+__label__slk Mal som divný sen.
+__label__slk Jednoznačne niečo skrýval a to ma trápilo.
+__label__slk Si Ruska?
+__label__slk Ukradol mi topánky.
+__label__slk Škoda každého života, ktorý takto náhle skončí. Úprimnú sústrasť rodinám a veľa sily zvládnuť situáciu ktorá nastala.
+__label__slk Myslíš, že som hlúpy?
+__label__slk Viem o tom všetko.
+__label__slk Vysvetlím ti to.
+__label__slk Prečo je nebo modré?
+__label__slk Nie som si istý, či ti verím.
+__label__slk Zdravím. Moje meno je Sergej.
+__label__slk Venuša je planéta.
+__label__slk Nevedela som, že je zo Slovenska.
+__label__slk Nikto iný to nevie.
+__label__slk Potrebujeme plán.
+__label__slk Mary mi povedala, že hovorí po francúzsky.
+__label__slk Ani ste tam neboli.
+__label__slk V noci je tu ticho.
+__label__slk Poznám ich obe.
+__label__slk Hovorí viacerými jazykmi.
+__label__slk Kde kopú?
+__label__slk Nemôžem vystáť jeho komentáre.
+__label__slk Dobré ráno!
+__label__slk Je to nádherný kvet.
+__label__slk To je muž, ktorého poznám dobre.
+__label__slk Do toho!
+__label__slk Opýtali sa ho.
+__label__slk Pokračuj, Tom.
+__label__slk Nie je to pravda.
+__label__slk Umývam okná.
+__label__slk Je tam kopa nových mailov.
+__label__slk Tie slzy sú umelé.
+__label__slk Ja som Mária.
+__label__slk Hral som sa tu.
+__label__slk Akej farby je slnko?
+__label__slk Tom s Vladimírom sa potrebujú.
+__label__slk Mal by som ísť?
+__label__slk Myslí si, že jeho práca je zbytočná.
+__label__slk Môžem Vás naučiť variť.
+__label__slk Tom s tebou okamžite potrebuje hovoriť.
+__label__slk To je kôň.
+__label__slk Presvedčil som Toma, že by mal ísť do Bostonu s Mary.
+__label__slk Kto odstúpil?
+__label__slk Pozval som susedov.
+__label__slk Tom spadol z trampolíny.
+__label__slk Vyzliekla sa.
+__label__slk Hneď som späť!
+__label__slk Zdalo sa, že mu nie je dobre.
+__label__slk Som z lekárskej rodiny.
+__label__slk Buď spokojný.
+__label__slk Myslíš, že žartujem?
+__label__slk Ako vyslovujete svoje meno?
+__label__slk Prečo je život taký ťažký?
+__label__slk Úprimnú sústrasť 🖤🖤🖤
+__label__slk Toto je dedina, v ktorej som prežila svoje detstvo.
+__label__slk Článok o našej škole sa objavil v novinách.
+__label__slk Ešte som na to neprivykla.
+__label__slk Sme na dovolenke.
+__label__slk To je tá najnapínavejšia časť filmu.
+__label__slk Topiaci sa slamky chytá.
+__label__slk Počkaj, neodchádzaj.
+__label__slk To sa nepodarilo.
+__label__slk Myslím, že to je všetko, čo potrebujem.
+__label__slk Každý má svoj vlastný názor.
+__label__slk Poďme radšej domov.
+__label__slk Videl som, čo Tom dokáže.
+__label__slk Tom je na dovolenke.
+__label__slk Nakŕmil si psa?
+__label__slk Aké je hlavné mesto Slovenska?
+__label__slk choroba.
+__label__slk Neide mi to skopírovať.
+__label__slk Nehovorím taliansky.
+__label__slk Tom sa pošmykol na banánovej šupke.
+__label__slk Buďte nemilosrdní.
+__label__slk Veľmi si cením tvoje priateľstvo.
+__label__slk Ochladzuje sa.
+__label__slk Ak by si bol na mojom mieste, čo by si robil?
+__label__slk Jupiter je planéta.
+__label__slk Tom zavolá.
+__label__slk Moje meno je Andrea.
+__label__slk Váš rukopis je veľmi ťažko čitateľný.
+__label__slk pomlčka
+__label__slk Hanbíme sa.
+__label__slk Mám o to veľký záujem.
+__label__slk Prečo si vegetarián?
+__label__slk Jørgen sa učí gréčtinu.
+__label__slk Už tu nikto nie je.
+__label__slk Nemôžem uveriť, že zas odišiel.
+__label__slk Pijem priveľa kávy.
+__label__slk Nikdy som si nemyslel, že sa to stane.
+__label__slk Zabudla som jeho adresu.
+__label__slk Druhí policajti začali strieľať do davu.
+__label__slk Odchádzam bez neho.
+__label__slk Neviem ani písať, ani čítať.
+__label__slk Nevykladaj si na mňa nohy!
+__label__slk Ako dlho by trvalo naučiť sa po francúzsky dosť na to, aby som tu mohol pracovať?
+__label__slk Dala si dole oblečenie.
+__label__slk Kto si prdol?
+__label__slk Tom mi povedal, že sa chystá vyhrať.
+__label__slk Otázky?
+__label__slk Ako sa dostal dnu?
+__label__slk Kde je otec?
+__label__slk Poznáme sa dva dni.
+__label__slk Mária je zubárka.
+__label__slk Začneme?
+__label__slk Nemám rád talianske jedlo.
+__label__slk Nehovorím albánsky.
+__label__slk Tom to musí urobiť teraz.
+__label__slk Nemám veľmi rada syr.
+__label__slk Kedy tu môžem plávať?
+__label__slk Hlasoval som za zotrvanie.
+__label__slk Nemyslel som to tak.
+__label__slk Niečo horí.
+__label__slk Nie je perfektný.
+__label__slk Bola som v posteli s chrípkou.
+__label__slk Nenašli bombu.
+__label__slk Ste dobrý kuchár.
+__label__slk Kto sa sťažuje?
+__label__slk Myslím, že Tom to pravdepodobne urobí neskôr.
+__label__slk Ľudia, je všetko v poriadku?
+__label__slk Tom je teraz na dovolenke.
+__label__slk Začni s jednoduchými vetami.
+__label__slk Máme zavolať políciu?
+__label__slk Darujem za odvoz
+__label__slk Do videnia, Sayoko.
+__label__slk Prichytil som ho pri čine.
+__label__tur Her gün demlik demlik çay içiyorum.
+__label__tur Bizden, onlara fayda yok.
+__label__tur Filtre kahve yapımı için kahve çekirdeği aldım.
+__label__tur Evimde bir sürü bitki var.
+__label__tur Yakalarlarsa merhamet etmelerini bekleme.
+__label__tur Sana Türkçede en zor gelen konu ne?
+__label__tur Bu gece çok kederliyim.
+__label__tur Tipin an tipin onu alasakaer
+__label__tur Bu cümleyi neden kimse daha önceden önermemiş?
+__label__tur Yazıcımda, tarayıcı da var.
+__label__tur Komünizm burada her şeyi mahvetti.
+__label__tur Beyaz şarap favori şarabım oldu.
+__label__tur Yetki ikamesi, sorunun en küçük birimde çözülmesidir.
+__label__tur Kitabının kapağını beğendim.
+__label__tur Bunu göz önünde bulundurabiliriz.
+__label__tur Yanni, Cezayir'e taşınmak zorunda kalmaktan nefret ediyordu.
+__label__tur Bu, Tom'un istediği şey değil.
+__label__tur Who is able to say what is going to future
+__label__tur Hayat hiçbir şey yapmamak için çok uzun ama bir şey yapmak için de çok kısa.
+__label__tur Memur yemekhanesi ve öğrenci yemekhanesi arasında fark yoktur.
+__label__tur Dergiyi şimdi iade ettim.
+__label__tur O, kapıya tıklamayı denedi.
+__label__tur Cezayir'in Kabylie şehrinde tutuklandı.
+__label__tur Bana olan borcunu geri öde.
+__label__tur Bir çözüm bulma konusunda çaresiziz.
+__label__tur Gölün yanındaki ev benimdir.
+__label__tur Evimde bir sürü saksı var.
+__label__tur Sentence #12189765 — belongs to languagelerner
+__label__tur Kahve bardağı masanın yanında.
+__label__tur Söylediğimiz her şeyi duydun mu?
+__label__tur Bu kurşunkalemler aynı renkte.
+__label__tur Tom, değerli bir çalışandır.
+__label__tur Balık tazedir.
+__label__tur Annem benim projemi beğendi.
+__label__tur Jacksonlarla yalnız mıydın?
+__label__tur Kim reddedebilirdi?
+__label__tur Bir şeyi unutmuşuz gibi hissediyorum.
+__label__tur Ölüler denize atılmıştı.
+__label__tur Sen beni seviyorsun.
+__label__tur Tom'un çaresiz kalacağından şüpheliyim.
+__label__tur Yarın yirmi sekiz yaşında olacağım.
+__label__tur Yemekhanenin yemeklerinin tadı çok kötü.
+__label__tur Tom Mary'nin sesindeki çaresizliği hissetti.
+__label__tur Tom umutsuzluğa kapılmaya başlıyor.
+__label__tur Tam otuz beş dakika konuştum.
+__label__tur Ben Lily.
+__label__tur Yağmur ne zaman yağacak?
+__label__tur Tom'un bazı tablolarını gördüm.
+__label__tur Senin neyini beğeneyim ben?
+__label__tur Şimdi duş alacağım ve sonra sınavıma hazırlanmaya devam edeceğim.
+__label__tur Tom bir bakkal işletiyor.
+__label__tur Tuvaletim geldi.
+__label__tur Avrupa Komisyonu'nda yasa önergesi hazırladık.
+__label__tur Geç kalmıyım diye bana bisikletini ödünç verdi.
+__label__tur Tanrı iyidir.
+__label__tur Bu ürün Japonya'da satılmıyor.
+__label__tur Ben yeni bir dil öğrenme yöntemi buldum.
+__label__tur AKÇT, Avrupa Kömür Çelik Topluluğu'nun kısaltmasıdır.
+__label__tur Anlamsal sıkıntı var.
+__label__tur Yemekhane tıklım tıklım dolu.
+__label__tur Yemekhanede yemek yiyelim mi?
+__label__tur Eğilim ne yönde?
+__label__tur Acilen böbreğe ihtiyacı var.
+__label__tur Globes bir İsrail gazetesidir.
+__label__tur Aboneliğim eylül'de sona eriyor.
+__label__tur Benim adım Saşa.
+__label__tur Çığ yolu kapadı.
+__label__tur Al malını da yürü.
+__label__tur Kahve filtresi satın aldım.
+__label__tur Bunu imzalamak istemiyorum.
+__label__tur O dersten düşük not aldım.
+__label__tur Kahve var mı?
+__label__tur Bu yün iyi kalitede.
+__label__tur Türkçede sıfatlar bana çok zor geliyor.
+__label__tur Bunun, pH değeri uygun.
+__label__tur Niçin dans ediyor?
+__label__tur Nereye park ettiğimi hatırlayamıyorum.
+__label__tur Kahve masaya dökülmüş.
+__label__tur Kavga mı ettin biriyle?
+__label__tur Dünyanın değiştiğini hissediyorum.
+__label__tur Mehmet korkuyor.
+__label__tur Her şey bitecek.
+__label__tur Kendimi gerçekten yaşlı hissediyorum.
+__label__tur Sentence #12285259 — belongs to Iye_Tete
+__label__tur Tom ormandayken gizemli bir yaratık ona saldırdı.
+__label__tur Yanımdaki kız beni yiyecekmiş gibi bakıyor.
+__label__tur Ben de seninle konuşmak istemiyorum.
+__label__tur Temel 18 Nisan 1958'de atılmıştır.
+__label__tur Ne Tom ne de Mary çaresiz görünüyordu.
+__label__tur Hafıza kartımı kaybettim.
+__label__tur Avrupa Komisyonu, yurt dışında AB'yi temsil eder.
+__label__tur Hayat, yapabileceğiniz tüm güzel şeyler için çok kısa.
+__label__tur Şimdi kendimi aptal gibi hissediyorum.
+__label__tur Deniz dibinde yetişen canlılar yenmez.
+__label__tur Yanında bir şey mi getirdin?
+__label__tur Satmayacağım.
+__label__tur Koridor upuzun.
+__label__tur Bunu yapmak konusunda Tom kadar çaresiz değilim.
+__label__tur Neden bu kadar kısa bir eteğin var?
+__label__tur Sana asla çiçek almam.
+__label__tur Görmek istediğimiz her şeyi görmeye vaktimiz olmadı.
+__label__tur O, Zagros'u seviyor.
+__label__tur Kitabı bugün alacaksın.
+__label__tur Tanrının gücü bizi korusun.
+__label__tur Dellenme!
+__label__tur Bazı Yahudiler İsrail'de yaşarlar.
+__label__tur Tom bunları yapmama yardımcı oldu.
+__label__tur Jazz'ı tercih ediyorum.
+__label__tur Tek başıma yemek yiyordum.
+__label__tur En sevdiğim şarap türü beyaz şarap.
+__label__tur Örgü örmenin en çok neresinde zorlanıyorsun?
+__label__tur Geri dönüşüm kutularını daha etkin kullanmalıyız.
+__label__tur Bu kitabı hangi dilden çevirdin?
+__label__tur Senin hayattaki vizyonunu beğeniyorum.
+__label__tur Atı ölmüş bir arabacı borcunu ödeyemez.
+__label__tur Tanrı birdir, şanı büyüktür.
+__label__tur Televizyon kumandaları nasıl çalışır?
+__label__tur Üniversiteye gitmeyeceğim.
+__label__tur Büyükelçi ülkesini öteki ülkelerde temsil etmekle yükümlüdür.
+__label__tur Yanıtını merakla bekliyorum.
+__label__tur Örgü örmenin neresi zor?
+__label__tur Türkçede renkler için bir sürü farklı isim var.
+__label__tur Tuvalet çok pisti.
+__label__tur Çorbayı kaşıkladım.
+__label__tur İsmim Shu.
+__label__tur Sen ne biçim insansın be!
+__label__tur Enflamasyonun kötüleşmesinden korkuyorum.
+__label__tur Bugün burcunu okudun mu?
+__label__tur Tatile çok ihtiyacın var.
+__label__tur Makine çevirisi işimizi elimizden alacak.
+__label__tur Yemekhanede her şey yenmez.
+__label__tur Daha fazla yürümeye çalış!
+__label__tur Herhangi bir hediye getirdiniz mi?
+__label__tur Gemiye bindin mi?
+__label__tur Midye yemeyi çok severim.
+__label__tur Sentence #12178989 — belongs to Iye_Tete
+__label__tur Arabamızı geçen hafta sattık.
+__label__tur İş bulmayı düşündünüz mü?
+__label__tur Benim adım Shu.
+__label__tur Bu site yapım aşamasında.
+__label__tur Saldırıya mı uğradın?
+__label__tur Örgü kursuna mı gidiyorsun?
+__label__tur Türkçe çok kolay.
+__label__tur O, otuzdan büyük.
+__label__tur Geçen hafta arabamızı sattık.
+__label__tur Lütfen otur
+__label__tur En son ne zaman İskoçya'ya gitmiştiniz?
+__label__tur İltica insan haklarından biridir.
+__label__tur Neden beni rahatsız etmeye devam ettiğini anlamıyorum.
+__label__tur Biraz sütlü çay içti.
+__label__tur Yemekhanede aşçılar var.
+__label__tur Sus lan.
+__label__tur Arnavutça konuşmuyorum.
+__label__tur Yarının pazartesi olmaması iyi bir şey.
+__label__tur Sorun yok dememiş miydim?
+__label__tur Tom hala evde, değil mi?
+__label__tur Tom gerçekten yetenekli bir ressam.
+__label__tur Acilen paraya ihtiyacı var.
+__label__tur Tom onun için kaynattığım yumurtaları yemedi.
+__label__tur Başın ve boğazın ağrıyor mu?
+__label__tur Tom'un etkileyeci (çekici) bir karakteri var.
+__label__tur Kulaklığımdan cızırtılar geliyor.
+__label__tur Esma korkuyor.
+__label__tur Yıllarca Fransa'da yaşamasına rağmen aslında Fransızca konuşmayı hiç öğrenmemişti.
+__label__tur Bana sürekli e-posta atıyor.
+__label__tur Evet, ben şeker atıyorum.
+__label__tur Bana ne ulan atın öldüyse, ben mi sana şehre git dedim. Şehirde adamın atı da ölür, her bi şeyi de. Hadi get şehir senin karnını doyursun.
+__label__tur Bu, çok ağır bir konu.
+__label__tur "Sen Noel Baba değilsin!" diye bağırdı küçük çocuk ve Tom'un sahte sakalını kopardı.
+__label__tur İki hafta önce çaresizlikten oraya gittim.
+__label__tur Yeni dünyanın tanrıları milyarderlerdir.
+__label__tur Uzun süredir hapiste misin?
+__label__tur Sentence #12285338 — belongs to deyta
+__label__tur Türkçe kelimeleri öğrenmek aslında çok basit.
+__label__tur İzlenme kasmak için dans eden Koreli videosu atma âcizliğinize bir son verin.
+__label__tur Cüz'i bir miktar para cezası yedim.
+__label__tur AB müktesebatı hakkında çok şey öğrendim.
+__label__tur Ton balığı kanserojendir.
+__label__tur Hangi hayvan kahverengidir?
+__label__tur Kahveyi şekersiz içiyorum.
+__label__tur Örgü örmek için şiş ve iplik lazım.
+__label__tur Kırk yaşındaydı ama daha yaşlı görünüyordu.
+__label__tur Bana olmazsa olmazlarını say.
+__label__tur Bir yılda kaç gün var?
+__label__tur Bu konu çok ağır.
+__label__tur Kahvene şeker ister misin?
+__label__tur Kulağımda tinitus denen bir rahatsızlık var.
+__label__tur Öğrencilerin çok değişik çantaları var.
+__label__tur Annen, çok hoş bir hanım.
+__label__tur İnsan yanıla yanıla alim olur.
+__label__tur Sentence #12183216 — belongs to languagelerner
+__label__tur Yanımdaki kız bana bakıyor.
+__label__tur Tütün çok, kebap yok.
+__label__tur Sinema salonu henüz açılmamıştı.
+__label__tur Sadece yüksek kaliteli malzemeleri kullandığınıza inanıyorum.
+__label__tur Şimdi sıra sende!
+__label__tur Anekdotlardan oluşan bir tiyatro oyunuydu.
+__label__tur Limon sıkmadan midye yenmez.
+__label__tur Geçen yıl Belçika ve İsrail'e gittim.
+__label__tur Çoğunlukla geçimlerini sütten karşılarlar.
+__label__tur Yeter, kızdırma kafamı.
+__label__tur Türkçe nasıl bir dildir?
+__label__tur Tom'un karısıyla konuştun mu?
+__label__tur Sırada sessiz olmak gerekir.
+__label__tur Genelevlerin kapatılması, yasadışı fuhuş olaylarının artmasına zemin hazırlamaktadır.
+__label__tur Çorbaya ekmek doğradım.
+__label__tur Neyi katiyen yemezsin?
+__label__tur Seni o kadar özledim ki gözlerim yollarda kaldı.
+__label__tur O, çok fazla uyuyup otobüsünü kaçırdı.
+__label__tur Dur deyince dur!
+__label__tur Niçin dans ediyorsunuz?
+__label__tur Komünizm burada her şeyi yok etti.
+__label__tur Yanılmaktan nefret ederim.
+__label__tur Ödünç aldığım derginin süresini uzattım.
+__label__tur Öğrenci yemekhanesi ucuz olur.
+__label__tur Sadece seni seviyorum.
+__label__tur Oradaki o ışığı gören tek kişi ben miydim?
+__label__tur Örgü örmek en büyük hobimdir.
+__label__tur Onu insanların önünde aşağıladı.
+__label__tur Tom dikiş dikmeyi öğreniyor.
+__label__tur Son dönemlerde artan İslamî terör saldırılarına müteakiben Türkiye'nin sınır güvenliği üzerinde daha derinlemesine durması gerekiyor.
+__label__tur Kahve bardağı masanın üstünde duruyor.
+__label__tur Az önce dergi ödünç aldım.
+__label__tur Bir sorun cereyan etti.
+__label__tur Örgü kursunda kaç kişi var?
+__label__tur Gerçekten salaksın!
+__label__tur Bugün doğum günüm değil.
+__label__tur Türkçe çok basit.
+__label__tur Senin düşüncelerini tahmin edebiliyorum.
+__label__tur İsrail ile Suriye arasındaki anlaşmazlık tırmanıyor.
+__label__tur Yemekhane çok büyük.
+__label__tur Beklenmedik olaylar yaklaşıyor.
+__label__tur İtibarını koruma konusunda çaresizdi.
+__label__tur New York'ta gece hayatı daha iyidir.
+__label__tur Senin hikayen satıcınınkinden daha komik.
+__label__tur Suçu itiraf etmeye karar verdim.
+__label__tur Şu an çok acil paraya ihtiyacım var.
+__label__tur Bundan sonra daha dikkatli ol.
+__label__tur Kahve çekirdeklerini öğütmek makinenin işi.
+__label__tur Tom, ekim ayında Mary'ye evlenme teklif etti.
+__label__tur Bu benim ev arkadaşım.
+__label__tur Neyi kastediyor?
+__label__tur Nerede hareket, orada bereket.
+__label__tur Bugün dergileri iade ettim.
+__label__tur Çocuklar oynuyor.
+__label__tur Bunu yapmanın çok zor olmadığını hissetmiştim.
+__label__tur İtalyanca bilgin var mı?
+__label__tur Makasım, bilgisayarın yanında duruyor.
+__label__tur Zaman Tom'a merhamet göstermedi.
+__label__tur Bu şiiri Eva için yazdım.
+__label__tur Acıktığımda sadece mutfağa gider ve yerim.
+__label__tur Gelecekten umutlu hissediyorum.
+__label__tur Benzin aldın mı?
+__label__tur Periferik endokrin organların işlevi, hipofiz hormonları tarafından değişen boyutlarda düzenlenir.
+__label__tur Ödünç aldığım kitabın süresini uzattım.
+__label__tur Adnan Oktar kodeste olmasına rağmen avaneleri hâlen Twitter'da ötmeye devam ediyor.
+__label__tur Çişim geldi!
+__label__tur Örgü örerken iplik kullanılır.
+__label__tur Tom uzun (yorucu) bir gün geçirdi. Şuan sana yardım edemeyecek kadar yorgun.
+__label__tur Yılda kaç kere dişçiye gidersiniz.
+__label__tur Bunları kendin mi yaptın?
+__label__tur Tanrı bir fildir.
+__label__tur Ankara Antlaşma'sı neyi kapsar?
+__label__tur Beğenilen biri olmak gururumu okşadı.
+__label__tur Süpermarketten gazete aldım.
+__label__tur İnsanlara gerçeği söyleme.
+__label__tur Tanrı her yerde.
+__label__tur Neden bizi tanıştırmadın?
+__label__tur Biraz uyuyabilirim.
+__label__tur Kadın devriliyor.
+__label__tur Kotumu dizinden yırttım. Şimdi yeni bir kot satın almak zorundayım.
+__label__tur Dera çalışmak zorundayım ama canım hiç istemiyor.
+__label__tur Bakkalın karısı ceketini tutuyor.
+__label__tur 2002 yılında José Saramago İsrail'de istenmeyen adam ilan edildi.
+__label__tur İgor ile Lena'nın evlendiklerini duydun mu?
+__label__tur Çok ince bir şaka yaptım, farkında mısın?
+__label__tur Yatağı olmayanlar için yatak istiyoruz.
+__label__tur Marry ona(kız) bunu yapması gerektiğini söyledi.
+__label__tur Kahvem orta şekerli olsun.
+__label__tur Tom ve Mary seni çok özleyecekler.
+__label__tur Yemekhanede izinsiz yanıma oturdu.
+__label__tur Bir gün gelecek sözümü dinleyeceksin!
+__label__tur Bugün dergi ödünç aldım.
+__label__tur Parmağını tahtaya koy!
+__label__tur O dersten beklediğim notu alamadım.
+__label__tur O, hayvanlar hakkında kitap yazdı.
+__label__tur Onun kıza yardım ettiğini gördüm.
+__label__tur Kimin var olma hakkını savunacağız?
+__label__tur Açık olmak gerekirse, artık hiç canım istemiyor.
+__label__tur Bu şarkının adı ne?
+__label__tur Onlarda şarap var.
+__label__tur Bu durum içinden çıkılmaz bir hâl aldı.
+__label__tur "Ne yiyorsun?" "Buna kuskus deniyor."
+__label__tur Tarhana çorbası yemekhanede sürekli pişirilen bir yemektir.
+__label__tur "Biri mangal yapıyor. Kokusunu alıyorum." -" Sen nerdesin ki?"
+__label__tur Ben en küçük çocuğum!
+__label__tur Amerika'nın başkanı kimdir?
+__label__tur Git ve Tom'u kurtar.
+__label__tur İş arkadaşım teknik verileri bilir.
+__label__tur Bursa, Osmanlı İmparatorluğu'nun ilk başkentiydi.
+__label__tur Örgü örmek çok faydalıdır.
+__label__tur Uykulu görünüyor.
+__label__tur Çantanı beğendim.
+__label__tur İntikamını almayı çok istiyordu.
+__label__tur Kahveye şeker atıyorum ama çaya atmıyorum.
+__label__tur hangi biraları seversin?
+__label__tur Tom ve Mary'nin soyadları aynı olmasına rağmen akraba değiller.
+__label__tur Ya başka bir şeyle alakalıysa?
+__label__tur Türkçenin özellikleri nelerdir?
+__label__tur Sentence #12285320 — belongs to deyta
+__label__tur Sunumunuz üzerinde çalıştınız mı?
+__label__tur Odada televizyon yoktu.
+__label__tur Yine de teklif için teşekkürler.
+__label__tur Annem her zaman erken kalkmıyor.
+__label__tur Bir şiir yazsam, adını da sen koysam.
+__label__tur Tom sizden şimdiye kadar yardım talep etti mi?
+__label__tur Bir yılda kaç mevsim vardır?
+__label__tur Kadın, merdivenlerden iniyor.
+__label__tur Şehrin ışıkları yanıyor.
+__label__tur Maalesef işitme kaybım var.
+__label__tur Rusçaya aşığım.
+__label__tur Tuvalet çok pis.
+__label__tur O deterjanın bittiğini söyledi.
+__label__tur Yarışta birinci oldum.
+__label__tur Neden bu kadar delirdin?
+__label__tur Beğendiğim çocuk nişanlanmış.
+__label__tur Tom bunu yapmak için çaresiz olabilir.
+__label__tur Makarna tabağı satın aldım.
+__label__tur O işi artık yapma demedim mi?
+__label__tur Bir saniyede kaç salise var?
+__label__tur Deneyimiz başarılıydı.
+__label__tur Beyaz şaraba alışkın değilim.
+__label__tur Bir saatte kaç dakika var?
+__label__tur Tom kulak enfeksiyonu geçirdi.
+__label__tur Oldukça ilginç bir şey buldum.
+__label__tur Bu akşam Tom ile buluşuyorum.
+__label__tur Bunu bana kız arkadaşım ördü.
+__label__tur Balık nerede?
+__label__tur Dün oraya gittin mi?
+__label__tur Sana masal anlatayım mı?
+__label__tur Âşığın gözü kördür.
+__label__tur Yıllar ona merhamet etmedi.
+__label__tur Sana da bir şeyi beğendirmek çok zor.
+__label__tur Yalnız başıma yemek yiyordum.
+__label__tur Plastik atığı plastik atık kovasına atmalısın.
+__label__tur Her zaman geç kaldığın için yorgunum.
+__label__tur Kitabını beğendim.
+__label__tur Bu onun daha çok ağlamasına sebep oldu.
+__label__tur Örgü örerken zorlanıyor musun?
+__label__tur Denize açılmayı düşünüyor.
+__label__tur Bursa, Osmanlı Devleti'nin ilk başkentiydi.
+__label__tur Niye ağlıyor bu çocuk?
+__label__tur Tom bize hiç anlatmadı.
+__label__tur Örgü örmek zor mu?
+__label__tur Beyaz şarap içmeye alışkın değilim.
+__label__tur Kahve makinesinin kablosu çok uzun.
+__label__tur Hayrını gör.
+__label__tur Bunu sana neden ördü?
+__label__tur 41 derece ateşim vardı.
+__label__tur Tom Mary'nin ne yapmayı planladığını bildiğini söyledi.
+__label__tur Bu yün kalitelidir.
+__label__tur Yemekhaneye inen merdivenler var.
+__label__tur Midye limonsuz olmaz.
+__label__tur Kartları açarken anlamlarını açıklayacağım.
+__label__tur Tuhaf sesler duydum.
+__label__tur Bizi takip mi ediyorsunuz?
+__label__tur Tom Mary'nin sevgisine muhtaçtı.
+__label__tur Yemekhanede türlü türlü yemekler var.
+__label__tur Adam olsaydın da borcunu ödeseydin.
+__label__tur Şehrin merkezinde yaşıyoruz.
+__label__tur İsrail ile Suriye arasındaki anlaşmazlık daha da kötüleşti.
+__label__tur Zombiler evi tamamen kuşatmışlardı.
+__label__tur Ölüm herkese gelecektir.
+__label__tur Bir şey sormak istiyorum.
+__label__tur Hatalı olmaktan nefret ederim.
+__label__tur Beyaz şarap içiyorum.
+__label__tur Kalamar pişirmeyi öğrendim.
+__label__tur Tom, önümüzdeki yaz Boston'a gitmeme kararı aldı.
+__label__tur Tom bana yanlışlıkla vurdu.
+__label__tur Çok tutan tivitlere dans eden Koreli videosu atmanız göt laleliği değil de ne?
+__label__tur Türkçeyi birkaç aydır öğreniyorum.
+__label__tur Yeni bir şey ezberlemeye çalışıyorum.
+__label__tur Bunu yapmak için çaresiz olduğumu düşünüyorsun, değil mi?
+__label__tur Koridorda aydınlatma çok kötü.
+__label__tur Yemekhanede kutu kutu kapalı su var.
+__label__tur Cevabınızı beğendim.
+__label__tur Tom ve Mary'nin komşu olduğunu biliyor muydun?
+__label__tur Önceliklerimiz belli.
+__label__tur Neyi asla ama asla yemezsin?
+__label__tur Bizi takip mi ediyorsun?
+__label__tur Burada sanırım bir hata yapılmış.
+__label__tur Kahve çekirdeklerini önce öğütmemiz lazım.
+__label__tur Taşkent'in neresindensin?
+__label__tur Aşılarını olacaklar.
+__label__tur Bir sonraki otobüs ne zaman geliyor?
+__label__tur Orada o ışığı gören tek kişi yalnızca ben miydim?
+__label__tur Çekilişe katıldım.
+__label__tur Piyangoyu kazanmak istiyorum!
+__label__tur Tom büyük bir bakkal işletiyor.
+__label__tur Ekim ayında buradaydım.
+__label__tur Mücadelemize haklarımızı alıncaya kadar devam edeceğiz.
+__label__tur Hayat uyumak için çok kısa.
+__label__tur Sentence #12195553 — belongs to languagelerner
+__label__tur Cumartesi, haftanın yedinci günüdür.
+__label__tur Bunun rengini beğenmedim.
+__label__tur Evde asansör bulunmuyor.
+__label__tur Ayakkabım yırtıldı. Yapıştıracağım.
+__label__tur Tom geldi ve beni uyandırdı.
+__label__tur O, Nermin'i seviyor.
+__label__tur Yalnız seyahat etmek eğlenceli değil.
+__label__tur Cezayir'de ortalama bir maaşın satınalma gücü nedir?
+__label__tur "O da neydi be?"-" Sadece baykuş ya"
+__label__tur Tom, Mary'nin bunu yapanın kendisi olduğunu bildiğini zannetmiyor.
+__label__tur Tom'un istediği şey bu değil.
+__label__tur Dilan korkuyor.
+__label__tur Uyumadın mı sen?
+__label__tur Futbolun Alman ulusal sporu olduğu sıklıkla söylenir.
+__label__tur Çok sebze yiyorum.
+__label__tur Tom dargın olmalıydı.
+__label__tur Veresiye mal verdiysek hata mı ettik?
+__label__tur Elleri titriyordu.
+__label__tur (Sizler), Bizi takip mi ediyorsunuz?
+__label__tur O, kamyon'da uyuyor.
+__label__tur Kıbrıs'ın kuzey kısmı şu anda Türkiye'nin işgali altında.
+__label__tur Bu şekilde hissettiğini bilmiyordum.
+__label__tur Tom gelip beni uyandırdı.
+__label__tur Geldi ama uzun süre kalmadı.
+__label__tur Hayat, zevk almak içindir.
+__label__tur Kendi de siniyor bir kenara.
+__label__tur Aptal insanlar her zaman kendilerinden daha aptal olan ve onlara hayran olacak birini bulabilirler.
+__label__tur Fahişe dediğin genelevde olur.
+__label__tur Sabah sabah geldim yine okula.
+__label__tur AB, Avrupa Birliği'nin kısaltmasıdır.
+__label__tur Shu benim adım.
+__label__tur Doğum belgemi buldum.
+__label__tur Güzel bir piknik yaptın mı?
+__label__tur Deneyimiz başarılı oldu.
+__label__tur Yanımdaki kız beni süzüyor.
+__label__tur Onun elleri titriyordu.
+__label__tur Ahmet korkuyor.
+__label__tur Kahve makinesi aldım.
+__label__tur Kulaklığım ses geçirmez olduğu için gürültülü ortamlara katlanabiliyorum.
+__label__tur Her akşam duş alırım.
+__label__tur Arabamızı satmak istiyoruz.
+__label__tur Libya'nın başkentinin adı nedir?
+__label__tur Çay deyince aklıma sadece siyah çay gelir.
+__label__tur Kimin daha çaresiz olduğunu söylemek zor.
+__label__tur Sinemaya gidiyorum.
+__label__tur Midyenin üstünde bol limon sıkmalısın.
+__label__tur Az önce dergi satın aldım.
+__label__tur Bugün kete yiyorum.
+__label__tur Gökyüzü ne renktir?
+__label__tur Saç kurutma makinesinin kötü çalıştığını biliyorum.
+__label__tur Onların fikrini çaldık.
+__label__tur Sanırım Tom'u buldum.
+__label__tur Neden dans ediyor?
+__label__tur Neden dans ediyorsunuz?
+__label__tur Şimdi sınava gidiyorum, bana bol şanslar dileyin.
+__label__tur Onlara bana başka bir bilet göndermelerini söyledim.
+__label__tur Bir yılda kaç hafta var?
+__label__tur Tamam da ben şimdi ne yapacağım?
+__label__tur Mütercim ve tercüman arasındaki farkı biliyor musun?
+__label__tur Tom ve Mary seni çok özleyecek.
+__label__tur Miden hala rahatsız mı?
+__label__tur Bana bunu nasıl yapacağımı izah etmene gerek yok.
+__label__tur Televizyonunu beğendim.
+__label__tur Çaya şeker atıyorum ama kahveye atmıyorum.
+__label__tur Onu neden çok sevdiğimi bilmiyorum.
+__label__tur Der Spiegel benim ev sevdiğim dergidir.
+__label__tur Tom'un oğlunu tanıyor muydun?
+__label__tur Sentence #12195453 — belongs to languagelerner
+__label__tur Hoca hepimize birer A4 kağıdı dağıttı.
+__label__tur Onun biyografisi on dile çevrildi.
+__label__tur Sentence #12269093
+__label__tur N'aber?
+__label__tur Yemekhanede ayakta duruyorum.
+__label__tur Görünüşe göre, yamyamların eline düştük.
+__label__tur Ondan sana fayda yok.
+__label__tur Almanya'da 3 Ekim'de ne kutlanır?
+__label__tur Hipofiz hormonlarının salgılanması hipotalamus tarafından kontrol edilir.
+__label__tur Türkiye, sözde Kuzey Kıbrıs Türk Cumhuriyeti'ni şimdiye kadar tanıyan tek ülkedir.
+__label__tur Yoklama alınıyor.
+__label__tur Hiçbir şey kırmadım.
+__label__tur Her zaman geç kalman beni yoruyor.
+__label__tur Şampiyonluğu kazandın mı?
+__label__tur O, amortilere bakıyor.
+__label__tur Kütüphane şehir merkezinde.
+__label__tur İsrail'i hiç ziyaret etmedim.
+__label__tur Mağarayı buldum.
+__label__tur O biçim insanım ben!
+__label__tur Tom, zehirli bir ok nedeniyle öldü.
+__label__tur Çoğu insan bana Tom der.
+__label__tur Televizyondan tüm kanallar silindi.
+__label__tur Tom bu işi almama yardımcı oldu.
+__label__tur Hayalimiz yakında gerçek olacak.
+__label__tur Avrupa Birliği Konseyi'ne gittim.
+__label__tur Çantam boynuma yük oluyor.
+__label__tur Ama böyle anlaşmamıştık!
+__label__tur Öğrettiğinde öğrenirsin.
+__label__tur O, upuzun bir koridorda yürüyordu.
+__label__tur Babam olanları daha yeni anlattı.
+__label__tur Nasıl satarsınız benim arabamı?
+__label__tur Araba eski olduğundan kimse binmiyor.
+__label__tur Benimle sinemaya gelmeni istiyorum.
+__label__tur Beyaz şarap içtiğim içim başım döndü.
+__label__tur K-pop aslında müzik türünden çok büyük şirketlerin çocukları küçük yaşta sömürüp şarkıcı yapmak için kapıştığı koskoca bir sektör.
+__label__tur Motor tekrar çalışmaya başladı.
+__label__tur Limonsuz midye yenmez.
+__label__tur Tom ne kadar süre yalnız kaldı?
+__label__tur Tom sessiz olunması gerektiğini söyledi.
+__label__tur Çaresiz durumda, değil mi?
+__label__tur Bir günde kaç saat var?
+__label__tur Babanı bulma konusunda çaresiz olduğunu biliyorum.
+__label__tur Çoğunlukla geçimlerini sütten sağlarlar.
+__label__tur Beni kontrol edemezsin. Hayatımı yönetemezsin.
+__label__tur İçeri girmek zorunda mıydın?
+__label__tur 2020 yılında Japonya'ya gideceğim.
+__label__tur Tanrı her yerde değil mi?
+__label__tur Tom, telefon sana!
+__label__tur Bu gece kendimi çok efkarlı hissediyorum.
+__label__tur Senin hayata bakış açını beğeniyorum.
+__label__tur Bütün bu karmaşayı hafifletmek için akademisyenler biyolojik bir kategori olan cinsiyetle kültürel bir kategori olan toplumsal cinsiyeti ayırırlar.
+__label__tur Tatile şiddetle ihtiyacın var.
+__label__tur Bundan kısmen sorumlu hissediyorum.
+__label__tur O fotoğrafları sen mi çektin?
+__label__tur Tom'u beklemek zorunda kalmasaydım geç kalmazdım.
+__label__tur New York'ta gece hayatı daha iyi.
+__label__tur Yine de teşekkürler. Minnettarım.
+__label__tur Desteyi masanın ortasına koy.
+__label__tur Bugün araba kullanmayacağım.
+__label__tur Filtre kahve aldım.
+__label__tur Gölün yanındaki ev bana aittir.
+__label__tur Avrupa Sayıştayı'na gittim.
+__label__tur Bize kahve yapayım mı?
+__label__tur Beğendiğim bir lokantaya arkadaşımı götürdüm.
+__label__tur Kahve bardağı masanın altında duruyor.
+__label__tur Tinitus, kulağın çınlaması demektir.
+__label__tur Demli çay içiyorum.
+__label__tur O geldiğinde ne yapıyordun?
+__label__tur O, benim yanıma oturdu.
+__label__tur Bugün yemekhanede yiyorum
+__label__tur Buhara ve Semerkant Orta Asya'nın en eski şehirleri arasındadır.
+__label__tur Çevirmenlik karmaşık bir meslektir.
+__label__tur Limon, midyenin olmazsa olmazıdır.
+__label__tur O; Arapça öğreniyor.
+__label__tur Dergileri ödünç alınca bana bir makbuz verdiler.
+__label__tur Çorbaya kuru ekmek ufaladım.
+__label__tur Casey, "Bu benim tarzım değil" dedi.
+__label__tur Başka herhangi şey buldun mu?
+__label__tur Örgü örmek için ne lazım?
+__label__tur Karides ve kalamar yemeyi severim.
+__label__tur Günlük yazmayı unuttum.
+__label__tur Hacı Teyze'ye gidelim.
+__label__tur Ver gitsin.
+__label__tur Her canlı, hücrelerden oluşur.
+__label__tur Çok yakın arkadaştık ve sık sık birbirimizin evlerini ziyaret ederdik.
+__label__tur Kahvem demleniyor.
+__label__tur Onların öldüklerine inanmayı reddediyorum!
+__label__tur Desteyi istediğin zaman ortasından kesebilirsin.
+__label__tur Benim çok özgün düşüncelerim var.
+__label__tur O, ahtapot yemeyi seviyor.
+__label__tur Bunu yapmak için çaresiz olduğunu söyledi.
+__label__tur Gizli muhbir olarak çalışıyorum.
+__label__tur Evrenimizin bu temel özelliklerinin hikayesine fizik diyoruz.
+__label__tur O, bana kızıyor.
+__label__tur Avrupa Merkez Bankası'na gittim.
+__label__tur Acilen bir sigaraya ihtiyacım var.
+__label__tur Hepiniz emniyette misiniz?
+__label__tur Endokrin hastalıkları, endokrin bezlerinin ve/veya hedef dokularının bozukluklarından kaynaklanır.
+__label__tur Yürüyüşümüzün amacı hak ve hukuklarımızı korumak içindir
+__label__tur İlerleyen yaşıma rağmen hâlen götten bacaklı biriyim.
+__label__tur Tom'un dövmesini gördün mü?
+__label__tur Tarihin en kesin yasalarından biri de şudur: Lüksler zamanla ihtiyaç haline gelir ve yeni zorunluluklar ortaya çıkarır.
+__label__tur Haklı olsaydın, sana yanlış düşündüğünü söylemezdim.
+__label__tur Sentence #12317112 — belongs to ceviri_atolyesi
+__label__tur Şu anki çaresizliğimi ancak sen anlayabilirsin.
+__label__tur O öğretmen ki beni hayal kırıklığına uğratandır.
+__label__tur Fuji dağı'na tırmanmak istiyoruz.
+__label__tur Limon olmadan midye yenmez.
+__label__tur Hangi puanı aldığını soruyorum.
+__label__tur Gerçekten bayağı aptalsın.
+__label__tur New York'taki gece hayatı daha iyidir.
+__label__tur O, otuz yaşından büyük.
+__label__tur Ayçöreği yiyorum.
+__label__tur Algıların açık mı?
+__label__tur Dünyada sekiz milyar insan yaşamakta.
+__label__tur Kış kendini iyice belli ediyor.
+__label__tur Tom'un Mary'yi görünce heyecanlanacağını zannetmiştim.
+__label__tur Tavşan kanı çay içiyorum.
+__label__tur Tom, Mary'nin arabasını tamir ediyordu.
+__label__tur Bunda beğenilecek ne var ki?
+__label__tur Yemekhanede çok uzun sıra var.
+__label__tur Ekmeğine tereyağı istiyor musun?
+__label__tur O, hasta bir çocuğu olan yalnız ve çaresiz bir kadın.
+__label__tur Astral seyahate mi çıktın?
+__label__tur Tom iyi mi, değil mi?
+__label__tur Hayat boş, eğlen, coş!
+__label__tur Beyaz şarap başımı döndürdü.
+__label__tur Ayçöreğinin yanında çay var.
+__label__tur Hayat en iyi öğretmendir ama genellikle çok pahalıdır.
+__label__tur K-pop sektörünün Kore kültürünü yansıtmadığını rahatça ifade edebilirim.
+__label__tur o, mahkemeye çıkacak.
+__label__tur Bugün kahve makinesi satın aldım.
+__label__tur Asla böcek yemem.
+__label__tur Amorti de yok mu?
+__label__tur Kitap ne renktir?
+__label__tur Bunun, pH değeri çok düşük.
+__label__tur Kulaklığımı kaybettim
+__label__tur Sunuma slayt ekledim.
+__label__tur Geçmişi geride bırak, yaşa hayatını!
+__label__tur Bu dilin grameri zordur.
+__label__tur Parası olunca adam kuvvetli olur.
+__label__tur Geri dönüşüm çok önemlidir.
+__label__tur Burada kendimi garip hissediyorum.
+__label__tur Karnım gurul gurul ötüyor!
+__label__tur Bunu yapmak için çaresizdim.
+__label__tur Avrupa Parlamentosu'nda konuşma yaptı.
+__label__tur Tüm birikimini bankaya mı koydun?
+__label__tur Seni beğeniyorum.
+__label__tur Maria "Yıldızlar beni her daim kendine hayran bırakmıştır." dedi.
+__label__tur "Neden geç kaldın?" "Bisikletim kanala düştü."
+__label__tur BTS grubuna hastalık derecesinde hayran olan kendini bilmez koskoca bir ergen ordusu var.
+__label__tur EURATOM, Avrupa Atom Enerjisi Topluluğu'nun kısaltmasıdır.
+__label__tur Tom adında bir çocuk aradı.
+__label__tur Bunun, pH değeri çok yüksek.
+__label__tur Onun yüzünden saatlerce sunum hazırlamak zorunda kaldım.
+__label__tur Tövbe et lan!
+__label__tur Bol bol kitap okumak kelime hazneni geliştirmek için olmazsa olmazdır.
+__label__tur Kanada'ya çalışmaya gideceğim.
+__label__tur Otuz yaşında doktor oldu.
+__label__tur Olumlu düşüncelere odaklan!
+__label__tur Onun varlığını hissetti.
+__label__tur Tom itibarını koruma konusunda çaresizdi.
+__label__tur Tom tavşanları sevmez.
+__label__tur Kahve makinesinin su haznesi çok geniş.
+__label__tur Kahve nereye döküldü?
+__label__tur Çiftçileri her yerde mahvetmek istiyorlar.
+__label__tur Yapraklar uçuşuyor.
+__label__tur Severek içtiğin bira hangisi?
+__label__tur Bir konunun yeni yönlerini öğrenmek çok önemlidir.
+__label__tur Benim kıyafetlerim senin gözüne niye batıyor?
+__label__tur Ben Meryem.
+__label__tur Avukatımla konuşmam gerekir.
+__label__tur Bugün tam otomatik kahve makinesi aldım.
+__label__tur Acilen tatile ihtiyacın var.
+__label__tur Yolculuğumuz riskliydi.
+__label__tur Ben senin paralı askerin değilim.
+__label__tur Bugün dergi satın aldım.
+__label__tur O kamyon'da uyur.
+__label__tur Konforlu küçük bir araba arayanların daha fazla aramasına gerek yok.
+__label__tur Orta şekerli bir kahve asla hayır demem.
+__label__tur Adım Lily.
+__label__tur Olsa da olur olmasa da olur dediğin şey nedir?
+__label__tur Benimle uğraştığına seni pişman ederim
+__label__tur Bir dilim çizkek alabilir miyim?
+__label__tur Bir dakikada kaç saniye var?
+__label__tur Hayvanat bahçesi henüz açılmamıştı.
+__label__tur Ormandan uzak dur, bilhassa gece vakti.
+__label__tur Tom'un karısını tanıyor musun?
+__label__tur K-pop aslında tutan Amerikan veya İngiliz müziklerinin altyapısına benzer şarkılar çıkarma işidir ve bu sektörü Koreliler bile sevmez.
+__label__tur Tuvalete çıkmam lazım.
+__label__tur Ne yakışıklı bir adam!
+__label__tur Ziyaret ettiğiniz tapınak nasıldı?
+__label__tur Ben yeni bir yöntem buldum.
+__label__tur Onun kocası kanepe'de uyur.
+__label__tur Bugün bir köpeğin fotoğrafını çektim.
+__label__tur Tom 20 Ekim'de intihar etti.
+__label__tur Oda arkadaşımın kız arkadaş bulmasına şaşırdım.
+__label__tur Türkçenin tonlaması hangi dillere benziyor.
+__label__tur Fasulyeler daha sonra püre haline getirilir.
+__label__tur Benden sana fayda yok.
+__label__tur Çok gezen, çok bilir.
+__label__tur Senin dışında herkes geldi.
+__label__tur Siyaset yapma, çay koy!
+__label__tur Geri dönüşüm uygulamaları okulumuzda başlatılmıştır.
+__label__tur Arkadaşlarınızı özenli seçin.
+__label__tur Türk kahvesi yerine nescafeyi tercih ederim.
+__label__tur Mumu yak!
+__label__tur Çevirmen bir arkadaşım var.
+__label__tur Bir şeyler almak istiyorum.
+__label__tur Şu an ata su veriyorum.
+__label__tur Avrupa Birliği Adalet Divanı'na gittim.
+__label__tur Yanıtını dört gözle bekliyorum.
+__label__tur Tom arabasını satma konusunda çaresizdi.
+__label__tur Borcunu ödeseydin arabam satmazdık.
+__label__tur Bana Thomas demeyi bırak. Adım Tom!
+__label__tur Kızlar parmaklarını birbirine geçirdi.
+__label__tur Gelin, size dedikodu anlatayım!
+__label__tur Örgü örmenin pek çok faydası vardır.
+__label__tur Bu cilt bakım ürününün kırışıklıkları giderebildiği iddia ediliyor.
+__label__tur Başarmanız gereken üç şey olacak.
+__label__tur Meslektaşım teknik verileri biliyor.
+__label__tur Türkçe kulağa nasıl geliyor?
+__label__tur Bu benim kanım değil. Bunların hepsi rakibimden sıçrayanlar. Üzerimde tek bir çizik bile yok.
+__label__tur Yaklaşık 13 buçuk milyar yıl önce Big Bang olarak adlandırdığımız bir şeyle madde, enerji, zaman ve uzay ortaya çıktı.
+__label__tur Olanlar hakkında yalan mı söyledin?
+__label__tur Sonraki sınava hazırlanmam gerekiyor.
+__label__tur Annelerimiz çok yakındı.
+__label__tur Müzeye gidiyorum.
+__label__tur Dergileri şimdi iade ettim.

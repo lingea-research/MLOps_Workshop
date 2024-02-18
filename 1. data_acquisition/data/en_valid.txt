@@ -1,0 +1,127 @@
+__label__eng Tom will try your coffee.
+__label__eng I was a kid then.
+__label__eng I called Judy's house.
+__label__eng It's fun to flirt with him.
+__label__eng I won't be able to make it by 2:30.
+__label__eng Tom was pulled into the van.
+__label__eng I wish I lived alone.
+__label__eng My hair started falling out.
+__label__eng My parents are happily married.
+__label__eng Is Tom traveling alone?
+__label__eng Many of them are no longer with us.
+__label__eng I was alone till yesterday.
+__label__eng Did you notice Tom staring at you?
+__label__eng Have you ever been tortured?
+__label__eng What happens in the operating theatre?
+__label__eng Youth is short.
+__label__eng I'd be happy to assist.
+__label__eng I can walk home alone.
+__label__eng The prime minister can initiate a vote of confidence.
+__label__eng I'm too tired to study now.
+__label__eng "What's that novel?" "'Marta,' translated by Zamenhof."
+__label__eng I like teddy bears.
+__label__eng Our efforts are paying off.
+__label__eng Come over here and help us out.
+__label__eng Tom takes care of Mary's kids.
+__label__eng Did you walk across the bridge?
+__label__eng Did you know Tom was coming?
+__label__eng That's a pathologizing term.
+__label__eng Have you already packed your bags?
+__label__eng This happened often in winter.
+__label__eng That's what I'm always trying to explain, but he won't listen.
+__label__eng Did you get milk?
+__label__eng Did you know today's Tom's birthday?
+__label__eng About how long does it take to get to the airport from here?
+__label__eng In a foreword, the author defends himself against anticipated critics.
+__label__eng There are four cardinal directions: north, south, east and west.
+__label__eng Did you know what Tom meant?
+__label__eng Are you OK being alone tonight?
+__label__eng Didn't you know Tom dropped out of high school?
+__label__eng The kids like it.
+__label__eng Our family is really close.
+__label__eng Mary was telling jokes.
+__label__eng It behooves a servant to be blindfolded.
+__label__eng Tom wrote to me about this.
+__label__eng The panorama is grandiose.
+__label__eng Could you wake me up at two-thirty?
+__label__eng There's only one store that sells this book.
+__label__eng Did you plan for this?
+__label__eng Cycling is a good sport.
+__label__eng I suspect Tom was hungry.
+__label__eng Did you sign the forms?
+__label__eng Did you not get my invitation?
+__label__eng Did you still want to swim?
+__label__eng Our lives have become better.
+__label__eng This soup is too spicy for me.
+__label__eng Tom gave us a watermelon.
+__label__eng You should've won that game.
+__label__eng We'll be doing that sometime around the beginning of October.
+__label__eng The next step will be to see whether brainwaves generated not by hearing a word but by just thinking it could also be converted electronically into speech.
+__label__eng Nobody understands it yet.
+__label__eng Their time has come.
+__label__eng Our plan seems to be working.
+__label__eng How does it end?
+__label__eng Tom and Mary are both my assistants.
+__label__eng All three of us are hungry.
+__label__eng This is moonshine.
+__label__eng He's a master of light, song-like love poetry.
+__label__eng Did you speak to anybody else?
+__label__eng How does the story end?
+__label__eng I asked him for a lot money.
+__label__eng It was like I were with you.
+__label__eng I'd like to sing.
+__label__eng We leave early in the morning, okay?
+__label__eng The children were screaming and shouting.
+__label__eng I took a shit behind the hedge.
+__label__eng Did you like the joke?
+__label__eng I feel really bloated.
+__label__eng Stop flirting with my sister!
+__label__eng It looks more like a snake than a fish.
+__label__eng Mary made an appointment to see her OB-GYN.
+__label__eng Oh, no! That's how you ruin your life!
+__label__eng I'm tired of hearing your constant grumbling.
+__label__eng Our guests will be arriving soon.
+__label__eng I'd welcome suggestions.
+__label__eng What is love for them?
+__label__eng I felt kind of nervous.
+__label__eng Tom was a fool.
+__label__eng Did you go out with Tom?
+__label__eng There was nothing attractive about the man.
+__label__eng I feel warmer now.
+__label__eng A diamond is a gem.
+__label__eng How did Tom manage to graduate from college?
+__label__eng He has not asked me for money.
+__label__eng Kids like it.
+__label__eng Did you know that Tom died?
+__label__eng Pablo came back with his father.
+__label__eng Tom asked them not to do that.
+__label__eng Did you make this schedule?
+__label__eng Give us some time alone.
+__label__eng He's a gynecologist.
+__label__eng Mastitis causes an inflammation of the mammary glands in a cow's udder. The milk from an untreated cow is still relatively safe to drink, but it's full of white blood cells that form unappetizing clots and flakes, and that make the milk go sour more quickly.
+__label__eng How can that be achieved?
+__label__eng Tom and Mary were both badly injured.
+__label__eng This is a rectangle.
+__label__eng Does Tom still play the clarinet?
+__label__eng Why did you think I did that?
+__label__eng Will Tom leave me alone now?
+__label__eng We're going to cleanse this land.
+__label__eng Did you say you kissed Tom?
+__label__eng Human cloning poses serious ethical problems.
+__label__eng The woman became mean and grumpy.
+__label__eng Tom and Mary both refused to play.
+__label__eng Next month, a new branch will be opening in Chicago.
+__label__eng There is no evidence that Flight 77 crashed into the Pentagon–not a found baggage, a seat, a passanger or a video.
+__label__eng I have nothing in particular to say about the matter.
+__label__eng Worrying causes gray hair.
+__label__eng Our enemies will be destroyed.
+__label__eng Would you like to be alone?
+__label__eng I feel lucky, too.
+__label__eng Tom was fired three weeks ago.
+__label__eng A red rose is a symbol of love.
+__label__eng "I call my cat Mr. Purrington." "I thought his name was Cookie." "It is, but I call him Mr. Purrington."
+__label__eng Did you turn the TV on?
+__label__eng Does Tom still work with you?
+__label__eng In the foreword, I only touched on the most important points.
+__label__eng Why did she leave him in the dark?
+__label__eng That was your idea, not mine.

@@ -1,0 +1,141 @@
+__label__ces Zapomněl jsem, co po mně Tom chtěl.
+__label__ces Kanada je větší než Spojené státy.
+__label__ces Dal jsi mu svoje telefonní číslo?
+__label__ces Tom má nové služební auto.
+__label__ces Očekávám návštěvníky.
+__label__ces Učím angličtinu a učím se hindštinu.
+__label__ces Venku stále mrzne.
+__label__ces Měl by ses od ní držet dál.
+__label__ces Zazněly i další návrhy.
+__label__ces Tom většinou spí nahý.
+__label__ces Nevěděl jsem, co mám Tomovi říct.
+__label__ces Tvůj pes se narodil letos.
+__label__ces Nezlobím se na tebe.
+__label__ces Rostliny je třeba zalít.
+__label__ces Tom by o tom měl vědět.
+__label__ces Chtěla bych se napít trochu vody.
+__label__ces Nikdo z nás nedokáže vysvětlit Tomovo náhlé zmizení.
+__label__ces Můj děda se bojí psů.
+__label__ces Myslím, že Tom v dohledné době kouřit nepřestane.
+__label__ces Co přesně se vám nelíbí?
+__label__ces Bůh je jeden, a kromě něj žádný není.
+__label__ces Kafe, nebo něco silnějšího? Když se na tebe dívám, myslím, že potřebuješ panáka.
+__label__ces Musel jsem se na to zeptat Toma.
+__label__ces Udělala si pití.
+__label__ces Byl to hrozný obraz.
+__label__ces Nechci být plešatý, dokud jsem ještě mladý.
+__label__ces Všechno jde do kopru.
+__label__ces Tom nám všem sebral prémie.
+__label__ces Poslouchám stejnou hudbu jako Tom.
+__label__ces Tom na to dříve či později přijde.
+__label__ces Podél silnice vede plot.
+__label__ces Tento učitel vyučuje cizí jazyky.
+__label__ces Carlos špatně spal.
+__label__ces Netolerance vede k válkám.
+__label__ces Můžete to použít na co chcete.
+__label__ces Pocházím z Turecka, ale jsem Kurdka.
+__label__ces Do Vánoc zbývají jenom tři dny.
+__label__ces Jediný důvod, proč jsme se ještě nerozvedli, jsou děti.
+__label__ces Řekla, že chce jít.
+__label__ces Zacpal sousedův výfuk hadrem.
+__label__ces Nechal to tam Tom.
+__label__ces Sami žije v tomto domě.
+__label__ces Moje děti jsou dospělé.
+__label__ces Tomovi se nelíbilo, jak jsem to udělal.
+__label__ces Právě jsme překročili hranici.
+__label__ces Tentokrát byl Tom moudřejší.
+__label__ces To mi docela pomohlo.
+__label__ces Ztratil všechny peníze, co měl.
+__label__ces Náš pes se jmenuje Johnny.
+__label__ces Ráda si zdobím pokoj květinami.
+__label__ces Oba mí bratři jsou stále dospívající.
+__label__ces Viděli jste Tomovo fotoalbum?
+__label__ces Včerejší schůze s Tomem byla velmi nepříjemná.
+__label__ces Včerejší setkání s Tomem bylo velmi nepříjemné.
+__label__ces Už na vás někdy zaútočil pes?
+__label__ces Má prsten s drahokamem.
+__label__ces Tahle pneumatika je dost opotřebovaná.
+__label__ces Dejte Tomovi více prostoru, prosím.
+__label__ces Není důležité, co čtete, ale jak čtete.
+__label__ces Jaké jídlo má Tom rád?
+__label__ces Potřebujeme ještě dvě židle.
+__label__ces Nechci, aby se do toho Tom pletl.
+__label__ces Obvykle na takových místech nejím.
+__label__ces Jdeme na západ.
+__label__ces Zdá se mi, že Tom není příliš spokojený se svou prací.
+__label__ces Chce se mi poslouchat muziku.
+__label__ces Není normální, aby foukal tak silný vítr.
+__label__ces Fazole jím málokdy.
+__label__ces Někteří lidé se vyvinuli z opic a někteří ještě ne.
+__label__ces Myslím, že bychom měli vyrazit.
+__label__ces Zůstaň při Tomovi.
+__label__ces Tom bude mít příští rok nárok na podmínečné propuštění.
+__label__ces Mars je pustá planeta.
+__label__ces Děti se učí, a dospělí pracují.
+__label__ces Ještě jsi neodešel.
+__label__ces Dejme mu další šanci.
+__label__ces V principu by každé auto mělo mít parkovací místo, ale v praxi toho nelze dosáhnout.
+__label__ces Byl bys raději, kdyby sem Tom nechodil?
+__label__ces Tom to bude muset dokončit sám.
+__label__ces Chci se jít podívat na Toma.
+__label__ces Tuto situaci nechápu.
+__label__ces Proč jsi sem bral Toma?
+__label__ces Je na stadioně.
+__label__ces Voda vře při 100 stupních Celsia.
+__label__ces Druhý den se cítil o něco lépe.
+__label__ces Dám to do lednice.
+__label__ces Jak dlouhá je Velká čínská zeď?
+__label__ces Proč mě nemůžeš přijmout takového, jaký jsem?
+__label__ces Dal jsem si kávu na letišti.
+__label__ces Oblékl si čisté kalhoty.
+__label__ces Požádal jsem ji, jestli by si mě vzala.
+__label__ces Co je to za jazyk?
+__label__ces Měli jste mě pozvat.
+__label__ces Tom mě požádal, abych vynesl odpadky.
+__label__ces Proč jsi nepomohl Tomovi?
+__label__ces Viděl jsem, jak jsi zakopl a upadl.
+__label__ces Musím vyčistit záchod.
+__label__ces Sentence #12197798 — belongs to Ergulis
+__label__ces Míval jsi to rád.
+__label__ces Řekl mi, že mu byla zima.
+__label__ces Nesmíš toho psa bít.
+__label__ces Představila mě svým rodičům.
+__label__ces Vlna je teplá.
+__label__ces Moje žena je těhotná.
+__label__ces Každý jazyk se vyvíjí.
+__label__ces Bouře napáchala obrovské škody.
+__label__ces Tom byl odvržen svou rodinou.
+__label__ces Co po tobě Tom chtěl?
+__label__ces Ať se od nás učí.
+__label__ces Tohle je litrová láhev.
+__label__ces Pokud se nedíváš na televizi, tak ji vypnu.
+__label__ces Popřáli jste Tomovi k Vánocům?
+__label__ces Slunce vyšlo.
+__label__ces Zase eintopf! Anna bude mít dneska špagety.
+__label__ces Nezvýšili mi plat.
+__label__ces Víš, v jakém souhvězdí se nachází Sirius?
+__label__ces Chci jít za Tomem.
+__label__ces Vrátila jsem se.
+__label__ces Tohle je moje neteř. Je to dcera mé sestry.
+__label__ces Tom znervózněl a začal křičet.
+__label__ces Ukradl jsi mi něco?
+__label__ces Nedokáže odolat zmrzlině.
+__label__ces Byla sama.
+__label__ces Zemřela kvůli nedostatku kyslíku.
+__label__ces Jak se ta nehoda stala?
+__label__ces Dovolte mi zazpívat.
+__label__ces Ta dívka je moje přítelkyně.
+__label__ces Bude vařit.
+__label__ces Vidím to, ale nechápu.
+__label__ces Napřed si myji obličej a ruce.
+__label__ces Máte bílé zuby.
+__label__ces Potřebují k tomu souhlas rodičů.
+__label__ces Nikdy nebudeme dobří přátelé.
+__label__ces Tehdy jsem si neuvědomoval, že mě Tom sleduje.
+__label__ces Neopozdil bych se, kdybych byl nemusel čekat na Toma.
+__label__ces Děti chodí do školy.
+__label__ces Všechny vás proklínám!
+__label__ces Až se Tom dozví co jsi udělal, potrestá tě.
+__label__ces Tom dnes nemusí jít do práce.
+__label__ces Dřív se vám to líbilo.
+__label__ces Nic jsem neřekl.

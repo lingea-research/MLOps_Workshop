@@ -1,0 +1,983 @@
+__label__hun Kérj bocsánatot!
+__label__hun Ez nem az én bugyim!
+__label__hun Abrak!
+__label__hun A férjem a mexikói spanyolt beszéli.
+__label__hun Fizetnem kell.
+__label__hun Komolyak a szándékaim.
+__label__hun Bizonytalan a jövőnk.
+__label__hun Először nevetett, mert azt hitte, csak viccelünk.
+__label__hun A tudósok fele áltudós; valamelyik lobbi fizeti őket.
+__label__hun A titkos társoságokat beszüntették.
+__label__hun Majdnem megöltelek.
+__label__hun Nem tesz mást, csak nyavalyog egész nap.
+__label__hun Tervezem, hogy elveszem a barátnőmet.
+__label__hun Ide semmit nem építenek.
+__label__hun — Tom még mindig a szülei között alszik. — Ezek betegek.
+__label__hun — Mit akartál mondani? — Már nincs jelentősége.
+__label__hun Le a kalappal! István nem is tudott volna ennél jobban reagálni ebben a helyzetben!
+__label__hun Valaha itt egy apátság állt.
+__label__hun Egész éjjel fenn voltál?
+__label__hun Elmagyarázta nekem, hogyan működik a gép.
+__label__hun Nem hitt nekünk senki.
+__label__hun Tomnak műtétre van szüksége.
+__label__hun Láttad, hogyan készül ez?
+__label__hun Blokkolva van az elméjük.
+__label__hun Lorenzo egy elhagyott házban bújt el.
+__label__hun Felelős vagy a történtekért.
+__label__hun Angolon egy csoportban vagyok Natasával.
+__label__hun El fog fáradni.
+__label__hun Ő játsza Julius Caesart.
+__label__hun Eljátszák, hogy jótékony célokra gyűjtenek, közben meg saját maguknak.
+__label__hun Ügyes asztalos Tom.
+__label__hun Nekem kell fizetnem mindent.
+__label__hun Nehéz megtippelni.
+__label__hun A kiszolgálásra nem lehetett panaszunk.
+__label__hun A tűz mellett olvad a viasz.
+__label__hun Megint csak egyedül volt.
+__label__hun Én ráérek várni.
+__label__hun Az írók többsége kisnemesi családból került ki.
+__label__hun Baszd meg az ötleteiset!
+__label__hun Nekem van időm várni.
+__label__hun Távozz, Sátán!
+__label__hun Hányszor kell ezt csinálnunk?
+__label__hun Nálunk a cégnél folyamatosan van felvétel. A dolgozók jönnek, mennek.
+__label__hun Most elmondok neked egy érdekes történetet.
+__label__hun Beszélhetek Tommal?
+__label__hun Semmi oka nem volt lopni, hiszen van pénze elég.
+__label__hun Fogoly vagy?
+__label__hun Elfogyott a kraft.
+__label__hun Nagyon fáztam.
+__label__hun A kormány Covid-terroristákból áll.
+__label__hun Nincs fény.
+__label__hun Bassza meg a rendszer!
+__label__hun Vettem egy pullóvert és egyből felvettem.
+__label__hun Csak én láttam azt a fényt?
+__label__hun Itt én igazán jól érzem magam.
+__label__hun Ukrajnát az Egyesült Államok élelmiszeripara uralja.
+__label__hun Így próbáltad?
+__label__hun "A nemzeti hős" "odaadta" az amerikai élelmiszeripari óriásoknak az ukrán termőföldeket.
+__label__hun A bolt előteteje alatt álltak az eső végett.
+__label__hun A mesék szürreálisak.
+__label__hun Senki sem hisz annak, amit mondok.
+__label__hun A szélcsend miatt két napot vesztegeltünk a tengeren.
+__label__hun Én tudom, mi az igazság.
+__label__hun Az emberek hisznek nekik.
+__label__hun Miért ragaszkodsz Tomihoz?
+__label__hun Ez nagyon egyszerű szabály.
+__label__hun Azt hiszem, megöltem valakit.
+__label__hun Láttalak táncolni. Szédületes voltál.
+__label__hun Nem hiszem el, hogy az emberek ezt elhiszik!
+__label__hun Velem akarsz jönni?
+__label__hun Megebédeltél már?
+__label__hun Mi van, tápos vagy?
+__label__hun Ők hittek nektek.
+__label__hun Tom elfelejtette megköszönni.
+__label__hun Alig 10 éve a klímaváltozás fő okozója az olaj volt, 5 éve a szén, ma pedig a tehenek és sertések fingja. És minden esetben a legjobb tudósok állitották ezt.
+__label__hun A hétvégén egyedül leszek.
+__label__hun Mit tennék mi nélküled?
+__label__hun A rossz emberek szerencséje a buta és hiszékeny emberek.
+__label__hun Tom ignorálja a valóságot.
+__label__hun A kormánypártnak egy szavazóbázisa maradt csak: az agyhalottak. Sajnos sokan vannak.
+__label__hun Van önbizalmad.
+__label__hun Ez az úri picsa meg kicsoda?
+__label__hun A Mars-projekt valóban a Devon-szigeten van?
+__label__hun Elegem van a problémáidból!
+__label__hun Akaszd a ruhásszekrénybe!
+__label__hun És ki tudja, mi a tényleges igazság?
+__label__hun Várok egy szállítmányra.
+__label__hun Van két kutyám, három macskám és hat csirkém.
+__label__hun Hittem nekik.
+__label__hun Zsidók, muzulmánok és keresztények szépen megfértek egymás mellett a Szentföldön, míg a politikusok ebbe bele nem avatkoztak.
+__label__hun Elég gyorsan történt minden.
+__label__hun Ugye te még mindig nem látod összefüggéseiben, hogy mi folyik a világban?
+__label__hun — Hiúságok hiúsága — mondá a prédikátor. / — Hiúságok hiúsága. Minden hiúság.
+__label__hun Nem értettem pontosan a nevét.
+__label__hun Az Apollo 11 holdraszállásakor nem voltak csillagok, csak fekete háttér.
+__label__hun Ha a rendőrség valóban a népet szolgálná, akkor egy tüntetés során a nép oldalán állna.
+__label__hun Nálunk az országban még mindig tabu ateistának lenni.
+__label__hun Nem tudom, mi a célja a sok agymosott embernek az ignorálásukkal.
+__label__hun Ehhez most nincs nekem idegzetem.
+__label__hun Akkor meg minek kérdezed, ha jobban tudod!?
+__label__hun Elegem van ebből a rendszerből!
+__label__hun Hittünk nekik.
+__label__hun Soha nem éreztem még ilyet.
+__label__hun Az exem próbál visszaszerezni.
+__label__hun Nem volt olyan drága, mint ahogy gondoltam.
+__label__hun A bankármaffia ezrek házát vette el.
+__label__hun Túlenni magad nem tesz jót az egészségnek.
+__label__hun A kocsi sokkal gyorsabb a kerékpárnál.
+__label__hun A hinduk reinkarnálodnak, mert ők abban hisznek, a többi ember meg nem reinkarnálódik?
+__label__hun Baszd meg a kutyád!
+__label__hun Ne hidd el – nem érdekel!
+__label__hun Mivel Dániában mindenki bankkártyával fizetett, kivonják a készpénzt, a szabadság egyik alappillérét.
+__label__hun Ti nem mehettek oda!
+__label__hun Sanyi marhára eltűnt.
+__label__hun Megmérgezik az életet.
+__label__hun Szeretném ezt hinni.
+__label__hun A vonat nekiszaladt egy kamionnak egy vasúti átjáróban.
+__label__hun Tegyél fel még két tízkilós tárcsát.
+__label__hun A költő anyja mosónő volt, az apja hivatalnok.
+__label__hun Gyönyörű szép nő volt formás idomokkal, de az anorexia elrabolta őt.
+__label__hun Tetszik nekem ez a modell.
+__label__hun A Föld mindenkié, nem csak egy kiválasztott, elnyomó, élősködő rétegé.
+__label__hun Mi nagyon hasonlóak vagyunk.
+__label__hun Nem látott téged senki?
+__label__hun Szerintem nem lesz holnap eső.
+__label__hun Bill Gates a WHO legfőbb szponzora. Az etióp muksó az ő embere. A kérdés akkor az most az, hogy ez a világszervezet mennyire független az eszelős milliárdostól.
+__label__hun Ma kell a pénzem!
+__label__hun Ukrajna csak akkor van biztonságban, ha Putyin 360 fokkal megfordul.
+__label__hun Pihenj indulás előtt.
+__label__hun A materializmus démona a pénz.
+__label__hun Apátság volt itt egykor.
+__label__hun — Nézel pornót? — Ugyan, kérlek! A pornó gyerekeknek van.
+__label__hun Kék szemük van.
+__label__hun Az újságírás a képesség egyes dolgokat elhallgatni, míg másokat megírni.
+__label__hun Sok játéka van.
+__label__hun Azt mondják, nincs tökéletes ember. Ő az.
+__label__hun Rosszul éreztem magam, hogy egyedül hagytalak téged.
+__label__hun Ez nem felel meg a valóságnak.
+__label__hun Puszit nyomtam a homlokára.
+__label__hun Két óra előtt érkezett.
+__label__hun A világszervezet afrikai származású igazgatójának militáns, kommunista terrorista múltja természetesen törölve lett az internetről, mert nem venné ki magát jól.
+__label__hun Ez az emberek többségének már több mint gyanús lenne, Tominak és Marinak semmi furcsa nem tűnt fel.
+__label__hun Aki nem tudja megcsinálni a lótuszülést, az csinálhatja törökülésben a gyakorlatot.
+__label__hun Nekem nincs nagy fantáziám; én csak fordítom a műveket.
+__label__hun Itt vagyok, hogy segítsek.
+__label__hun Újra egyedül volt.
+__label__hun Ki kell vinnem levegőre a kutyát.
+__label__hun Ki tudsz vinni az állomásra?
+__label__hun Nincs film a fényképezőben.
+__label__hun Ki volt csípve Tom.
+__label__hun Az alkohol beszél belőle.
+__label__hun Unom már a sorbanállást!
+__label__hun Vissza kell nyernem a régi alakomat.
+__label__hun Ennek a könyvnek 13 fejezete van.
+__label__hun Megittam egy üveg sört.
+__label__hun Egész éjszaka fent maradtál?
+__label__hun Nem érek rá egész nap!
+__label__hun A nőknek sokkal könnyebb dolguk van.
+__label__hun Te csakugyan arra a lóra tettél!?
+__label__hun Az áruló nem jár egyedül.
+__label__hun A hó csak hullt.
+__label__hun Kijavítottam a hibát.
+__label__hun Újfent egyedül volt.
+__label__hun Senki sem szeret minket.
+__label__hun Nyaralni vagyok.
+__label__hun A története hihetőnek hangzik.
+__label__hun — Már háromszor javítottam a mondatot! — De még mindig hibás.
+__label__hun Nem tudom, hogyan csináljam ezt.
+__label__hun Igazi férfi nem vezet elektromos autót.
+__label__hun Én senkinek nem kellek.
+__label__hun Sami zsebhokizott.
+__label__hun Mikor jön ki az új könyve?
+__label__hun Így, vagy úgy, nem a te problémád.
+__label__hun Bill Gates a WHO fő adományozója.
+__label__hun — Megcsináltad? — Meg.
+__label__hun Te okos vagy. Ezt meg kellene értened.
+__label__hun Az ujgurok nem hasonlítanak a kínaiakra.
+__label__hun Csak meg tudja valaki szerelni!
+__label__hun Elegem van abból, hogy minden nap krumplit eszünk!
+__label__hun Még mindig dühösek rám.
+__label__hun Csak annyit kértem tőled, hogy látogasd meg.
+__label__hun Nem feküdhetsz itt egész nap magadat sajnáltatva!
+__label__hun Mi lenne velünk nélküled?
+__label__hun A nagymamánknak sok kutyája van.
+__label__hun Megittam egy felest és egy sört.
+__label__hun Az öcsém angolul tanul.
+__label__hun Meséket írok és a gyerekeim illusztrálják őket.
+__label__hun Tomot lecserélték egy robotra.
+__label__hun Összevesztünk és ő elment.
+__label__hun Te senkit nem szeretsz saját magadon kívül.
+__label__hun Én is úgy meg vagyok lepve, mint te.
+__label__hun — Nyelvet tanulni nehéz. — Neked a távirányítót megnyomni is nehéz.
+__label__hun Ez nem a te dolgod!
+__label__hun Vasile értésemre adta, hogy el akarja adni a házat.
+__label__hun Otthon törökül beszélünk.
+__label__hun Tom barátnője kanadai.
+__label__hun Én kellek neki.
+__label__hun Azt tervezem, hogy felveszem anyám nevét.
+__label__hun Végre hazaértünk!
+__label__hun Hányan mentek?
+__label__hun A chamtrail permetezést 2006-ban kezdték.
+__label__hun A válaszodra várok.
+__label__hun Hova teszi az állam a pénzünket?
+__label__hun Örökre megváltozott az életünk.
+__label__hun Hason csókoltam.
+__label__hun A kutya oda követte, ahova csak ment.
+__label__hun Szakítottunk. Már nincs rá szükségem.
+__label__hun Nem látott meg senki?
+__label__hun Nem akarok tőle semmit.
+__label__hun Az életük a pénz körül forog.
+__label__hun Szerintem nem fog esni holnap.
+__label__hun Szerfelett hálás vagyok önöknek.
+__label__hun Vagy tranzakciós díjat fizetsz vagy készpénzfelvételi díjat – a bankok minden esetben megfizettetik veled az extra adójukat.
+__label__hun Elnézést, hogy félbeszakítom.
+__label__hun — Madárinfluenza, sertéspestis, kergemarhakór – le kell ölni minden állatot. — Akkor tudunk enni Bill Gates féle műhúst.
+__label__hun Szörnyű a japánom.
+__label__hun A valóságtagadók nem hisznek el a szemüknek valamit, ha a média azt mondja nekik, hogy az nincs.
+__label__hun Neked ezt tudnod kellene; te fizika tanár vagy.
+__label__hun Tom tragikus esmény szemtanújává vált.
+__label__hun Ha jóllakott, akkor boldog.
+__label__hun Olyan szintű ignoranciát és pökhendiséget, mint ott, még soha nem tapasztaltam.
+__label__hun A nép pénzén fizetett rendőrség mindig a kormányt védi a néppel szemben.
+__label__hun Sok a légy.
+__label__hun Fent vagy Facén?
+__label__hun Bill Gates be akarja tiltatni az állattartást, hogy mindenki a kibaszott műhúsát vegye és egye.
+__label__hun Anna ananászt evett.
+__label__hun A fele már elfogyott.
+__label__hun Örömében zokogott.
+__label__hun Neked az egész világgal bajod van.
+__label__hun Miért így csinálja?
+__label__hun Türelmes legyél már, bazd meg!
+__label__hun Ismerd fel a valóságot!
+__label__hun Nem hiszem, hogy ma esni fog.
+__label__hun Kíváncsi lennék rá, mennyit keresett Bill Gates tisztán a Covid-pandémián, kormányok megvesztegetésének levonása után.
+__label__hun Hiszed vagy nem, ez az igazság.
+__label__hun A Biblia velem volt.
+__label__hun Újra egyedül van.
+__label__hun Hajlamos rá Tom, hogy eltúlozza a dolgokat.
+__label__hun Tom és Mary sorozatfüggők.
+__label__hun Ezt még meg fogod bánni.
+__label__hun Bob Gates visszaváltozott svábbogárrá.
+__label__hun Üldöz téged ez a kérdés.
+__label__hun Szakadatlanul szakadt az eső.
+__label__hun A távolban egy kunyhóféleség volt látható.
+__label__hun Kicsi a házam.
+__label__hun — Jaj, te minden összeesküvés-elméletet elhiszel! — Te meg a mainstream médiának hiszel el mindent.
+__label__hun Hittek nekünk.
+__label__hun Csak mi ketten mentünk el végül sátorozni?
+__label__hun Az óriás sárkány elvitte az égboltról a csillagokat.
+__label__hun Az állam mind kapzsibb és amellett zsugoribb.
+__label__hun Ez túl csípős.
+__label__hun Ez egy kizsákmányoló rendszer. Meg kell szüntetni!
+__label__hun Jobb vagy, mint ő.
+__label__hun Mindenki hitt nektek.
+__label__hun Ő vagy én menjek?
+__label__hun Németország bezáratta az atomerőműveit, most Franciaországtól veszi az áramot atomerőművekből.
+__label__hun Egy háborúnak csak vesztesei vannak a fegyvergyárosokon kívül.
+__label__hun Nem tudtam, miként válaszoljak a kérdésedre.
+__label__hun Már harminc éve tanár vagyok.
+__label__hun Nem cigizik és nem is iszik.
+__label__hun Hazudik, hogy az előző hazugságát fedezze.
+__label__hun Hosszú út vár ránk.
+__label__hun A bírót halálra késelte egy férfi prostituált.
+__label__hun Tom fojtogatja a kígyót.
+__label__hun Túl régóta él már egyedül.
+__label__hun Nem minden rózsaszín.
+__label__hun Egész életében csak álmodozott.
+__label__hun Az elnök öreg és demens.
+__label__hun Folyton csak panaszkodsz.
+__label__hun Te tényleg arra a lóra fogadtál?
+__label__hun Izlandról származnak.
+__label__hun Mondja meg, hová tette a térképet!
+__label__hun Csak két kezem van!
+__label__hun Azt mondta, házas.
+__label__hun Ő nyújtja a legjobb szolgáltatást.
+__label__hun Ezek valami belterjes idióták.
+__label__hun Nem tartod furcsának, hogy a gyilkos egy gyenge, vézna öregember?
+__label__hun Simán elhitték.
+__label__hun Bízol magadban.
+__label__hun Ez az ő háza.
+__label__hun Hosszú lesz a következő hét.
+__label__hun Kitartott mellettem jóban-rosszban.
+__label__hun Minél több évet eltölt valaki az oktatási rendszerben, annál kevésbé képtelen már józan paraszti ésszel gondolkozni.
+__label__hun A politika az emberek megvezetése. A politika a pénzek szétszórása. A politika a pénzek lenyúlása. A poltitika az emberek megosztása. A politika a népek közötti gyűlöletkeltés.
+__label__hun Anna az osztály legjobbja, és mégcsak nem is stréber.
+__label__hun Elmesélek nektek egy történetet, ami velem történt meg.
+__label__hun Eddig csak öten vagyunk összesen.
+__label__hun Mikor van rám szükségetek?
+__label__hun Egy üres tányér volt előtte.
+__label__hun Legjobban az emberek közönye bosszant.
+__label__hun Ők ezt elhiszik.
+__label__hun Ne adj rá neki okot!
+__label__hun Amerikai állampolgár vagyok.
+__label__hun Ezek a cuccok nekem már nem kellenek.
+__label__hun A gonosz király bezárta a Holdkirályt a pincéjébe.
+__label__hun Megcsókoltam a homlokát.
+__label__hun — Gyúrsz? — Ja. Hogy meg tudjam védeni a családomat.
+__label__hun Akkor együnk!
+__label__hun Ne vegye tőlem rossz néven!
+__label__hun — Te magyar vagy? — Nem, szlovák.
+__label__hun A hó csak hullt és hullt.
+__label__hun Nincs semmi bizonyíték rá, hogy a 77-es járat becsapódott volna a Pentagonba – egyetlen megtalált bőrönd, ülés, utas vagy akár videó.
+__label__hun Ez nem a legjobb minőség, de nem is rossz.
+__label__hun Ez egy picit túl nehéz.
+__label__hun Sokan állnak sorban.
+__label__hun Félek a kóborkutyáktól. Védj meg tőlük, jó?
+__label__hun Miattam mész el?
+__label__hun Nekik nem kell megtudniuk.
+__label__hun Most nem tudok erről beszélni.
+__label__hun Nem győz meg a magyarázatod.
+__label__hun De puccos autód van!
+__label__hun Maríát megcsókolta Don Diego, amit Don Alfonso látott a ló mögül.
+__label__hun Mindenki hitt nekünk.
+__label__hun Nem bírod el!?
+__label__hun A Seychelle-szigetekről való.
+__label__hun Te dobsz kétszer.
+__label__hun Egész testemben remegni kezdtem.
+__label__hun Ezt most komolyan kérdezed?
+__label__hun Az eső elmosta a nyomokat.
+__label__hun Ha elfelejteném, emlékeztess!
+__label__hun A világjatalmi elit a pedofília elfogadtatásán van.
+__label__hun Bioterroristák ezek.
+__label__hun Mire mutattál?
+__label__hun Amiről folyamatosan beszélnek a médiában, az az agenda része; mint a migránsválság, a Covid vagy a klímahiszti.
+__label__hun Ő az első nő, akivel elmentem valahova.
+__label__hun A világot s a benne lakókat teremtő Isten nem lakik emberi kéz emelte templomokban.
+__label__hun Mennyi ideje állsz és vársz?
+__label__hun Az emberek kezdték elhinni.
+__label__hun Nem hiszem, hogy van más lehetősége.
+__label__hun Miről lehet megtudni egy tojásról, hogy záptojás-e?
+__label__hun Széthullik a családunk.
+__label__hun Itt már nem vagyok biztonságban.
+__label__hun De hisz ezek üresek!
+__label__hun Ne maradjatok sokáig!
+__label__hun A politikusok a társadalom legkárosabb elemei.
+__label__hun Nem gyakorolja a vallását.
+__label__hun Vajon mennyit keresett Bill Gates tisztán a Covid-pandémián?
+__label__hun Rám senkinek nincs szüksége.
+__label__hun A tengerben lubizok.
+__label__hun Tom egy kicsit őrült.
+__label__hun Pocsolyák vannak mindenfelé, mert tegnap esett.
+__label__hun Eddig csak chat-en beszélgettünk.
+__label__hun Van csütörtökön egy szabad időpontom.
+__label__hun Ilyenekről nekem tulajdonképpen lövésem sincs.
+__label__hun Ez a mi titkunk.
+__label__hun Nevetésre semmi ok.
+__label__hun Úgy tűnik, fordul a szerencsénk.
+__label__hun Sok ideje nem marad Istvánnak a fiára.
+__label__hun Te mindent elhiszel.
+__label__hun Nem feküdhetsz itt egész nap!
+__label__hun No, együnk!
+__label__hun Nem láthatnak ők minket.
+__label__hun Nem érdekel, hogy hiszed-e vagy sem.
+__label__hun Messziről jött ember, azt mond, amit akar.
+__label__hun Tartsunk már egy szünetet az árnyékban!
+__label__hun Nem én írtam ezt az üzenetet.
+__label__hun Ezt mi alkottuk.
+__label__hun A politikusok hazug tolvajok.
+__label__hun Most akarok menni.
+__label__hun Jobb vagy nála.
+__label__hun Tom hajlamos a lustálkodásra.
+__label__hun Itt egy üzlet volt anno.
+__label__hun Ön végezte a műtétet?
+__label__hun Rendkívül hálás vagyok maguknak.
+__label__hun Néhány osztálytársad van itt.
+__label__hun Megpusziltam a hasát.
+__label__hun Hittem neki.
+__label__hun Azt mondtad, elveszel!
+__label__hun Én vagyok az új professzor.
+__label__hun A nyugat dekadenciáját belső erők vezérlik.
+__label__hun Pöpec verdád van!
+__label__hun Homlokon csókoltam.
+__label__hun Nem beszélek koreaiul.
+__label__hun Hideg vízben fürödtem.
+__label__hun Holnap nem jó, de a holnapután sem.
+__label__hun Milyen színű ez: zöld vagy kék?
+__label__hun El tudod azt képzelni?
+__label__hun Európa jóléti országai (Svájc, Ausztria, Finnország, Svédország és Norvégia) nem voltak tagjai a NATO-nak.
+__label__hun Douglas Adams az írók Salvador Dalija.
+__label__hun Nevetséges az elméleted.
+__label__hun A befagyott tóra hajtott a sofőr.
+__label__hun Igen! Ez az én lányom!
+__label__hun Miért mesélsz ilyen butaságot?
+__label__hun Dugjunk.
+__label__hun Az örömtől sírt.
+__label__hun Bassza meg a Világgazdasági Fórum!
+__label__hun Eddig türelmes voltam.
+__label__hun Sok házim van holnapra.
+__label__hun Vaddisznók túrták fel a kertemet.
+__label__hun Meg vannak kötve a kezeink.
+__label__hun Ki ír neked?
+__label__hun Ne is álmodjon róla, ez nem fog megtörténni.
+__label__hun Ismételten egyedül volt.
+__label__hun Az elnök két lábon járó zöldség.
+__label__hun Tudna várni egy percet?
+__label__hun Agenda 2030-as zászlót égettek.
+__label__hun Amíg kellett nekem, együtt voltunk.
+__label__hun Mikor lesz melegebb?
+__label__hun Sajnos ez egy globális folyamat; az egész világon ez van – hiába költözöl el.
+__label__hun Tedros Adhanom Ghebreyesus-t személyesen Bill Gates tette a WHO elnöki székébe.
+__label__hun Ha egy összeesküvés elméletet tagadni kell, akkor az már gyanús.
+__label__hun Elon Musk technokrata, ahogy a felmenői is azok voltak már.
+__label__hun Tomi és Mari nem merik kimondani a saját igazukat.
+__label__hun A harmadik albumán dolgozik.
+__label__hun Lehet enni.
+__label__hun Kettőnknek négy gyereke van.
+__label__hun A bomba úgy volt időzítve, hogy harminc perc elteltével robban.
+__label__hun Tudom, hogy nem vagy még felkészülve rá.
+__label__hun A boltban ugyan nincs meg minden, de a legszükségesebbek igen.
+__label__hun Fel kell készülnünk a következő világjárványra.
+__label__hun A vezeték el volt vágva.
+__label__hun Ezt abba kell hagynod.
+__label__hun Sört ittam.
+__label__hun Csak magamra haragszom.
+__label__hun Merre megyünk?
+__label__hun Ezek nem véletlenül történnek meg egymás után.
+__label__hun Megetted az ebédet?
+__label__hun Tönkre akarják tenni a gazdákat mindenhol.
+__label__hun Ez szerinted olyan nehéz?
+__label__hun Ez volt a legjobb az egész utazásban.
+__label__hun Hát most meg miért sírsz?
+__label__hun Még nincs jövő.
+__label__hun Tom szomorúnak tűnt.
+__label__hun Csak a szüleitől nem viseli el a kritikát.
+__label__hun Focizol vagy rögbizel?
+__label__hun Nehéz manapság jó segítséget találni.
+__label__hun Még mindig nem hallottam a válaszodat.
+__label__hun Látta önök közül valaki ezt a fiút?
+__label__hun Van sofőröm.
+__label__hun Beszélsz franciául, vagy nem?
+__label__hun A hajó nem magától süllyedt el.
+__label__hun Azáltal, hogy megszületsz, még nem leszel nemes.
+__label__hun A férjem egy nővel jött a házunkhoz, amikor én ott voltam a szeretőmmel.
+__label__hun Csak egy vékony fal választja el a két helyiséget.
+__label__hun Ahogy én látom, az emberek jobban szeretnek eredeti mondatokat fordítani.
+__label__hun Az Isten teremtette meg az embereket vagy az emberek az Istent?
+__label__hun Az elnök egy sétáló zöldség.
+__label__hun Oda nem mehettek!
+__label__hun Van egy eltitkolt fia.
+__label__hun Újra és újra büszke vagyok a mi Annánkra.
+__label__hun Békében akarunk élni.
+__label__hun Vizbe dugta a madár a fejét.
+__label__hun Nem elég mondani, csinálni is kell.
+__label__hun Szeretne még valaki beszélni?
+__label__hun Sajtot eszik és bort iszik.
+__label__hun Senki sem mondott olyat, hogy nincs pénz a szemétben.
+__label__hun Az MI-nek nincs humorérzéke.
+__label__hun Egyetek, igyatok, drága barátaim, amennyi csak belétek fér!
+__label__hun Nincs más megoldás, mint negszökni.
+__label__hun Próbálta nem mutatni a félelmét.
+__label__hun Tájékoztatnod kellett volna engem korábban.
+__label__hun Kevesebb mint negyedig van a benzintank.
+__label__hun Na, ha média állítja, hogy ez a valóság, akkor a valóság biztosan valami más.
+__label__hun A szabadság átbaszás a demokrácia meg délibáb.
+__label__hun Itt lakni nem olcsó.
+__label__hun Friss a hal.
+__label__hun Rövidítsd le ezt a mondatot kicsit.
+__label__hun Sok tanulnivaló van holnapra.
+__label__hun Kerested mindenütt?
+__label__hun Nem fürödtem, mert nem volt meleg víz.
+__label__hun Tudtam, hogy megszerzem őt magamnak.
+__label__hun Mi áll ott? Innen nem látom én.
+__label__hun Nagy ez az alma.
+__label__hun Próbáltam már így is meg úgy is...
+__label__hun Gyere át hozzám!
+__label__hun Nem ért sokat a mai napom.
+__label__hun Nem vagyok benne biztos, hogy valóban őt láttam.
+__label__hun A felesége japán.
+__label__hun Meg kell tanulnunk szeretni.
+__label__hun Ellopták a bankkártyámat.
+__label__hun Az osztály fele lány.
+__label__hun Ő is látja ezeket a dolgokat.
+__label__hun Amikor fiatal volt, népszerű volt.
+__label__hun Te egy igazi nyelvtanbuzi vagy és a Dudenre élvezel.
+__label__hun Valóban megéri ez?
+__label__hun De hiszen neked nincsenek is barátaid!
+__label__hun Véres volt az ingujja.
+__label__hun Tomi és Mari médiahívők; cinikusok azokkal szemben, akik nem hisznek már a médiának, és hajlamosak elfelejteni, mit hazudott a média két hete, két,éve vagy húsz éve.
+__label__hun Magamra haragszom.
+__label__hun Ők nem látnak minket.
+__label__hun Megjavították az autódat?
+__label__hun Mélyen megérintett a film.
+__label__hun Ráfagyott a levegő páratartalma.
+__label__hun Ő hogy van?
+__label__hun Keményebben dugj!
+__label__hun Ez baromi nagy bika! Ilyet még sosem láttam!
+__label__hun A feleségem tud rólad.
+__label__hun Megittam egy sört.
+__label__hun Vedd fel a kardigánom!
+__label__hun Ezt már nem érdemes megjavítani.
+__label__hun Van bármi fogalmad róla, ki ő?
+__label__hun Ez nem szószerinti fordítás, viszont ez tűnik a legtermészetesebbnek.
+__label__hun Holnap vásárolgatni fogok.
+__label__hun Megállás nélkül esett a hó.
+__label__hun Tom kiakasztotta a gigáját és gurította le a sört.
+__label__hun Gyerekkorom kondenzcsíkjai nem maradtak meg egy órán keresztül az égen.
+__label__hun Ő a harmadik fiam.
+__label__hun Sétált a fiú, és számolta a lépéseit.
+__label__hun Nem kell sokat várnotok.
+__label__hun Elmentem a könyvtárba fénymásolni.
+__label__hun Annyi év után is emlékezett még rám.
+__label__hun Ma nagyon meleg van kint.
+__label__hun Nem dohányzik és nem iszik.
+__label__hun Kémkednek utánunk.
+__label__hun Mikor lesz a következő kupa?
+__label__hun Hogy van a család?
+__label__hun Az igazság átbaszás.
+__label__hun Byrd admirális naplóját halála után a fia jelenttette meg.
+__label__hun Ezt ki találta?
+__label__hun Ez a legbiztonságosabb börtön.
+__label__hun Az optimisták rosszul informált pesszimisták.
+__label__hun Mindenki elhagyta a termet.
+__label__hun Nem jutottam sokra a mai napon.
+__label__hun Szerintem elfelejtett.
+__label__hun Eddig megvagyunk, de hogy ez után mi lesz...
+__label__hun A rendőrség nem a népet és az alkotmányt védi, hanem a kormányt.
+__label__hun Amerikai lakos vagyok.
+__label__hun A kutya mindenhova követte, ahova csak ment.
+__label__hun Mondjad, merre menjek!
+__label__hun Kék szemeik vannak.
+__label__hun Nem tudják elkezdeni nélkülem.
+__label__hun Hajlamos rá Tom, hogy eltúlozzon dolgokat.
+__label__hun Korábbit jobban bírtam.
+__label__hun Ez a legjobb variáns.
+__label__hun Apám két évvel fiatalabb, mint az anyám.
+__label__hun Láttad is?
+__label__hun Nem találták a kutyáikat.
+__label__hun Én is félek kicsit.
+__label__hun Az embereknek néha szüksége van rá, hogy egymagukban legyenek.
+__label__hun Még mindig nem vagytok készen!?
+__label__hun Nem látom a csillagokat, be van borulva.
+__label__hun Hogyan jutok oda?
+__label__hun A befektetés rövid távon veszteség, hosszú távon nyereség.
+__label__hun Nem mertek nemet mondani.
+__label__hun Eleget áldoztunk.
+__label__hun Megmondtam, hogy minden rendben!
+__label__hun Ez most egy csók volt?
+__label__hun Megjavítottad a dudát?
+__label__hun Amikor Tomi ismét magához tért, sötét volt a helyiségben.
+__label__hun Hittünk neki.
+__label__hun Ők nem emberek.
+__label__hun Kérnek bort?
+__label__hun — Itt forduljon balra! Ballra! Ballra! — Melyik bal? — A másik bal! Amelyik kézen jobboldalt van a hüvelykujj! Molnár úr! Most hajtson oda hátulra, a parkolóba és forduljon meg!
+__label__hun Nem ettél és nem ittál ma.
+__label__hun Lássunk neki enni!
+__label__hun Azt hittük, egyedül vagyunk.
+__label__hun Megkaptad, ami kell neked?
+__label__hun Tom még mindig a szülei mellett alszik.
+__label__hun Szeretem a száraz bort.
+__label__hun — Mikor érsz rá? — Mire?
+__label__hun A Big Brother célja, hogy az embereket szoktassa a gondolathoz, hogy kamerákkal megfigyelt világban élnek.
+__label__hun A "klímaváltozás" miatt legelőször és legfőképpen meg kell szüntetni a magánrepülőket, jachtokat és óceánjárókat.
+__label__hun Megvan a véleményem, csak nem mondom inkább el.
+__label__hun A jaguárok levadásszák a lajhárokat, amikor azok lejönnek a lombkoronából kakkantani.
+__label__hun A temetésén sem voltam ott.
+__label__hun Nálunk minden van a boltban.
+__label__hun Hittek nekik.
+__label__hun Remélem, nincs nagy baj.
+__label__hun Fiatal korában közkedvelt volt.
+__label__hun A vendéglátóiparban mosolyognod kell.
+__label__hun Egy fülbemászó dallamot a legegyszerűbben egy másikkal lehet elűzni.
+__label__hun Jöjjetek közelebb! Nem akarom, hogy más is hallja, amit mondok.
+__label__hun Fölöttébb hálas vagyok önnek.
+__label__hun Hagytam, hogy megcsókoljon.
+__label__hun Meg tudsz tanítani?
+__label__hun Neki nem kellettek gyerekek. Egy igazi egoista ember.
+__label__hun A mindenit! Nem gondoltam volna ezt Istvánról! Mestermunka volt, ahogy egyedül kivágta magát ebben a vitában öt emberrel szemben, beleértve a moderátort is.
+__label__hun Kizsákmányoló rendszer ez.
+__label__hun Nem vagyok képes megoldani ezt.
+__label__hun Hittek neked.
+__label__hun Annalena Baerbock Németország szégyene, totálisan alkalmatlan politikusnak.
+__label__hun Nyolcmilliárd ember él a Földön.
+__label__hun Csak mi voltunk ott.
+__label__hun Senkinek nem kell egymilliárd dollár az élethez. Ezek lelkileg beteg vagy elmeháborodott, istentelen emberek.
+__label__hun Én olyan voltam, mint te most.
+__label__hun Megint aktív a vulkán.
+__label__hun Elektromos autót csak a buzik vesznek.
+__label__hun Nem tesz mást, csak nyafog egész nap.
+__label__hun No, várj csak! Ezt visszakapod még!
+__label__hun Egyenes vonalat rajzolt a papírra.
+__label__hun Ha-ha.
+__label__hun Hulk kettétépte a miniszterelnököt.
+__label__hun Ostobaság lenne azt állitani, hogy ez csak politika; hiszen ez az életünk.
+__label__hun Ezt eddig még senki másnak nem mondtam el.
+__label__hun Másik szakmát kell kitanulnom.
+__label__hun — Vettem egy tojást. — Nem tudsz egy tojást venni.
+__label__hun Én csak téged szeretlek!
+__label__hun Egészséges leszek megint?
+__label__hun Kac-kac.
+__label__hun Hol a hal?
+__label__hun A kutyák sokszor elássák a csontot.
+__label__hun Uralkodott az érzésein.
+__label__hun Látta valamelyőtök ezt a fiút?
+__label__hun Senki sem hitt nekik.
+__label__hun Meztelennek éreztem magam a fegyverem nélkül.
+__label__hun A Disney új sorozatában Romolusz egy afrikai nő, akinek öccse, Ábel, egy nemátalakitó műtéten esett át.
+__label__hun Baszd meg az alapelveidet!
+__label__hun Mit ünneplünk?
+__label__hun Velem senki nem akar lefeküdni.
+__label__hun Apám golfozik, de nem valami jól.
+__label__hun Nem a fiunk pólóját vetted fel?
+__label__hun Leszarja a következményeket.
+__label__hun A boltban vett csirke fele antibiotikum és hormonok.
+__label__hun Ha segítek magának, engem kirúgnak.
+__label__hun A történelem tele van ferdítésekkel.
+__label__hun — Hol tanult meg Schwarzenegger angolul? — Gondolom, a Kijevi Haditengerészeti Főiskolán.
+__label__hun Csomó embernek tartozom rakás pénzzel.
+__label__hun Hitler és Angela Merkel is fel lett terjesztve Nobel békedíjra.
+__label__hun Tom majd ki bújik a bőréből örömében.
+__label__hun Jó lenne, de ez soha nem fog megvalósulni.
+__label__hun A fa árnyéka a falra vetült.
+__label__hun Na, elfogyott a kraft?
+__label__hun Tom előszeretettel beszél franciául.
+__label__hun Tom besokalt ebből a megerőltető szakmából.
+__label__hun A klímavédelem érdekében legelőször be kellene tiltani a magánrepülőket és yachtokat és az óceánjáró hajókat.
+__label__hun A nőkkel szépen kell beszélni.
+__label__hun A tó is befagyott.
+__label__hun Hazudni tudni kell.
+__label__hun Nekem elég volt mára a sokkhatásokból. Ki vagyok, mint állat!
+__label__hun Kac-kac-kukac.
+__label__hun Azt állítva, hogy a Covid-19 pandémia átbaszás, Tom elutasítja a maszk hordását.
+__label__hun Tom nem szereti a háziállatokat.
+__label__hun Befolyásos barátokra van szükségem.
+__label__hun Van fogalmad róla, ki ő?
+__label__hun — Nem feküdhetsz itt egész nap! — Miért nem?
+__label__hun Hét nyelven beszél. Berber és francia az anyanyelve.
+__label__hun Néha az az érzésem, hogy Tom szeret az emberek agyára menni.
+__label__hun A tömeg Bill Gates letartóztatását követelte.
+__label__hun Hosszú a sor.
+__label__hun Túlenni magad nem tesz jót az egészségednek.
+__label__hun Nem tudok semmit se mondani erről.
+__label__hun Minden költözéskor elveszett valamim.
+__label__hun Hittél Tomnak?
+__label__hun Ez nem csúcsszuper minőség, viszont nem is gagyi.
+__label__hun Ez a ló nagyon sokba kerül.
+__label__hun Nézd, ez olcsóbb!
+__label__hun Ki ez az úri picsa!?
+__label__hun Már ők nyertek.
+__label__hun Folyamatosan csak sír a szád!
+__label__hun Elment orvoshoz.
+__label__hun Az életnek nincs értelme, míg nem adsz neki.
+__label__hun Te nem mehetsz oda!
+__label__hun A WEF milliárdos gecikből áll.
+__label__hun Magamra hagynátok?
+__label__hun Az alvás nem pótolható.
+__label__hun Magasabb már, mint az apja.
+__label__hun Senki sem hitt nekünk.
+__label__hun Vártam, amíg kiszabadulsz.
+__label__hun Ők nem akarják ezeket látni.
+__label__hun Faszom ebbe az időjárásba!
+__label__hun A szerelmet nem lehet kikényszeríteni.
+__label__hun Ezt csak az nem látja, aki nem akarja látni.
+__label__hun A fivérem angolul tanul.
+__label__hun Add neki azokat.
+__label__hun Nincs időm várni.
+__label__hun Kínában soha sem volt igazából demokrácia.
+__label__hun Mari annyit sírt, hogy egy új tenger alakult ki.
+__label__hun Merem remélni!
+__label__hun Ilyen szépet még nem mondott nekem senki.
+__label__hun Te egy gyerek vagy.
+__label__hun Nem ezért teszem.
+__label__hun Nem, nem akarok.
+__label__hun Baszd meg a diplomádat!
+__label__hun Rab vagy?
+__label__hun Ő álmaim nője.
+__label__hun A szerződés automatikusan meghosszabbodik évenként.
+__label__hun Ő megkapott mindent.
+__label__hun Nincs hűvös a házban.
+__label__hun Tomnak nehéz gyerekkora volt.
+__label__hun Jó jel volt.
+__label__hun Megittam egy rövidet és egy sört.
+__label__hun Románul akarok tanulni.
+__label__hun Nem ön a polgármester?
+__label__hun Fenn vagy Faszbukon?
+__label__hun Ne engedd a gyerekeket idejönni!
+__label__hun Nem hinném, hogy az igazság feltárása gyűlöletbeszéd lenne; viszont az elhallgatása sokkal inkább idiótizmus.
+__label__hun Nem, én nem hiszek abban, amit ti mondotok.
+__label__hun Az embereknek ez nem tetszik, mégis ezt csinálják.
+__label__hun — Miért mosolyogsz? — Miért? Kell a mosolygáshoz indok?
+__label__hun Eddig csak chat-eltünk egymással.
+__label__hun Ha nem tévedek, láttam már ezt az embert valamikor.
+__label__hun Hogy a Földön valóban nyolcmilliárd ember él-e vagy csak mondják, fogalmam sincs.
+__label__hun Ma akarok elmenni.
+__label__hun A történelem csupa hazugság.
+__label__hun Ez a legnehezebb a munkámban.
+__label__hun Spanyolt és angolt tanítok.
+__label__hun Gyere fel hozzám!
+__label__hun Szívesen szendergek ebéd után.
+__label__hun Katolikus, de nem jár templomba.
+__label__hun Válaszokat kell kapjak.
+__label__hun A tököm tele van ezekkel a vén, faszkalap milliárdosokkal, akik jó ember látszatát akarják keltetni magukról!
+__label__hun Igazán szimpatikusnak találom azokat, akik visszautasítják az Oscar és Nobel díjat.
+__label__hun Próbálj meg aludni!
+__label__hun A piramisok nem sírhelyek; egy múmiát sem találtak még piramisokban.
+__label__hun Gyorsabban kéne dolgoznunk.
+__label__hun Jó fizetése van.
+__label__hun A gyerekek almát esznek.
+__label__hun A fénymásolót jött megszerelni?
+__label__hun Magyarul beszél.
+__label__hun Mire kértelek én téged?
+__label__hun Vasárnap soha nem vagyok otthon.
+__label__hun A bátyám angolul tanul.
+__label__hun Hajamos rá Tom, hogy túlgondoljon dolgokat.
+__label__hun Tudom, hogy ez neked nem könnyű.
+__label__hun Vannak ezeknek a gyerekeknek szüleik?
+__label__hun Ha az igazság leírása gyűlöletbeszéd, akkor az igazság bizonyára ronda dolog.
+__label__hun Nem tehetem meg, hogy több időt veszítsek.
+__label__hun Bill Gates a mesterséges hús atyja.
+__label__hun Kitanultam nála a kovács mesterséget.
+__label__hun A miniszterelnök neve nálunk a családban egy szitokszó.
+__label__hun Miért halt meg?
+__label__hun Itt volt a párkányon egy kék madár.
+__label__hun Van valami bajod velem?
+__label__hun Tom helyettesít majd engem.
+__label__hun Mondj mindig igazat!
+__label__hun Gyertek közelebb! Nem akarok hangosan beszélni.
+__label__hun Te senkit nem szeretsz.
+__label__hun Tom van sapkája, nincs sapkája játékot játszik az egyszeművel.
+__label__hun Mi az a haiku?
+__label__hun Tomnak rákja volt.
+__label__hun Kerékpárral megy munkába.
+__label__hun Kérem, üljön le, jó?
+__label__hun A politikusok és a bankármaffia kirabolnak minket és mi nem teszünk ellene semmit.
+__label__hun Megkérhetném, hogy Tom csinálja meg?
+__label__hun Egész évben itt fogok maradni.
+__label__hun Kit hallottál?
+__label__hun Egy sört ittam.
+__label__hun Nem tarthatod meg az összes kismacskát!
+__label__hun A nővérem fia annyi idős, mint a kisebbik öcsém.
+__label__hun A biztosítónk nem egy jótékonysági intézmény, világos, kollégák?
+__label__hun Együnk hát!
+__label__hun Lakásban élek.
+__label__hun Tudod, mi baja a fénymásolónak?
+__label__hun Jöjj kicsit közelebb, és jobban fogod látni.
+__label__hun Valami nem oké a lifttel.
+__label__hun Az örömtől sírni kezdett.
+__label__hun Valaki biztos meg tudja csinálni.
+__label__hun Az ő országában 60 éve jólét van már, és nem tudja elképzelni, hogy ez máshogy legyen.
+__label__hun Megtalálták a gyilkos fegyvert?
+__label__hun Egy medúza volt a hátán.
+__label__hun Lovagolni tanulok.
+__label__hun Na, együnk!
+__label__hun Szükségét látom, hogy beavatkozzam.
+__label__hun Fizess több adót, és megszűnik az ózonlyuk.
+__label__hun Ez velem történt meg.
+__label__hun Most megyünk enni.
+__label__hun Amerika Ukrajnán keresztül akarja behozni Európába a GMO-s gabonát.
+__label__hun Úgy tett Tom, mint aki nem látná, mi történik.
+__label__hun Ha a média mondja, akkor biztosan úgy van.
+__label__hun Változásokra van itt szükség.
+__label__hun Nekem holnapra kell.
+__label__hun Más és más a célunk.
+__label__hun Mindig fordítva van rajta a baseball sapka.
+__label__hun Bassza meg magát bill gates!
+__label__hun Csak hárman vagyunk.
+__label__hun Tudod, mit akarsz csinálni?
+__label__hun Ötnapos munkahetünk van.
+__label__hun Nagyon szép nő volt, de most borzalmasan sovány.
+__label__hun A legnehezebbet kérem tőletek: Gondolkodjatok!
+__label__hun Éhes vagyok még.
+__label__hun Igen, kettőt.
+__label__hun Megcsinálták az autód?
+__label__hun Szeretnék egy autót és egy nagyobb házat.
+__label__hun Isten hozott a kémia világában!
+__label__hun Mi a te dolgod?
+__label__hun Nálunk minden megtalálható a boltban.
+__label__hun A holdraszállások nem voltak kamuk. Egyszerűen csak elfelejtették azt a technológiát.
+__label__hun Hittek nekem.
+__label__hun Tegnap még csak húsz-harmincan voltunk, ma meg már több százan.
+__label__hun Szeretnéd, hogy most egyedül hagyjunk inkább?
+__label__hun Isten dühös most ránk.
+__label__hun A politikusok herék.
+__label__hun Sok vizet használok el.
+__label__hun Így hívnak néhányan.
+__label__hun Davosban összegyűltek megint a geciládák.
+__label__hun A gyerekekre az egyik nagynénjük vigyázott.
+__label__hun Ezt tanitják az iskolában és ezt kell tudni a gyerekeknek, de tudjuk, hogy ez nem igaz.
+__label__hun Csak egy sört ittam.
+__label__hun — Csodás az este, nem gondolod? — De igen, csak nagy a hőség.
+__label__hun Ismét egyedül volt.
+__label__hun A jó embereknek nincs egymilliárd dollárjuk.
+__label__hun A Föld kétharmadát fedi víz.
+__label__hun Zenét kellene hallgatni.
+__label__hun Ezt én soha nem engedhetném meg magamnak.
+__label__hun Nem bírtam megállni röhögés nélkül.
+__label__hun Néha a média is mond igazat.
+__label__hun Most már az enyém.
+__label__hun Ezt most őszintén kérdezem.
+__label__hun Holnap nem jó.
+__label__hun Hétfőnként miért van sok kocsma zárva?
+__label__hun Simán bevették.
+__label__hun Fél kézzel beledöngöllek a földbe.
+__label__hun Úgy tűnik, nincs más választási lehetőségünk.
+__label__hun A tetőt javítjuk.
+__label__hun Csak nagyon kevesen vették ezt egyáltalán észre.
+__label__hun Ezek a politikusok egyertelműen a globalistákat szolgálják.
+__label__hun Tom elkészült.
+__label__hun Skacok, láttatok valamit?
+__label__hun Most hol él ő?
+__label__hun Szerbiai magyar vagyok.
+__label__hun Úgy hiszem, ő gazdag.
+__label__hun Tom valóságtagadó: látja azokat a csíkokat, de azt mondja, nincsenek.
+__label__hun Az egyáltalán nem új.
+__label__hun Baszd meg a zenédet!
+__label__hun Mindig is egészséges voltam én.
+__label__hun Türelmesnek kellett volna lenned.
+__label__hun Nem érdeklem őt.
+__label__hun Németország újraindítja a lignit-erőműveit.
+__label__hun Nem vagyok szívesen otthon.
+__label__hun Most az enyém.
+__label__hun Tom and Mary valóságtagadók.
+__label__hun Megittam egy pálinkát és egy sört.
+__label__hun A gonosz nem buta, csak gonosz.
+__label__hun Ne sírj már, na!
+__label__hun Nem adom be a kutyát menhelyre. Az ki van zárva!
+__label__hun Sajnálom hogy ezt kell mondanom, de az ilyen agymosott marhák miatt vannak háborúk, akil felhatalmazzák a kormányaikat a gyilkolásra, akik miatt a bankok, biztosítók és kormányok legálisan kirabolhatják a népet, akik miatt az "elit" bármit megtehet.
+__label__hun Meghalt és én nem voltam mellette.
+__label__hun Az állítás, hogy a Föld kettő- vagy hárompolusú a legnagyobb átbaszás.
+__label__hun A hazugságaik életekbe kerülnek.
+__label__hun Még a harminc perc is túl sok.
+__label__hun Nem lány vagy.
+__label__hun Fent vagy a Face-en?
+__label__hun A sofőr a folyóba hajtott.
+__label__hun Itt van a bal zsebemben.
+__label__hun Az életünk különbözik a tiétektől.
+__label__hun Én nem ültetek fákat; az baromság.
+__label__hun Most haragszik ránk az Isten.
+__label__hun A holnap nem jó és a holnapután sem.
+__label__hun Szép szemeid vannak.
+__label__hun Kész van, ehető.
+__label__hun Azt hittük, magunk vagyunk csak.
+__label__hun Szerb vagyok, de beszélek magyarul.
+__label__hun Baszd meg a segítségedet!
+__label__hun Neked nem kell senki.
+__label__hun Bizonyítsd be, hogy az A és B pontok által kijelölt egyenes merőleges a D, C pontok által meghatározotthoz képest!
+__label__hun Az embereknek néha szükségük van arra, hogy egyedül legyenek.
+__label__hun — Mennyit ivott? — Egy sört – először.
+__label__hun Nem, nem vagyok biztos ebben.
+__label__hun Ez a mocskos patkány megint szembeköpte a választóit.
+__label__hun Nem érzek semmit sem.
+__label__hun — Ön kér ebédet, uram? — Mi közül lehet választani? — Igen vagy nem.
+__label__hun Olyan voltam én, mint amilyen te vagy most.
+__label__hun Ezt nem lehet megjavítani.
+__label__hun Kékek a szemeik.
+__label__hun Csak két szelet kenyér van.
+__label__hun Én szeretem a telet, míg Tom utálja.
+__label__hun Nem csomagoltál ételt?
+__label__hun Csak a banki tranzakciós díjak évente 150 milliárd forintba kerülnek Magyarországon.
+__label__hun Minden nap dolgoznia kell majd.
+__label__hun — Már óvodában keményen tanulnak, hogy mindenki atomfizikus és űrhajós lehessen. — Ó, ez annyira sajnálatos! Mindenkinek szüksége van a kreatív gyerekkorra sok játékkal, hogy ember legyen, ne pedig egy robot.
+__label__hun Meghívtam a barátaimat.
+__label__hun Összevérezel, bazd meg!
+__label__hun Visszaadtad Tomnak a pénzét?
+__label__hun Nem szabad hinned neki!
+__label__hun Házat vagy lakást vettél?
+__label__hun Anyátok volt a legszebb lány az iskolában.
+__label__hun Ez egész szám.
+__label__hun Nem mondott semmit, de tudtam, hogy valami baj van.
+__label__hun Elvörösödött Mari.
+__label__hun Szerintem az nem puszi volt, hanem csók.
+__label__hun Két-három alkalommal találkozom velük a hónapban.
+__label__hun Semmi kedvem arra várni, hogy ezt megcsinálja ön.
+__label__hun Éva nem csak a legjobb tanuló az osztályban, de a legszebb lány is az iskolában.
+__label__hun Megőrülök érte!
+__label__hun Jobb lesz, ha indulsz.
+__label__hun Túlerőben vannak a buta és rabszolgalelkű emberek.
+__label__hun Mennyibe került az?
+__label__hun Én már csak nyugodt életet akarok.
+__label__hun Úgy ettünk a grillpartyn, mintha nem lenne holnap.
+__label__hun A póló nem éppen a legmegfelelőbb felvételi beszélgetéshez.
+__label__hun Három nap alatt kiolvastam ezt a könyvet.
+__label__hun Nem muszáj válaszolnia, ha nem akar.
+__label__hun Ennie kell.
+__label__hun Ha már egyszer megkérdeztél, hallgasd védid a válaszom!
+__label__hun Mindannyian kaptak valamit, csak Tom nem kapott semmit.
+__label__hun Még csak nem is sajnálom.
+__label__hun Már nem dolgozik itt.
+__label__hun Te gyűrted orrba Tomot?
+__label__hun Tomnak tanácsra van szüksége.
+__label__hun Nem csinálta meg a fiú a háziját.
+__label__hun A tetőn dolgozunk.
+__label__hun Mikor akartad megmondani?
+__label__hun Sokkolt, amit láttunk.
+__label__hun Nem, nincsen.
+__label__hun Ilyet még soha senki nem mondott nekem.
+__label__hun Miért nem tudod teljesíteni a kérésemet?
+__label__hun Sok mindent láttam már, de ilyet még soha.
+__label__hun Az országáért dolgozik.
+__label__hun Nekem most ehhez nincs türelmem.
+__label__hun Amikor közelebb jött, láttam már, hogy nem is olyan fiatal.
+__label__hun Megmérgezik a talajt a vizeket, a levegőt, a növényeket, az élelmiszereket, a közösségi életet, a normalitást, az életet en bloc; és ellenségeskedést és gyűlöletet vetnek.
+__label__hun Nem fogadhatok el egy olyanfajta kifogást.
+__label__hun A lányok szaladgálnak, játszadoznak.
+__label__hun Az Egyesült Államok államadóssága több mint 33 trilliárd dollár. Kinek tartoznak?
+__label__hun Ez egyliteres palack.
+__label__hun Átaludtam az órát.
+__label__hun Amit gyakran ismételnek a médiában, az valószínűleg nem az igazság; az egyszerűen propaganda.
+__label__hun Ti ezt tényleg nem látjátok?
+__label__hun Magamra vagyok dühös.
+__label__hun Baszd meg a tanácsodat!
+__label__hun Látni lehet az arcán, hogy gondolkozik.
+__label__hun Baszd meg a hozzászólásodat!
+__label__hun Ez itt a hülyék klubja, vagy mi?
+__label__hun Tudni kell hazudni.
+__label__hun Sírt örömében.
+__label__hun A valóság illuminátus színdarab.
+__label__hun Ezen a helyen egy évtizede még semmi nem volt, csak mező és fák. De szép is volt!
+__label__hun Dolgozóban vagyok.
+__label__hun Fel nem tudom fogni, miért ölték meg!
+__label__hun Az Isten most mérges ránk.
+__label__hun Nincs több, mint 3000 jenem.
+__label__hun Nem értem, amit mondasz, ha sírsz közben.
+__label__hun Van egy üzenetem tőle neked.
+__label__hun Kína a világ szénerőmű-kapacitásának 53%-át adja.
+__label__hun Nem amiatt teszem.
+__label__hun Segítségre szorulok.
+__label__hun Láttam a punciját.
+__label__hun Ez nem igazi hús, hanem valami laboratóriumban előállított szar.
+__label__hun Ez egy rák.
+__label__hun Isten egy elefánt.
+__label__hun Válaszokat kell kapnom.
+__label__hun Baszd meg a véleményedet!
+__label__hun Ez egy része a munkámnak.
+__label__hun Pálmafák hajolnak a tenger fölé.
+__label__hun Koszosak a vécék.
+__label__hun Ha valami a média állításaival áll szemben, akkor az még nem feltétlenül igaz.
+__label__hun Utálom a bürokráciát!
+__label__hun Ez nem ment.
+__label__hun Akartam, de nem tudtam.
+__label__hun Ez van akkor, ha anyu és apu testvérek.
+__label__hun Remélem, látjuk még egymást.
+__label__hun Ahogy látod, telefonálok.
+__label__hun Te számoltál le vagy kirúgtak?
+__label__hun — Bill Gates már tud valamit a következő pandémiáról. — Biztos is. Hiszen ő mondja meg a világszervezetnek, hogy mi lesz.
+__label__hun Szívünk megtelt fájdalommal.
+__label__hun Ez a milliárdos maga az ördög.
+__label__hun Nem vásárolunk zöld békás termékeket; nem bízunk már a covidgiru Bill Gatesi-ben és érdekeltségeiben.
+__label__hun Nekem nincsen ekkora bugyim.
+__label__hun Új lakásba költöztem.
+__label__hun Fenntartások nélkül mindent elhinni a médiának, ostobaság.
+__label__hun Nem tudom, hogy barátok vagyunk-e még.
+__label__hun Majdnem nem tudtuk megcsinálni.
+__label__hun Kövesse, kérem, azt az autót!
+__label__hun Rendeltek már italt?
+__label__hun Nekem csak ő kell.
+__label__hun Négyen lakunk a házban.
+__label__hun Mondj néhány példát!
+__label__hun Egyre csak havazott.
+__label__hun Tom hajlamos rá, hogy dramatizáljon.
+__label__hun A boltban nálunk mindent lehet kapni.
+__label__hun Vártam, hogy kiszabadulj.
+__label__hun A nyakkendőjén valami folt volt.
+__label__hun Vagy tranzakciós díjat fizetsz vagy készpénzfelvételi díjat – a bank minden esetben lehúz téged.
+__label__hun Most meg miért sírsz?
+__label__hun Azóta, mióta Tom és Mary megtudták, hogy ki nem állhatom a miniszterelnököt, azóta nem beszélnek velem.
+__label__hun Megpróbálta Tom elhallgatni az igazat.
+__label__hun Elpirult Mari.
+__label__hun Láttad, hogyan gyártják ezt?
+__label__hun Megy ez a busz az állomás felé?
+__label__hun Csinálhatod!
+__label__hun Maga hajtotta végre a műtétet?
+__label__hun Dolgozom holnap is meg holnapután is.
+__label__hun Ha türelmes vagy és vársz, előbb-utóbb látni fogsz egyet.
+__label__hun Mást sem csinálsz, csak panaszkodsz.
+__label__hun A szobám a kertre néz.
+__label__hun — Bocs, de nekem olyannak tűntök, mint a döglött halak, amelyek a mocskos víz tetején lebegnek — mondta Tom s otthagyott minket.
+__label__hun Ez ugyan nem az én bugyim!
+__label__hun — Az obelszk súlya 250 tonna. Görgőkön húzták. — Ha a tudósok mondják, biztosan így volt.
+__label__hun Zsebbilliárdozik Tom.
+__label__hun A nőknek sokkal egyszerűbb az élet.
+__label__hun Ezért nem akarsz neki segíteni?
+__label__hun Néha úgy tűnik nekem ez az egész, mint A molnár, a fia meg a szamár története; ti hárman mindig mást és mást javasoltok.
+__label__hun Bill Gates az egészségügyi pápa.
+__label__hun Próbálj meg nem beszélni erről!
+__label__hun Ez a legolcsóbb, de ezt nem javasolnám.
+__label__hun Törökországból jöttem, de kurd vagyok.
+__label__hun Sokat remélek a találkozónktól.
+__label__hun Hason alszik.
+__label__hun Gondolkoztál az ajánlatomon?
+__label__hun Kettő kell nekem.
+__label__hun A nőknek sokkal egyszerűbb elintézni bármit.
+__label__hun Fel nem fogom ésszel, miért ölték meg.
+__label__hun Ő nem lány.

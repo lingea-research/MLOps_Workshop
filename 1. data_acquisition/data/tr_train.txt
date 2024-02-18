@@ -1,0 +1,700 @@
+__label__tur Her gün demlik demlik çay içiyorum.
+__label__tur Bizden, onlara fayda yok.
+__label__tur Filtre kahve yapımı için kahve çekirdeği aldım.
+__label__tur Evimde bir sürü bitki var.
+__label__tur Yakalarlarsa merhamet etmelerini bekleme.
+__label__tur Sana Türkçede en zor gelen konu ne?
+__label__tur Bu gece çok kederliyim.
+__label__tur Tipin an tipin onu alasakaer
+__label__tur Bu cümleyi neden kimse daha önceden önermemiş?
+__label__tur Yazıcımda, tarayıcı da var.
+__label__tur Komünizm burada her şeyi mahvetti.
+__label__tur Beyaz şarap favori şarabım oldu.
+__label__tur Yetki ikamesi, sorunun en küçük birimde çözülmesidir.
+__label__tur Kitabının kapağını beğendim.
+__label__tur Bunu göz önünde bulundurabiliriz.
+__label__tur Yanni, Cezayir'e taşınmak zorunda kalmaktan nefret ediyordu.
+__label__tur Bu, Tom'un istediği şey değil.
+__label__tur Who is able to say what is going to future
+__label__tur Hayat hiçbir şey yapmamak için çok uzun ama bir şey yapmak için de çok kısa.
+__label__tur Memur yemekhanesi ve öğrenci yemekhanesi arasında fark yoktur.
+__label__tur Dergiyi şimdi iade ettim.
+__label__tur O, kapıya tıklamayı denedi.
+__label__tur Cezayir'in Kabylie şehrinde tutuklandı.
+__label__tur Bana olan borcunu geri öde.
+__label__tur Bir çözüm bulma konusunda çaresiziz.
+__label__tur Gölün yanındaki ev benimdir.
+__label__tur Evimde bir sürü saksı var.
+__label__tur Sentence #12189765 — belongs to languagelerner
+__label__tur Kahve bardağı masanın yanında.
+__label__tur Söylediğimiz her şeyi duydun mu?
+__label__tur Bu kurşunkalemler aynı renkte.
+__label__tur Tom, değerli bir çalışandır.
+__label__tur Balık tazedir.
+__label__tur Annem benim projemi beğendi.
+__label__tur Jacksonlarla yalnız mıydın?
+__label__tur Kim reddedebilirdi?
+__label__tur Bir şeyi unutmuşuz gibi hissediyorum.
+__label__tur Ölüler denize atılmıştı.
+__label__tur Sen beni seviyorsun.
+__label__tur Tom'un çaresiz kalacağından şüpheliyim.
+__label__tur Yarın yirmi sekiz yaşında olacağım.
+__label__tur Yemekhanenin yemeklerinin tadı çok kötü.
+__label__tur Tom Mary'nin sesindeki çaresizliği hissetti.
+__label__tur Tom umutsuzluğa kapılmaya başlıyor.
+__label__tur Tam otuz beş dakika konuştum.
+__label__tur Ben Lily.
+__label__tur Yağmur ne zaman yağacak?
+__label__tur Tom'un bazı tablolarını gördüm.
+__label__tur Senin neyini beğeneyim ben?
+__label__tur Şimdi duş alacağım ve sonra sınavıma hazırlanmaya devam edeceğim.
+__label__tur Tom bir bakkal işletiyor.
+__label__tur Tuvaletim geldi.
+__label__tur Avrupa Komisyonu'nda yasa önergesi hazırladık.
+__label__tur Geç kalmıyım diye bana bisikletini ödünç verdi.
+__label__tur Tanrı iyidir.
+__label__tur Bu ürün Japonya'da satılmıyor.
+__label__tur Ben yeni bir dil öğrenme yöntemi buldum.
+__label__tur AKÇT, Avrupa Kömür Çelik Topluluğu'nun kısaltmasıdır.
+__label__tur Anlamsal sıkıntı var.
+__label__tur Yemekhane tıklım tıklım dolu.
+__label__tur Yemekhanede yemek yiyelim mi?
+__label__tur Eğilim ne yönde?
+__label__tur Acilen böbreğe ihtiyacı var.
+__label__tur Globes bir İsrail gazetesidir.
+__label__tur Aboneliğim eylül'de sona eriyor.
+__label__tur Benim adım Saşa.
+__label__tur Çığ yolu kapadı.
+__label__tur Al malını da yürü.
+__label__tur Kahve filtresi satın aldım.
+__label__tur Bunu imzalamak istemiyorum.
+__label__tur O dersten düşük not aldım.
+__label__tur Kahve var mı?
+__label__tur Bu yün iyi kalitede.
+__label__tur Türkçede sıfatlar bana çok zor geliyor.
+__label__tur Bunun, pH değeri uygun.
+__label__tur Niçin dans ediyor?
+__label__tur Nereye park ettiğimi hatırlayamıyorum.
+__label__tur Kahve masaya dökülmüş.
+__label__tur Kavga mı ettin biriyle?
+__label__tur Dünyanın değiştiğini hissediyorum.
+__label__tur Mehmet korkuyor.
+__label__tur Her şey bitecek.
+__label__tur Kendimi gerçekten yaşlı hissediyorum.
+__label__tur Sentence #12285259 — belongs to Iye_Tete
+__label__tur Tom ormandayken gizemli bir yaratık ona saldırdı.
+__label__tur Yanımdaki kız beni yiyecekmiş gibi bakıyor.
+__label__tur Ben de seninle konuşmak istemiyorum.
+__label__tur Temel 18 Nisan 1958'de atılmıştır.
+__label__tur Ne Tom ne de Mary çaresiz görünüyordu.
+__label__tur Hafıza kartımı kaybettim.
+__label__tur Avrupa Komisyonu, yurt dışında AB'yi temsil eder.
+__label__tur Hayat, yapabileceğiniz tüm güzel şeyler için çok kısa.
+__label__tur Şimdi kendimi aptal gibi hissediyorum.
+__label__tur Deniz dibinde yetişen canlılar yenmez.
+__label__tur Yanında bir şey mi getirdin?
+__label__tur Satmayacağım.
+__label__tur Koridor upuzun.
+__label__tur Bunu yapmak konusunda Tom kadar çaresiz değilim.
+__label__tur Neden bu kadar kısa bir eteğin var?
+__label__tur Sana asla çiçek almam.
+__label__tur Görmek istediğimiz her şeyi görmeye vaktimiz olmadı.
+__label__tur O, Zagros'u seviyor.
+__label__tur Kitabı bugün alacaksın.
+__label__tur Tanrının gücü bizi korusun.
+__label__tur Dellenme!
+__label__tur Bazı Yahudiler İsrail'de yaşarlar.
+__label__tur Tom bunları yapmama yardımcı oldu.
+__label__tur Jazz'ı tercih ediyorum.
+__label__tur Tek başıma yemek yiyordum.
+__label__tur En sevdiğim şarap türü beyaz şarap.
+__label__tur Örgü örmenin en çok neresinde zorlanıyorsun?
+__label__tur Geri dönüşüm kutularını daha etkin kullanmalıyız.
+__label__tur Bu kitabı hangi dilden çevirdin?
+__label__tur Senin hayattaki vizyonunu beğeniyorum.
+__label__tur Atı ölmüş bir arabacı borcunu ödeyemez.
+__label__tur Tanrı birdir, şanı büyüktür.
+__label__tur Televizyon kumandaları nasıl çalışır?
+__label__tur Üniversiteye gitmeyeceğim.
+__label__tur Büyükelçi ülkesini öteki ülkelerde temsil etmekle yükümlüdür.
+__label__tur Yanıtını merakla bekliyorum.
+__label__tur Örgü örmenin neresi zor?
+__label__tur Türkçede renkler için bir sürü farklı isim var.
+__label__tur Tuvalet çok pisti.
+__label__tur Çorbayı kaşıkladım.
+__label__tur İsmim Shu.
+__label__tur Sen ne biçim insansın be!
+__label__tur Enflamasyonun kötüleşmesinden korkuyorum.
+__label__tur Bugün burcunu okudun mu?
+__label__tur Tatile çok ihtiyacın var.
+__label__tur Makine çevirisi işimizi elimizden alacak.
+__label__tur Yemekhanede her şey yenmez.
+__label__tur Daha fazla yürümeye çalış!
+__label__tur Herhangi bir hediye getirdiniz mi?
+__label__tur Gemiye bindin mi?
+__label__tur Midye yemeyi çok severim.
+__label__tur Sentence #12178989 — belongs to Iye_Tete
+__label__tur Arabamızı geçen hafta sattık.
+__label__tur İş bulmayı düşündünüz mü?
+__label__tur Benim adım Shu.
+__label__tur Bu site yapım aşamasında.
+__label__tur Saldırıya mı uğradın?
+__label__tur Örgü kursuna mı gidiyorsun?
+__label__tur Türkçe çok kolay.
+__label__tur O, otuzdan büyük.
+__label__tur Geçen hafta arabamızı sattık.
+__label__tur Lütfen otur
+__label__tur En son ne zaman İskoçya'ya gitmiştiniz?
+__label__tur İltica insan haklarından biridir.
+__label__tur Neden beni rahatsız etmeye devam ettiğini anlamıyorum.
+__label__tur Biraz sütlü çay içti.
+__label__tur Yemekhanede aşçılar var.
+__label__tur Sus lan.
+__label__tur Arnavutça konuşmuyorum.
+__label__tur Yarının pazartesi olmaması iyi bir şey.
+__label__tur Sorun yok dememiş miydim?
+__label__tur Tom hala evde, değil mi?
+__label__tur Tom gerçekten yetenekli bir ressam.
+__label__tur Acilen paraya ihtiyacı var.
+__label__tur Tom onun için kaynattığım yumurtaları yemedi.
+__label__tur Başın ve boğazın ağrıyor mu?
+__label__tur Tom'un etkileyeci (çekici) bir karakteri var.
+__label__tur Kulaklığımdan cızırtılar geliyor.
+__label__tur Esma korkuyor.
+__label__tur Yıllarca Fransa'da yaşamasına rağmen aslında Fransızca konuşmayı hiç öğrenmemişti.
+__label__tur Bana sürekli e-posta atıyor.
+__label__tur Evet, ben şeker atıyorum.
+__label__tur Bana ne ulan atın öldüyse, ben mi sana şehre git dedim. Şehirde adamın atı da ölür, her bi şeyi de. Hadi get şehir senin karnını doyursun.
+__label__tur Bu, çok ağır bir konu.
+__label__tur "Sen Noel Baba değilsin!" diye bağırdı küçük çocuk ve Tom'un sahte sakalını kopardı.
+__label__tur İki hafta önce çaresizlikten oraya gittim.
+__label__tur Yeni dünyanın tanrıları milyarderlerdir.
+__label__tur Uzun süredir hapiste misin?
+__label__tur Sentence #12285338 — belongs to deyta
+__label__tur Türkçe kelimeleri öğrenmek aslında çok basit.
+__label__tur İzlenme kasmak için dans eden Koreli videosu atma âcizliğinize bir son verin.
+__label__tur Cüz'i bir miktar para cezası yedim.
+__label__tur AB müktesebatı hakkında çok şey öğrendim.
+__label__tur Ton balığı kanserojendir.
+__label__tur Hangi hayvan kahverengidir?
+__label__tur Kahveyi şekersiz içiyorum.
+__label__tur Örgü örmek için şiş ve iplik lazım.
+__label__tur Kırk yaşındaydı ama daha yaşlı görünüyordu.
+__label__tur Bana olmazsa olmazlarını say.
+__label__tur Bir yılda kaç gün var?
+__label__tur Bu konu çok ağır.
+__label__tur Kahvene şeker ister misin?
+__label__tur Kulağımda tinitus denen bir rahatsızlık var.
+__label__tur Öğrencilerin çok değişik çantaları var.
+__label__tur Annen, çok hoş bir hanım.
+__label__tur İnsan yanıla yanıla alim olur.
+__label__tur Sentence #12183216 — belongs to languagelerner
+__label__tur Yanımdaki kız bana bakıyor.
+__label__tur Tütün çok, kebap yok.
+__label__tur Sinema salonu henüz açılmamıştı.
+__label__tur Sadece yüksek kaliteli malzemeleri kullandığınıza inanıyorum.
+__label__tur Şimdi sıra sende!
+__label__tur Anekdotlardan oluşan bir tiyatro oyunuydu.
+__label__tur Limon sıkmadan midye yenmez.
+__label__tur Geçen yıl Belçika ve İsrail'e gittim.
+__label__tur Çoğunlukla geçimlerini sütten karşılarlar.
+__label__tur Yeter, kızdırma kafamı.
+__label__tur Türkçe nasıl bir dildir?
+__label__tur Tom'un karısıyla konuştun mu?
+__label__tur Sırada sessiz olmak gerekir.
+__label__tur Genelevlerin kapatılması, yasadışı fuhuş olaylarının artmasına zemin hazırlamaktadır.
+__label__tur Çorbaya ekmek doğradım.
+__label__tur Neyi katiyen yemezsin?
+__label__tur Seni o kadar özledim ki gözlerim yollarda kaldı.
+__label__tur O, çok fazla uyuyup otobüsünü kaçırdı.
+__label__tur Dur deyince dur!
+__label__tur Niçin dans ediyorsunuz?
+__label__tur Komünizm burada her şeyi yok etti.
+__label__tur Yanılmaktan nefret ederim.
+__label__tur Ödünç aldığım derginin süresini uzattım.
+__label__tur Öğrenci yemekhanesi ucuz olur.
+__label__tur Sadece seni seviyorum.
+__label__tur Oradaki o ışığı gören tek kişi ben miydim?
+__label__tur Örgü örmek en büyük hobimdir.
+__label__tur Onu insanların önünde aşağıladı.
+__label__tur Tom dikiş dikmeyi öğreniyor.
+__label__tur Son dönemlerde artan İslamî terör saldırılarına müteakiben Türkiye'nin sınır güvenliği üzerinde daha derinlemesine durması gerekiyor.
+__label__tur Kahve bardağı masanın üstünde duruyor.
+__label__tur Az önce dergi ödünç aldım.
+__label__tur Bir sorun cereyan etti.
+__label__tur Örgü kursunda kaç kişi var?
+__label__tur Gerçekten salaksın!
+__label__tur Bugün doğum günüm değil.
+__label__tur Türkçe çok basit.
+__label__tur Senin düşüncelerini tahmin edebiliyorum.
+__label__tur İsrail ile Suriye arasındaki anlaşmazlık tırmanıyor.
+__label__tur Yemekhane çok büyük.
+__label__tur Beklenmedik olaylar yaklaşıyor.
+__label__tur İtibarını koruma konusunda çaresizdi.
+__label__tur New York'ta gece hayatı daha iyidir.
+__label__tur Senin hikayen satıcınınkinden daha komik.
+__label__tur Suçu itiraf etmeye karar verdim.
+__label__tur Şu an çok acil paraya ihtiyacım var.
+__label__tur Bundan sonra daha dikkatli ol.
+__label__tur Kahve çekirdeklerini öğütmek makinenin işi.
+__label__tur Tom, ekim ayında Mary'ye evlenme teklif etti.
+__label__tur Bu benim ev arkadaşım.
+__label__tur Neyi kastediyor?
+__label__tur Nerede hareket, orada bereket.
+__label__tur Bugün dergileri iade ettim.
+__label__tur Çocuklar oynuyor.
+__label__tur Bunu yapmanın çok zor olmadığını hissetmiştim.
+__label__tur İtalyanca bilgin var mı?
+__label__tur Makasım, bilgisayarın yanında duruyor.
+__label__tur Zaman Tom'a merhamet göstermedi.
+__label__tur Bu şiiri Eva için yazdım.
+__label__tur Acıktığımda sadece mutfağa gider ve yerim.
+__label__tur Gelecekten umutlu hissediyorum.
+__label__tur Benzin aldın mı?
+__label__tur Periferik endokrin organların işlevi, hipofiz hormonları tarafından değişen boyutlarda düzenlenir.
+__label__tur Ödünç aldığım kitabın süresini uzattım.
+__label__tur Adnan Oktar kodeste olmasına rağmen avaneleri hâlen Twitter'da ötmeye devam ediyor.
+__label__tur Çişim geldi!
+__label__tur Örgü örerken iplik kullanılır.
+__label__tur Tom uzun (yorucu) bir gün geçirdi. Şuan sana yardım edemeyecek kadar yorgun.
+__label__tur Yılda kaç kere dişçiye gidersiniz.
+__label__tur Bunları kendin mi yaptın?
+__label__tur Tanrı bir fildir.
+__label__tur Ankara Antlaşma'sı neyi kapsar?
+__label__tur Beğenilen biri olmak gururumu okşadı.
+__label__tur Süpermarketten gazete aldım.
+__label__tur İnsanlara gerçeği söyleme.
+__label__tur Tanrı her yerde.
+__label__tur Neden bizi tanıştırmadın?
+__label__tur Biraz uyuyabilirim.
+__label__tur Kadın devriliyor.
+__label__tur Kotumu dizinden yırttım. Şimdi yeni bir kot satın almak zorundayım.
+__label__tur Dera çalışmak zorundayım ama canım hiç istemiyor.
+__label__tur Bakkalın karısı ceketini tutuyor.
+__label__tur 2002 yılında José Saramago İsrail'de istenmeyen adam ilan edildi.
+__label__tur İgor ile Lena'nın evlendiklerini duydun mu?
+__label__tur Çok ince bir şaka yaptım, farkında mısın?
+__label__tur Yatağı olmayanlar için yatak istiyoruz.
+__label__tur Marry ona(kız) bunu yapması gerektiğini söyledi.
+__label__tur Kahvem orta şekerli olsun.
+__label__tur Tom ve Mary seni çok özleyecekler.
+__label__tur Yemekhanede izinsiz yanıma oturdu.
+__label__tur Bir gün gelecek sözümü dinleyeceksin!
+__label__tur Bugün dergi ödünç aldım.
+__label__tur Parmağını tahtaya koy!
+__label__tur O dersten beklediğim notu alamadım.
+__label__tur O, hayvanlar hakkında kitap yazdı.
+__label__tur Onun kıza yardım ettiğini gördüm.
+__label__tur Kimin var olma hakkını savunacağız?
+__label__tur Açık olmak gerekirse, artık hiç canım istemiyor.
+__label__tur Bu şarkının adı ne?
+__label__tur Onlarda şarap var.
+__label__tur Bu durum içinden çıkılmaz bir hâl aldı.
+__label__tur "Ne yiyorsun?" "Buna kuskus deniyor."
+__label__tur Tarhana çorbası yemekhanede sürekli pişirilen bir yemektir.
+__label__tur "Biri mangal yapıyor. Kokusunu alıyorum." -" Sen nerdesin ki?"
+__label__tur Ben en küçük çocuğum!
+__label__tur Amerika'nın başkanı kimdir?
+__label__tur Git ve Tom'u kurtar.
+__label__tur İş arkadaşım teknik verileri bilir.
+__label__tur Bursa, Osmanlı İmparatorluğu'nun ilk başkentiydi.
+__label__tur Örgü örmek çok faydalıdır.
+__label__tur Uykulu görünüyor.
+__label__tur Çantanı beğendim.
+__label__tur İntikamını almayı çok istiyordu.
+__label__tur Kahveye şeker atıyorum ama çaya atmıyorum.
+__label__tur hangi biraları seversin?
+__label__tur Tom ve Mary'nin soyadları aynı olmasına rağmen akraba değiller.
+__label__tur Ya başka bir şeyle alakalıysa?
+__label__tur Türkçenin özellikleri nelerdir?
+__label__tur Sentence #12285320 — belongs to deyta
+__label__tur Sunumunuz üzerinde çalıştınız mı?
+__label__tur Odada televizyon yoktu.
+__label__tur Yine de teklif için teşekkürler.
+__label__tur Annem her zaman erken kalkmıyor.
+__label__tur Bir şiir yazsam, adını da sen koysam.
+__label__tur Tom sizden şimdiye kadar yardım talep etti mi?
+__label__tur Bir yılda kaç mevsim vardır?
+__label__tur Kadın, merdivenlerden iniyor.
+__label__tur Şehrin ışıkları yanıyor.
+__label__tur Maalesef işitme kaybım var.
+__label__tur Rusçaya aşığım.
+__label__tur Tuvalet çok pis.
+__label__tur O deterjanın bittiğini söyledi.
+__label__tur Yarışta birinci oldum.
+__label__tur Neden bu kadar delirdin?
+__label__tur Beğendiğim çocuk nişanlanmış.
+__label__tur Tom bunu yapmak için çaresiz olabilir.
+__label__tur Makarna tabağı satın aldım.
+__label__tur O işi artık yapma demedim mi?
+__label__tur Bir saniyede kaç salise var?
+__label__tur Deneyimiz başarılıydı.
+__label__tur Beyaz şaraba alışkın değilim.
+__label__tur Bir saatte kaç dakika var?
+__label__tur Tom kulak enfeksiyonu geçirdi.
+__label__tur Oldukça ilginç bir şey buldum.
+__label__tur Bu akşam Tom ile buluşuyorum.
+__label__tur Bunu bana kız arkadaşım ördü.
+__label__tur Balık nerede?
+__label__tur Dün oraya gittin mi?
+__label__tur Sana masal anlatayım mı?
+__label__tur Âşığın gözü kördür.
+__label__tur Yıllar ona merhamet etmedi.
+__label__tur Sana da bir şeyi beğendirmek çok zor.
+__label__tur Yalnız başıma yemek yiyordum.
+__label__tur Plastik atığı plastik atık kovasına atmalısın.
+__label__tur Her zaman geç kaldığın için yorgunum.
+__label__tur Kitabını beğendim.
+__label__tur Bu onun daha çok ağlamasına sebep oldu.
+__label__tur Örgü örerken zorlanıyor musun?
+__label__tur Denize açılmayı düşünüyor.
+__label__tur Bursa, Osmanlı Devleti'nin ilk başkentiydi.
+__label__tur Niye ağlıyor bu çocuk?
+__label__tur Tom bize hiç anlatmadı.
+__label__tur Örgü örmek zor mu?
+__label__tur Beyaz şarap içmeye alışkın değilim.
+__label__tur Kahve makinesinin kablosu çok uzun.
+__label__tur Hayrını gör.
+__label__tur Bunu sana neden ördü?
+__label__tur 41 derece ateşim vardı.
+__label__tur Tom Mary'nin ne yapmayı planladığını bildiğini söyledi.
+__label__tur Bu yün kalitelidir.
+__label__tur Yemekhaneye inen merdivenler var.
+__label__tur Midye limonsuz olmaz.
+__label__tur Kartları açarken anlamlarını açıklayacağım.
+__label__tur Tuhaf sesler duydum.
+__label__tur Bizi takip mi ediyorsunuz?
+__label__tur Tom Mary'nin sevgisine muhtaçtı.
+__label__tur Yemekhanede türlü türlü yemekler var.
+__label__tur Adam olsaydın da borcunu ödeseydin.
+__label__tur Şehrin merkezinde yaşıyoruz.
+__label__tur İsrail ile Suriye arasındaki anlaşmazlık daha da kötüleşti.
+__label__tur Zombiler evi tamamen kuşatmışlardı.
+__label__tur Ölüm herkese gelecektir.
+__label__tur Bir şey sormak istiyorum.
+__label__tur Hatalı olmaktan nefret ederim.
+__label__tur Beyaz şarap içiyorum.
+__label__tur Kalamar pişirmeyi öğrendim.
+__label__tur Tom, önümüzdeki yaz Boston'a gitmeme kararı aldı.
+__label__tur Tom bana yanlışlıkla vurdu.
+__label__tur Çok tutan tivitlere dans eden Koreli videosu atmanız göt laleliği değil de ne?
+__label__tur Türkçeyi birkaç aydır öğreniyorum.
+__label__tur Yeni bir şey ezberlemeye çalışıyorum.
+__label__tur Bunu yapmak için çaresiz olduğumu düşünüyorsun, değil mi?
+__label__tur Koridorda aydınlatma çok kötü.
+__label__tur Yemekhanede kutu kutu kapalı su var.
+__label__tur Cevabınızı beğendim.
+__label__tur Tom ve Mary'nin komşu olduğunu biliyor muydun?
+__label__tur Önceliklerimiz belli.
+__label__tur Neyi asla ama asla yemezsin?
+__label__tur Bizi takip mi ediyorsun?
+__label__tur Burada sanırım bir hata yapılmış.
+__label__tur Kahve çekirdeklerini önce öğütmemiz lazım.
+__label__tur Taşkent'in neresindensin?
+__label__tur Aşılarını olacaklar.
+__label__tur Bir sonraki otobüs ne zaman geliyor?
+__label__tur Orada o ışığı gören tek kişi yalnızca ben miydim?
+__label__tur Çekilişe katıldım.
+__label__tur Piyangoyu kazanmak istiyorum!
+__label__tur Tom büyük bir bakkal işletiyor.
+__label__tur Ekim ayında buradaydım.
+__label__tur Mücadelemize haklarımızı alıncaya kadar devam edeceğiz.
+__label__tur Hayat uyumak için çok kısa.
+__label__tur Sentence #12195553 — belongs to languagelerner
+__label__tur Cumartesi, haftanın yedinci günüdür.
+__label__tur Bunun rengini beğenmedim.
+__label__tur Evde asansör bulunmuyor.
+__label__tur Ayakkabım yırtıldı. Yapıştıracağım.
+__label__tur Tom geldi ve beni uyandırdı.
+__label__tur O, Nermin'i seviyor.
+__label__tur Yalnız seyahat etmek eğlenceli değil.
+__label__tur Cezayir'de ortalama bir maaşın satınalma gücü nedir?
+__label__tur "O da neydi be?"-" Sadece baykuş ya"
+__label__tur Tom, Mary'nin bunu yapanın kendisi olduğunu bildiğini zannetmiyor.
+__label__tur Tom'un istediği şey bu değil.
+__label__tur Dilan korkuyor.
+__label__tur Uyumadın mı sen?
+__label__tur Futbolun Alman ulusal sporu olduğu sıklıkla söylenir.
+__label__tur Çok sebze yiyorum.
+__label__tur Tom dargın olmalıydı.
+__label__tur Veresiye mal verdiysek hata mı ettik?
+__label__tur Elleri titriyordu.
+__label__tur (Sizler), Bizi takip mi ediyorsunuz?
+__label__tur O, kamyon'da uyuyor.
+__label__tur Kıbrıs'ın kuzey kısmı şu anda Türkiye'nin işgali altında.
+__label__tur Bu şekilde hissettiğini bilmiyordum.
+__label__tur Tom gelip beni uyandırdı.
+__label__tur Geldi ama uzun süre kalmadı.
+__label__tur Hayat, zevk almak içindir.
+__label__tur Kendi de siniyor bir kenara.
+__label__tur Aptal insanlar her zaman kendilerinden daha aptal olan ve onlara hayran olacak birini bulabilirler.
+__label__tur Fahişe dediğin genelevde olur.
+__label__tur Sabah sabah geldim yine okula.
+__label__tur AB, Avrupa Birliği'nin kısaltmasıdır.
+__label__tur Shu benim adım.
+__label__tur Doğum belgemi buldum.
+__label__tur Güzel bir piknik yaptın mı?
+__label__tur Deneyimiz başarılı oldu.
+__label__tur Yanımdaki kız beni süzüyor.
+__label__tur Onun elleri titriyordu.
+__label__tur Ahmet korkuyor.
+__label__tur Kahve makinesi aldım.
+__label__tur Kulaklığım ses geçirmez olduğu için gürültülü ortamlara katlanabiliyorum.
+__label__tur Her akşam duş alırım.
+__label__tur Arabamızı satmak istiyoruz.
+__label__tur Libya'nın başkentinin adı nedir?
+__label__tur Çay deyince aklıma sadece siyah çay gelir.
+__label__tur Kimin daha çaresiz olduğunu söylemek zor.
+__label__tur Sinemaya gidiyorum.
+__label__tur Midyenin üstünde bol limon sıkmalısın.
+__label__tur Az önce dergi satın aldım.
+__label__tur Bugün kete yiyorum.
+__label__tur Gökyüzü ne renktir?
+__label__tur Saç kurutma makinesinin kötü çalıştığını biliyorum.
+__label__tur Onların fikrini çaldık.
+__label__tur Sanırım Tom'u buldum.
+__label__tur Neden dans ediyor?
+__label__tur Neden dans ediyorsunuz?
+__label__tur Şimdi sınava gidiyorum, bana bol şanslar dileyin.
+__label__tur Onlara bana başka bir bilet göndermelerini söyledim.
+__label__tur Bir yılda kaç hafta var?
+__label__tur Tamam da ben şimdi ne yapacağım?
+__label__tur Mütercim ve tercüman arasındaki farkı biliyor musun?
+__label__tur Tom ve Mary seni çok özleyecek.
+__label__tur Miden hala rahatsız mı?
+__label__tur Bana bunu nasıl yapacağımı izah etmene gerek yok.
+__label__tur Televizyonunu beğendim.
+__label__tur Çaya şeker atıyorum ama kahveye atmıyorum.
+__label__tur Onu neden çok sevdiğimi bilmiyorum.
+__label__tur Der Spiegel benim ev sevdiğim dergidir.
+__label__tur Tom'un oğlunu tanıyor muydun?
+__label__tur Sentence #12195453 — belongs to languagelerner
+__label__tur Hoca hepimize birer A4 kağıdı dağıttı.
+__label__tur Onun biyografisi on dile çevrildi.
+__label__tur Sentence #12269093
+__label__tur N'aber?
+__label__tur Yemekhanede ayakta duruyorum.
+__label__tur Görünüşe göre, yamyamların eline düştük.
+__label__tur Ondan sana fayda yok.
+__label__tur Almanya'da 3 Ekim'de ne kutlanır?
+__label__tur Hipofiz hormonlarının salgılanması hipotalamus tarafından kontrol edilir.
+__label__tur Türkiye, sözde Kuzey Kıbrıs Türk Cumhuriyeti'ni şimdiye kadar tanıyan tek ülkedir.
+__label__tur Yoklama alınıyor.
+__label__tur Hiçbir şey kırmadım.
+__label__tur Her zaman geç kalman beni yoruyor.
+__label__tur Şampiyonluğu kazandın mı?
+__label__tur O, amortilere bakıyor.
+__label__tur Kütüphane şehir merkezinde.
+__label__tur İsrail'i hiç ziyaret etmedim.
+__label__tur Mağarayı buldum.
+__label__tur O biçim insanım ben!
+__label__tur Tom, zehirli bir ok nedeniyle öldü.
+__label__tur Çoğu insan bana Tom der.
+__label__tur Televizyondan tüm kanallar silindi.
+__label__tur Tom bu işi almama yardımcı oldu.
+__label__tur Hayalimiz yakında gerçek olacak.
+__label__tur Avrupa Birliği Konseyi'ne gittim.
+__label__tur Çantam boynuma yük oluyor.
+__label__tur Ama böyle anlaşmamıştık!
+__label__tur Öğrettiğinde öğrenirsin.
+__label__tur O, upuzun bir koridorda yürüyordu.
+__label__tur Babam olanları daha yeni anlattı.
+__label__tur Nasıl satarsınız benim arabamı?
+__label__tur Araba eski olduğundan kimse binmiyor.
+__label__tur Benimle sinemaya gelmeni istiyorum.
+__label__tur Beyaz şarap içtiğim içim başım döndü.
+__label__tur K-pop aslında müzik türünden çok büyük şirketlerin çocukları küçük yaşta sömürüp şarkıcı yapmak için kapıştığı koskoca bir sektör.
+__label__tur Motor tekrar çalışmaya başladı.
+__label__tur Limonsuz midye yenmez.
+__label__tur Tom ne kadar süre yalnız kaldı?
+__label__tur Tom sessiz olunması gerektiğini söyledi.
+__label__tur Çaresiz durumda, değil mi?
+__label__tur Bir günde kaç saat var?
+__label__tur Babanı bulma konusunda çaresiz olduğunu biliyorum.
+__label__tur Çoğunlukla geçimlerini sütten sağlarlar.
+__label__tur Beni kontrol edemezsin. Hayatımı yönetemezsin.
+__label__tur İçeri girmek zorunda mıydın?
+__label__tur 2020 yılında Japonya'ya gideceğim.
+__label__tur Tanrı her yerde değil mi?
+__label__tur Tom, telefon sana!
+__label__tur Bu gece kendimi çok efkarlı hissediyorum.
+__label__tur Senin hayata bakış açını beğeniyorum.
+__label__tur Bütün bu karmaşayı hafifletmek için akademisyenler biyolojik bir kategori olan cinsiyetle kültürel bir kategori olan toplumsal cinsiyeti ayırırlar.
+__label__tur Tatile şiddetle ihtiyacın var.
+__label__tur Bundan kısmen sorumlu hissediyorum.
+__label__tur O fotoğrafları sen mi çektin?
+__label__tur Tom'u beklemek zorunda kalmasaydım geç kalmazdım.
+__label__tur New York'ta gece hayatı daha iyi.
+__label__tur Yine de teşekkürler. Minnettarım.
+__label__tur Desteyi masanın ortasına koy.
+__label__tur Bugün araba kullanmayacağım.
+__label__tur Filtre kahve aldım.
+__label__tur Gölün yanındaki ev bana aittir.
+__label__tur Avrupa Sayıştayı'na gittim.
+__label__tur Bize kahve yapayım mı?
+__label__tur Beğendiğim bir lokantaya arkadaşımı götürdüm.
+__label__tur Kahve bardağı masanın altında duruyor.
+__label__tur Tinitus, kulağın çınlaması demektir.
+__label__tur Demli çay içiyorum.
+__label__tur O geldiğinde ne yapıyordun?
+__label__tur O, benim yanıma oturdu.
+__label__tur Bugün yemekhanede yiyorum
+__label__tur Buhara ve Semerkant Orta Asya'nın en eski şehirleri arasındadır.
+__label__tur Çevirmenlik karmaşık bir meslektir.
+__label__tur Limon, midyenin olmazsa olmazıdır.
+__label__tur O; Arapça öğreniyor.
+__label__tur Dergileri ödünç alınca bana bir makbuz verdiler.
+__label__tur Çorbaya kuru ekmek ufaladım.
+__label__tur Casey, "Bu benim tarzım değil" dedi.
+__label__tur Başka herhangi şey buldun mu?
+__label__tur Örgü örmek için ne lazım?
+__label__tur Karides ve kalamar yemeyi severim.
+__label__tur Günlük yazmayı unuttum.
+__label__tur Hacı Teyze'ye gidelim.
+__label__tur Ver gitsin.
+__label__tur Her canlı, hücrelerden oluşur.
+__label__tur Çok yakın arkadaştık ve sık sık birbirimizin evlerini ziyaret ederdik.
+__label__tur Kahvem demleniyor.
+__label__tur Onların öldüklerine inanmayı reddediyorum!
+__label__tur Desteyi istediğin zaman ortasından kesebilirsin.
+__label__tur Benim çok özgün düşüncelerim var.
+__label__tur O, ahtapot yemeyi seviyor.
+__label__tur Bunu yapmak için çaresiz olduğunu söyledi.
+__label__tur Gizli muhbir olarak çalışıyorum.
+__label__tur Evrenimizin bu temel özelliklerinin hikayesine fizik diyoruz.
+__label__tur O, bana kızıyor.
+__label__tur Avrupa Merkez Bankası'na gittim.
+__label__tur Acilen bir sigaraya ihtiyacım var.
+__label__tur Hepiniz emniyette misiniz?
+__label__tur Endokrin hastalıkları, endokrin bezlerinin ve/veya hedef dokularının bozukluklarından kaynaklanır.
+__label__tur Yürüyüşümüzün amacı hak ve hukuklarımızı korumak içindir
+__label__tur İlerleyen yaşıma rağmen hâlen götten bacaklı biriyim.
+__label__tur Tom'un dövmesini gördün mü?
+__label__tur Tarihin en kesin yasalarından biri de şudur: Lüksler zamanla ihtiyaç haline gelir ve yeni zorunluluklar ortaya çıkarır.
+__label__tur Haklı olsaydın, sana yanlış düşündüğünü söylemezdim.
+__label__tur Sentence #12317112 — belongs to ceviri_atolyesi
+__label__tur Şu anki çaresizliğimi ancak sen anlayabilirsin.
+__label__tur O öğretmen ki beni hayal kırıklığına uğratandır.
+__label__tur Fuji dağı'na tırmanmak istiyoruz.
+__label__tur Limon olmadan midye yenmez.
+__label__tur Hangi puanı aldığını soruyorum.
+__label__tur Gerçekten bayağı aptalsın.
+__label__tur New York'taki gece hayatı daha iyidir.
+__label__tur O, otuz yaşından büyük.
+__label__tur Ayçöreği yiyorum.
+__label__tur Algıların açık mı?
+__label__tur Dünyada sekiz milyar insan yaşamakta.
+__label__tur Kış kendini iyice belli ediyor.
+__label__tur Tom'un Mary'yi görünce heyecanlanacağını zannetmiştim.
+__label__tur Tavşan kanı çay içiyorum.
+__label__tur Tom, Mary'nin arabasını tamir ediyordu.
+__label__tur Bunda beğenilecek ne var ki?
+__label__tur Yemekhanede çok uzun sıra var.
+__label__tur Ekmeğine tereyağı istiyor musun?
+__label__tur O, hasta bir çocuğu olan yalnız ve çaresiz bir kadın.
+__label__tur Astral seyahate mi çıktın?
+__label__tur Tom iyi mi, değil mi?
+__label__tur Hayat boş, eğlen, coş!
+__label__tur Beyaz şarap başımı döndürdü.
+__label__tur Ayçöreğinin yanında çay var.
+__label__tur Hayat en iyi öğretmendir ama genellikle çok pahalıdır.
+__label__tur K-pop sektörünün Kore kültürünü yansıtmadığını rahatça ifade edebilirim.
+__label__tur o, mahkemeye çıkacak.
+__label__tur Bugün kahve makinesi satın aldım.
+__label__tur Asla böcek yemem.
+__label__tur Amorti de yok mu?
+__label__tur Kitap ne renktir?
+__label__tur Bunun, pH değeri çok düşük.
+__label__tur Kulaklığımı kaybettim
+__label__tur Sunuma slayt ekledim.
+__label__tur Geçmişi geride bırak, yaşa hayatını!
+__label__tur Bu dilin grameri zordur.
+__label__tur Parası olunca adam kuvvetli olur.
+__label__tur Geri dönüşüm çok önemlidir.
+__label__tur Burada kendimi garip hissediyorum.
+__label__tur Karnım gurul gurul ötüyor!
+__label__tur Bunu yapmak için çaresizdim.
+__label__tur Avrupa Parlamentosu'nda konuşma yaptı.
+__label__tur Tüm birikimini bankaya mı koydun?
+__label__tur Seni beğeniyorum.
+__label__tur Maria "Yıldızlar beni her daim kendine hayran bırakmıştır." dedi.
+__label__tur "Neden geç kaldın?" "Bisikletim kanala düştü."
+__label__tur BTS grubuna hastalık derecesinde hayran olan kendini bilmez koskoca bir ergen ordusu var.
+__label__tur EURATOM, Avrupa Atom Enerjisi Topluluğu'nun kısaltmasıdır.
+__label__tur Tom adında bir çocuk aradı.
+__label__tur Bunun, pH değeri çok yüksek.
+__label__tur Onun yüzünden saatlerce sunum hazırlamak zorunda kaldım.
+__label__tur Tövbe et lan!
+__label__tur Bol bol kitap okumak kelime hazneni geliştirmek için olmazsa olmazdır.
+__label__tur Kanada'ya çalışmaya gideceğim.
+__label__tur Otuz yaşında doktor oldu.
+__label__tur Olumlu düşüncelere odaklan!
+__label__tur Onun varlığını hissetti.
+__label__tur Tom itibarını koruma konusunda çaresizdi.
+__label__tur Tom tavşanları sevmez.
+__label__tur Kahve makinesinin su haznesi çok geniş.
+__label__tur Kahve nereye döküldü?
+__label__tur Çiftçileri her yerde mahvetmek istiyorlar.
+__label__tur Yapraklar uçuşuyor.
+__label__tur Severek içtiğin bira hangisi?
+__label__tur Bir konunun yeni yönlerini öğrenmek çok önemlidir.
+__label__tur Benim kıyafetlerim senin gözüne niye batıyor?
+__label__tur Ben Meryem.
+__label__tur Avukatımla konuşmam gerekir.
+__label__tur Bugün tam otomatik kahve makinesi aldım.
+__label__tur Acilen tatile ihtiyacın var.
+__label__tur Yolculuğumuz riskliydi.
+__label__tur Ben senin paralı askerin değilim.
+__label__tur Bugün dergi satın aldım.
+__label__tur O kamyon'da uyur.
+__label__tur Konforlu küçük bir araba arayanların daha fazla aramasına gerek yok.
+__label__tur Orta şekerli bir kahve asla hayır demem.
+__label__tur Adım Lily.
+__label__tur Olsa da olur olmasa da olur dediğin şey nedir?
+__label__tur Benimle uğraştığına seni pişman ederim
+__label__tur Bir dilim çizkek alabilir miyim?
+__label__tur Bir dakikada kaç saniye var?
+__label__tur Hayvanat bahçesi henüz açılmamıştı.
+__label__tur Ormandan uzak dur, bilhassa gece vakti.
+__label__tur Tom'un karısını tanıyor musun?
+__label__tur K-pop aslında tutan Amerikan veya İngiliz müziklerinin altyapısına benzer şarkılar çıkarma işidir ve bu sektörü Koreliler bile sevmez.
+__label__tur Tuvalete çıkmam lazım.
+__label__tur Ne yakışıklı bir adam!
+__label__tur Ziyaret ettiğiniz tapınak nasıldı?
+__label__tur Ben yeni bir yöntem buldum.
+__label__tur Onun kocası kanepe'de uyur.
+__label__tur Bugün bir köpeğin fotoğrafını çektim.
+__label__tur Tom 20 Ekim'de intihar etti.
+__label__tur Oda arkadaşımın kız arkadaş bulmasına şaşırdım.
+__label__tur Türkçenin tonlaması hangi dillere benziyor.
+__label__tur Fasulyeler daha sonra püre haline getirilir.
+__label__tur Benden sana fayda yok.
+__label__tur Çok gezen, çok bilir.
+__label__tur Senin dışında herkes geldi.
+__label__tur Siyaset yapma, çay koy!
+__label__tur Geri dönüşüm uygulamaları okulumuzda başlatılmıştır.
+__label__tur Arkadaşlarınızı özenli seçin.
+__label__tur Türk kahvesi yerine nescafeyi tercih ederim.
+__label__tur Mumu yak!
+__label__tur Çevirmen bir arkadaşım var.
+__label__tur Bir şeyler almak istiyorum.
+__label__tur Şu an ata su veriyorum.
+__label__tur Avrupa Birliği Adalet Divanı'na gittim.
+__label__tur Yanıtını dört gözle bekliyorum.
+__label__tur Tom arabasını satma konusunda çaresizdi.
+__label__tur Borcunu ödeseydin arabam satmazdık.
+__label__tur Bana Thomas demeyi bırak. Adım Tom!
+__label__tur Kızlar parmaklarını birbirine geçirdi.
+__label__tur Gelin, size dedikodu anlatayım!
+__label__tur Örgü örmenin pek çok faydası vardır.
+__label__tur Bu cilt bakım ürününün kırışıklıkları giderebildiği iddia ediliyor.
+__label__tur Başarmanız gereken üç şey olacak.
+__label__tur Meslektaşım teknik verileri biliyor.
+__label__tur Türkçe kulağa nasıl geliyor?
+__label__tur Bu benim kanım değil. Bunların hepsi rakibimden sıçrayanlar. Üzerimde tek bir çizik bile yok.
+__label__tur Yaklaşık 13 buçuk milyar yıl önce Big Bang olarak adlandırdığımız bir şeyle madde, enerji, zaman ve uzay ortaya çıktı.
+__label__tur Olanlar hakkında yalan mı söyledin?
+__label__tur Sonraki sınava hazırlanmam gerekiyor.
+__label__tur Annelerimiz çok yakındı.
+__label__tur Müzeye gidiyorum.
+__label__tur Dergileri şimdi iade ettim.

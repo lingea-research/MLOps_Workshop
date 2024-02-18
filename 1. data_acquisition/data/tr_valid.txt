@@ -1,0 +1,148 @@
+__label__tur Almanya'da akrabalarım yaşıyor, Almanca öğrenmem lazım.
+__label__tur Orası kimin evi?
+__label__tur Gül gül, korkma!
+__label__tur Avrupa Komisyonu, bütçeyi hazırlar.
+__label__tur Buradaki işimiz bitti.
+__label__tur Sentence #12310533 — belongs to quagliarella
+__label__tur Bu, kışlar için.
+__label__tur Otobüs Taksim'den saat kaçta kalkıyor?
+__label__tur Örgü örmeyi sever mi?
+__label__tur Dergileri az önce iade ettim.
+__label__tur O (kız) hiç bir zaman duvarın üstünden atlayamaz çünkü yükseklikten korkuyor.
+__label__tur Kendimi biraz sarhoş hissettim.
+__label__tur Kadın, çocukları arabadan kovalıyor.
+__label__tur Mary'nin üç çocuğu var.
+__label__tur Tom nerede çalıştığını söyledi mi?
+__label__tur Biz gitmeden önce bir sigara içmek ister misin?
+__label__tur Planın ilk kısmı iyi işledi.
+__label__tur Senden bana fayda yok.
+__label__tur Bunun farklı bir rengi var mı?
+__label__tur Derste etkinlik yapıyoruz.
+__label__tur Türk Malı, herkes bunu kullanmalı!
+__label__tur Sahil güvenliği çaresizce aradılar.
+__label__tur Yemekhanede duyurular yapılmaktadır.
+__label__tur Tom kazanamayacak kadar aptal.
+__label__tur Dün burada olmalıydın.
+__label__tur Sentence #12274065 — belongs to deyta
+__label__tur Kahve makinesini bugün çok ucuza aldım.
+__label__tur Tom bir çukura düştü.
+__label__tur Örgü örmek hiç de zor değil.
+__label__tur Her zaman geç kalmandan dolayı yorgunum.
+__label__tur Hayır demek zorunda kalırdım.
+__label__tur Balinalardan mı bahsediyorsun?
+__label__tur Mum yak!
+__label__tur Kullanım koşullarını ihlal ederseniz, hesabınız kilitlenmektedir.
+__label__tur Türkçe çok karmaşık.
+__label__tur Yoklamaya imza atılıyor.
+__label__tur Fuji dağı'na tırmanman gerek.
+__label__tur Bunu yapmanın böyle kolay olacağını bilmezdim.
+__label__tur Yarınki sınavdan kalacağımdan korkuyorum.
+__label__tur Kulaklığımın kablosu çok kısa
+__label__tur Haftada bir banyoya götürülmek istiyoruz.
+__label__tur Sadece birkaç aydır Türkçe öğreniyorum.
+__label__tur Tahran'a kamyonla seyahat ettik.
+__label__tur Babamın kızı benim kız kardeşimdir.
+__label__tur Bundan daha mühim olan ne?
+__label__tur Ortaklık rejimi nedir?
+__label__tur İsminiz ne?
+__label__tur Sana göz kulak olacağıma dair babana söz verdim.
+__label__tur Tahtaya çıkıp metni okudum.
+__label__tur Dergileri şimdi ödünç aldım.
+__label__tur Akit Taraf ne demektir?
+__label__tur Japonya'da bu ürüne rağbet yok.
+__label__tur Özür dilemeyi unutmayın.
+__label__tur Gerçekten çaresizdi.
+__label__tur Geçen gece, cinsel ilişki için zorlayan Yumi'ydi.
+__label__tur Fiyatlarımız çok rekabetçi.
+__label__tur Ton balığında ağır metal birikiyor.
+__label__tur Bunu sana kim ördü?
+__label__tur Tom'un zengin olduğunu biliyor muydun?
+__label__tur İçimden bir şeyler yapmak geliyor.
+__label__tur Türkiye, Osmanlı İmparatorluğu'nun mirasçısıdır.
+__label__tur Tom'un ofisine uğradın mı?
+__label__tur Beni korumalıydın.
+__label__tur Çaresiz misin?
+__label__tur Otobüsle bir saat uzaklıkta.
+__label__tur Sıkıntıdan öleceğim.
+__label__tur Beyzbol oynamadıklarını söylediler.
+__label__tur Projeniz devam ediyor mu yoksa sonuna geldiniz mi?
+__label__tur Ziri aptaldır.
+__label__tur Bana biraz şekerleme al.
+__label__tur Müzik dinlemeyi çok severim.
+__label__tur Tom gerçekten yetenekli bir sanatçı.
+__label__tur Kahverengi onun doğal saç rengi değil.
+__label__tur Okulda Latince öğrendi.
+__label__tur Gözüme toz kaçtı.
+__label__tur Burada fazlalık gibi hissediyorum.
+__label__tur Her nedense bundan şüpheliyim.
+__label__tur Karides pişirmeyi öğrendim.
+__label__tur Çevirmenlik, tarif etme işidir.
+__label__tur Ona yeni bir oyuncak olsan iyi olur.
+__label__tur Birini beğenmek için yufka bir yürek yeter de artar bile.
+__label__tur Muhtemelen evet derdim.
+__label__tur Asla banka soymam.
+__label__tur Celallenmen tamamen haklı.
+__label__tur Masaya oturmuyoruz, Pablo.
+__label__tur Kaliteli cümle yazmak benim işimdir.
+__label__tur Tom ve Mary yaralandı mı?
+__label__tur Tom ve Mary'nin ikisi de oldukça gürültücüydü.
+__label__tur Carlos umutsuzca Rima'yı arıyordu.
+__label__tur Yasaların üstünde olduğunu düşünüyor.
+__label__tur On yıl önce Galiçyaca'nın bu kadar kolay olduğunu bilseydim, Tatoeba külliyatına bu dilde 50.000'den fazla cümle eklerdim.
+__label__tur Seninle ilgilenmek istiyorum.
+__label__tur Elimden bir şey gelmez.
+__label__tur İnsanlar merdivende sıralanmış.
+__label__tur Rodrigo çaresizce kendini savunmaya başladı.
+__label__tur Bir yumurtanın çürük olup olmadığını nasıl anlarsınız?
+__label__tur Hayvanat bahçesi açık.
+__label__tur Pencerelere cam istiyoruz
+__label__tur Medyumluk yapıyor.
+__label__tur Avrupa Temel Haklar Şartı kaç maddeden oluşuyor?
+__label__tur Temellerden başla.
+__label__tur Kime güvenebileceğimizi bilemeyebiliriz.
+__label__tur Gerçekten birine vurmam lazım.
+__label__tur Gecenin bu saatinde hâlâ çalışıyorum.
+__label__tur Kalk soğan doğra!
+__label__tur Cezayir nispeten güvenli bir ülke sayılır.
+__label__tur Kahve makineleri aşırı pahalı.
+__label__tur Kıyaslamanın Tom'un lehine olmadığı açıktı.
+__label__tur Avrupa Birliği Zirvesi'ne katıldım.
+__label__tur Kulaklığımın rengini beğenmedim.
+__label__tur Araba çalışmayınca işe bisikletle gittim.
+__label__tur Sorunu nasıl halletmeliyiz?
+__label__tur Ton balığı kanser yapıyor.
+__label__tur Her zaman yalnız çalışırım.
+__label__tur Tom asla yalnız bırakılmamalı.
+__label__tur Şimdi kendimi çok iyi hissediyorum.
+__label__tur İnsanların hayatlarının üçte birini uyuyarak geçirdikleri sıklıkla söylenir.
+__label__tur Asla ahtapot yemem.
+__label__tur Geçen sene Belçika ve İsrail'e gittim.
+__label__tur Kaderlerimiz birbirine bağlı.
+__label__tur Günümüzde yalnızca akıllı bir telefonla yön bulabiliriz.
+__label__tur Yemeğinizi tamamladınız mı?
+__label__tur Kahvem şekersiz olursa sevinirim.
+__label__tur Sınav aşırı basitti.
+__label__tur O, hayvanlarla ilgili kitap yazdı.
+__label__tur Hayat bazen çok kısa.
+__label__tur Yemekhanede öğrenciler var.
+__label__tur Çevirmenler, derinlemesine incelemeler yaparlar.
+__label__tur 20 ekim'de doğdun.
+__label__tur N'oldu senin imtihanın?
+__label__tur Beklediğim not çok daha yüksekti.
+__label__tur Parti için yeni ayakkabılar aldın mı?
+__label__tur Tuvaletim var.
+__label__tur Orman yangınlarıyla mücadele ediyorum.
+__label__tur Kedi, ceviz ağacına tırmandı.
+__label__tur Ali topu Mehmet'e aktardı.
+__label__tur Dergileri iade etmem gerek yoksa para cezası yerim.
+__label__tur Kıpırdama lan.
+__label__tur Bavulunu evde unutmuştu.
+__label__tur Ali Azerbaycanlıdır.
+__label__tur Aracı nereye park ettiğimi hiç bilmiyorum.
+__label__tur Tom bunu yapmak konusunda benim kadar çaresiz değil.
+__label__tur Güzel fotoğraflar çektin mi?
+__label__tur Tom'un sadece rahatlamaya ihtiyacı var.
+__label__tur Bisiklete binecek.
+__label__tur Bir şiir bir mısra için okunur; yüzlerce kötü örneğini denemeksizin iyi bir insanı, iyi bir kitabı, iyi bir filmi bulmanın olanağı yoktur.
+__label__tur Siz beni seviyorsunuz.
+__label__tur Tom ve Mary her zaman hazırdır.

@@ -1,0 +1,800 @@
+__label__slk Mal som to urobiť už dávno.
+__label__slk Je to, čo ste práve povedali, niečo dôležité, niečo nové?
+__label__slk Kedy som to urobil?
+__label__slk Nie je to len ilegálne, ale aj nebezpečné.
+__label__slk Obúvame sa.
+__label__slk Jedna minúta má šesťdesiat sekúnd.
+__label__slk Tom mi povedal, že má v úmysle vyhrať.
+__label__slk Je tvoj brat s nimi?
+__label__slk Tom nechce byť veterinárom.
+__label__slk Tom je smutný.
+__label__slk Opäť ste to urobili.
+__label__slk Hádajte, čo povedal Tom.
+__label__slk Pozná moju ženu.
+__label__slk Prečo si stále s ňou?
+__label__slk Dokončím to do hodiny.
+__label__slk Tom veľa rozpráva o svojej bývalej priateľke.
+__label__slk Je vám jedno, čo sa stalo?
+__label__slk Potrebujem ho.
+__label__slk Musí ísť.
+__label__slk Budúci mesiac budem mať šestnásť.
+__label__slk Táto budova bola určená k demolácii.
+__label__slk Prečo je obloha modrá?
+__label__slk Znamená to, že ju kúpiš?
+__label__slk Dobre. Čo mám zaspievať?
+__label__slk Ani neviem, čo to znamená.
+__label__slk Zriedka chodím do knižnice.
+__label__slk Sú nejaké otázky?
+__label__slk Neboli si istí svojimi odpoveďami.
+__label__slk Poznáte odpoveď?
+__label__slk Ten kvet je pre ňu veľmi dôležitý.
+__label__slk Určite ti to nemôžeme vyčítať.
+__label__slk V pondelok nepracujem.
+__label__slk Tom celý čas mlčal.
+__label__slk Videl si ho v parku?
+__label__slk Čo vám povedala?
+__label__slk Prosím, neotvárajte okno.
+__label__slk Choď do kelu.
+__label__slk Ako sa hláskuje jej meno?
+__label__slk Ničoho sa nechytajte.
+__label__slk Kto ťa udrel?
+__label__slk Nehovorím francúzsky.
+__label__slk „Koľko si doniesol?“ „Dosť pre všetkých.“
+__label__slk Sú na pláži.
+__label__slk Vy dvaja ste rozkošní.
+__label__slk Deti sa naháňajú na dvore.
+__label__slk Prosím, nepribližuj sa k sporáku.
+__label__slk Udri Toma.
+__label__slk Je to ťažké ako olovo.
+__label__slk Sýty hladnému neverí.
+__label__slk Máte milenca?
+__label__slk Predstavil rodine svoju snúbenicu.
+__label__slk Dobre ovláda francúzštinu.
+__label__slk Vôbec to nebolo také skvelé.
+__label__slk Neide nám teplá voda.
+__label__slk Už sa sem nikdy nevracajte!
+__label__slk Idem do toho!
+__label__slk Jamal by pre ňu zomrel.
+__label__slk Aký je dnes dátum?
+__label__slk Čítala si to pozorne?
+__label__slk Chcem to zoradiť podľa abecedy.
+__label__slk Rozhodla sa presťahovať do Belgicka.
+__label__slk Odišla so svojimi priateľmi.
+__label__slk Nie som si istý, či vám verím.
+__label__slk Pokračujte v tom!
+__label__slk Začali s jednoduchými vetami.
+__label__slk Nehovorím fínsky.
+__label__slk Ukázali mi veľa pekných fotografií.
+__label__slk Kto pije pivo?
+__label__slk O chvíľu to skončí.
+__label__slk Chcem sa stať učiteľkou.
+__label__slk Robím, čo môžem.
+__label__slk Pýtaj sa!
+__label__slk Deti sa hrajú na policajtov.
+__label__slk Akej farby je obloha?
+__label__slk Na tom ani nezáleží.
+__label__slk Koľko dlžíš Tomovi?
+__label__slk Rezervácie sú nutné.
+__label__slk Vidím ľad.
+__label__slk Počas vojny boli ceny prísne regulované.
+__label__slk Nepokazte prekvapenie.
+__label__slk Myslíme, že príde.
+__label__slk Môj pes je rýchly.
+__label__slk Kde je najbližšia umelecká galéria?
+__label__slk Iba sa pýtam.
+__label__slk Spýtajte sa ho, kedy odlieta ďalšie lietadlo.
+__label__slk Už si si urobil všetky domáce úlohy?
+__label__slk Ako ste zbohatli?
+__label__slk Kurnik!
+__label__slk Koľko peňazí dlžíte Tomovi?
+__label__slk Našla ich Tomova dcéra.
+__label__slk Chcem sa stať učiteľom.
+__label__slk Jej odpoveď je správna.
+__label__slk Dali ste jej odpoveď?
+__label__slk Mami, idem do školy. Maj sa!
+__label__slk To je dievča, ktoré poznám dobre.
+__label__slk Skočme do vody.
+__label__slk Dnes je sviatok?
+__label__slk Nemusíte sa ospravedlňovať.
+__label__slk Kedy prídeš?
+__label__slk Vrátim sa o pol hodiny.
+__label__slk Dobrá otázka.
+__label__slk Byť či nebyť?
+__label__slk Moje meno je Ľudovít.
+__label__slk Prosím, nechajte ma na chvíľu na pokoji.
+__label__slk Dobre, kto ste?
+__label__slk Vymažte niekto, prosím, túto vetu.
+__label__slk Nehovorím rusky.
+__label__slk Urobia to.
+__label__slk Umývadlo je špinavé.
+__label__slk Bav sa!
+__label__slk Nikto sa nepýtal.
+__label__slk Mám zlomený členok.
+__label__slk Tom je muž.
+__label__slk Slnko je hviezda.
+__label__slk Čo si myslíš o tejto knihe?
+__label__slk Ďakujem!
+__label__slk Tom sa nebál Mary.
+__label__slk Ja viem, že Tom vedel, prečo by to mal urobiť.
+__label__slk Šli sme sa poprechádzať na pláži.
+__label__slk Obed je hotový.
+__label__slk Som proti vojne.
+__label__slk Koľko dlžíte Tomovi?
+__label__slk Vieme, že si to bol ty, kto rozbil okno.
+__label__slk Hrad je na druhom brehu rieky.
+__label__slk Môžeme sa spoliehať iba sami na seba.
+__label__slk Komáre zmizli.
+__label__slk O ôsmej som zjedla raňajky.
+__label__slk Nehovorím švédsky.
+__label__slk Zamrzol mi počítač.
+__label__slk Každý hľadá šťastie.
+__label__slk Hneď prídem.
+__label__slk Nie je dokonalá.
+__label__slk Nepoznám ťa veľmi dobre.
+__label__slk Tom a Mary ešte nie sú dosť starí na to, aby sa vzali.
+__label__slk Tom pozerá film.
+__label__slk Dáte si ešte piva?
+__label__slk To je tá kniha, o ktorej som ti hovoril.
+__label__slk Tom je zubár.
+__label__slk Na čom ste sa dohodli?
+__label__slk Oboch ich poznám.
+__label__slk Spadol do studne.
+__label__slk Necítim to.
+__label__slk Niekto sa vyhrážal, že zabije toho politika.
+__label__slk Chcel som sa ľuďom páčiť.
+__label__slk Nie som veľmi unavený.
+__label__slk Čosi padá zo strechy.
+__label__slk Správate sa k sebe ako cudzinci.
+__label__slk Byť či nebyť, to je otázka.
+__label__slk Myslela som, že neznášaš Halloween.
+__label__slk Bude to úžasné.
+__label__slk Nezradím ťa.
+__label__slk Christian je najznámejší z týchto troch.
+__label__slk Dúfam, že sa nič zlé nestalo.
+__label__slk Vieš rozoznať ovcu od kozy?
+__label__slk Zacítil som dym.
+__label__slk Zabrzdi.
+__label__slk Motýľ!
+__label__slk Moja priateľka je odo mňa o tri roky mladšia.
+__label__slk To je všetko!
+__label__slk Nie je perfektná.
+__label__slk Tom nebude čakať Máriu.
+__label__slk To je hrad, ktorý sme navštívili minulý týždeň.
+__label__slk Poď, nech ťa učešem.
+__label__slk Málokedy sa mi ozve.
+__label__slk Chcem Vás vidieť zajtra.
+__label__slk Tom sa stále ospravedlňoval.
+__label__slk Záleží na tom?
+__label__slk Na Zemi je sedem kontinentov.
+__label__slk Maj sa!
+__label__slk Viem, ako na to.
+__label__slk Čo tak sa prejsť po pláži?
+__label__slk Prečo pes hrabe?
+__label__slk Kam pôjdeš?
+__label__slk Zajtra budem zaneprázdnený.
+__label__slk Niekto sa ma dotkol.
+__label__slk Ber si príklad zo svojej sestry.
+__label__slk Mám rád mandle.
+__label__slk V pondelok je sviatok.
+__label__slk Príroda je prekrásna.
+__label__slk Pošlite mi to.
+__label__slk Je čas ísť.
+__label__slk Čo si myslíte o tejto knihe?
+__label__slk Ešte som si na to nezvykla.
+__label__slk Nedávaj mi to!
+__label__slk Tom jej znova zavolal.
+__label__slk Tom mohol ochorieť.
+__label__slk Využiješ to alebo to mám vyhodiť?
+__label__slk Kde je ryba?
+__label__slk Dnes večer sa osprchujem.
+__label__slk Nie som perfektný.
+__label__slk Odpustil som Tomovi.
+__label__slk Budeš dnes naobed doma?
+__label__slk „Bol si včera doma?“ „Nie.“
+__label__slk Použi svoj mozog.
+__label__slk Myslím, že som v poriadku.
+__label__slk Zem je guľatá.
+__label__slk Má rada kávu.
+__label__slk Je mi jedno, či príde alebo nie.
+__label__slk „Chcem domov.“ „Ja tiež.“
+__label__slk Som presvedčený o jeho nevine.
+__label__slk Vrhol na mňa zúrivý pohľad.
+__label__slk Môžete sa vrátiť domov.
+__label__slk Nikto ma to nenaučil.
+__label__slk Koľko pomarančov si kúpil?
+__label__slk Ten film má štyri nominácie na Oscara.
+__label__slk Zajtra môžete urobiť viac.
+__label__slk Nie je to časť oficálneho plánu.
+__label__slk Prečo je tráva zelená?
+__label__slk Cítil som, že sa mi trasú ruky a prudko bije srdce.
+__label__slk Ale no tak.
+__label__slk Sme spojení večným putom.
+__label__slk Stretla som ich len trikrát.
+__label__slk Moje srdce je zlomené.
+__label__slk Toto je mandľa.
+__label__slk O to nejde.
+__label__slk Ničoho sa nedotýkaj.
+__label__slk Nákup slov nestojí peniaze.
+__label__slk Je odo mňa o päť rokov mladšia.
+__label__slk Môžeš sa vrátiť domov.
+__label__slk Nemám CD prehrávač, ale aj tak som kúpila CDčko.
+__label__slk Stmieva sa.
+__label__slk Ako dlho žije korytnačka?
+__label__slk Chceš sladkosti?
+__label__slk Každý vek má svoje povinnosti.
+__label__slk Nikdy som si nemyslela, že sa to stane.
+__label__slk Musíme Toma nájsť predtým, ako ho nájde Mária.
+__label__slk Čo to presne znamená?
+__label__slk Odpovedal na otázku.
+__label__slk Choď do piči.
+__label__slk Dnes je nedeľa?
+__label__slk Využila moju nevedomosť.
+__label__slk Koľko pomarančov ste kúpili?
+__label__slk Priemerná teplota sa zvýšila.
+__label__slk Vieš odpoveď?
+__label__slk Chcela by som sa stať kresťankou.
+__label__slk Hej, počúvaj ma!
+__label__slk Je takmer pol tretej.
+__label__slk Ešte som si na to nezvykol.
+__label__slk Je to kôň.
+__label__slk Ako sa píše toto slovo?
+__label__slk Vidím sa.
+__label__slk V mladosti si mnoho vytrpel.
+__label__slk Včera som bol v Tokiu.
+__label__slk Tom stratil môj rešpekt, keď dal výpoveď.
+__label__slk Nečakám nikoho.
+__label__slk Žirafy majú hrubú kožu.
+__label__slk Ryba je čerstvá.
+__label__slk Volám sa Quy
+__label__slk Boh je slon.
+__label__slk Tom nešiel k lekárovi.
+__label__slk Videla si ho v parku?
+__label__slk Sťažoval sa, že polievka je príliš horúca.
+__label__slk Auto bolo opustené.
+__label__slk Býva Marika ešte stále s rodičmi?
+__label__slk Je piatok?
+__label__slk Chcel som byť s tebou.
+__label__slk Mama, ľúbim ťa!
+__label__slk Aká je zima!
+__label__slk Mám svalovku.
+__label__slk Nepokaz prekvapenie.
+__label__slk Potrebujem múku.
+__label__slk Trvá to príliš dlho.
+__label__slk Kto bol na večierku okrem Jacka a Márie?
+__label__slk To mi ide najlepšie.
+__label__slk Hrozná tragédia 😢.
+__label__slk Idem priamo do kuchyne.
+__label__slk Vysvetlím vám to.
+__label__slk Tom včera veľa pil.
+__label__slk Po výhre v lotérii sa vybrala na nákupy.
+__label__slk Možno to zasa nie je až taký dobrý nápad.
+__label__slk Zmeň cieľ.
+__label__slk Čo môžeš urobiť dnes, neodkladaj na zajtra.
+__label__slk Sami požiadal o rozvod.
+__label__slk Nie som si istá, či ti verím.
+__label__slk Poľsko sa nachádza v strednej Európe a zdieľa hranice s Nemeckom na západe, Českou republikou a Slovenskom na juhu a Ukrajinou, Bieloruskom, Litvou a kúskom Ruska na východe.
+__label__slk Nikdy som ho nevidel.
+__label__slk Nehovorím po nemecky.
+__label__slk To nebol dôvod.
+__label__slk Mám bicykel.
+__label__slk Pes stále brechal.
+__label__slk Bolí ma brucho.
+__label__slk Ešte stále nie som prezlečená.
+__label__slk Tom je momentálne v Austrálii.
+__label__slk Ospravedlnili sme sa.
+__label__slk Zoo je otvorená.
+__label__slk Nehovorím po čínsky.
+__label__slk Nemá meno.
+__label__slk Pizza je tu.
+__label__slk Včera večer som sledoval televíziu.
+__label__slk Prišla hodinu po stanovenom čase.
+__label__slk Dlho sme sa nevideli, Bill.
+__label__slk Dnes večer ideme do divadla.
+__label__slk Prezúvame sa.
+__label__slk Povedal ti Tom, kto to bol?
+__label__slk Tom všetkých pozval.
+__label__slk Ak budem mať čas, prídem.
+__label__slk Bývaj s nami.
+__label__slk Už mám toho plné zuby.
+__label__slk Objal ju.
+__label__slk Skrýval svoje emócie a predstieral nadšenie.
+__label__slk Spánok je dôležitý.
+__label__slk Tom plakal.
+__label__slk Naozaj chápem, čo máš na mysli.
+__label__slk Toto ma nezastaví.
+__label__slk Už o tom nechcem počuť ani slovo.
+__label__slk Nenastupuj do auta k cudzincom.
+__label__slk To dievča mi behá po rozume.
+__label__slk Nehovorím poľsky.
+__label__slk Máš nejaké otázky?
+__label__slk Dali Tomovi kúsok torty.
+__label__slk Ešte tu nie sú.
+__label__slk Aké rýchle je to lietadlo!
+__label__slk Nechceme vás tu.
+__label__slk Treba dokúpiť toner do tlačiarne.
+__label__slk Nepúšťaj moju ruku, lebo sa stratíš.
+__label__slk Vrátil si sa.
+__label__slk Dva a dva sú štyri.
+__label__slk Hovoríš po slovensky?
+__label__slk Tebe sa to ľahko hovorí.
+__label__slk Stretol som ich iba tri razy.
+__label__slk Ničoho sa nedotýkajte.
+__label__slk Deti sa hrajú v parku.
+__label__slk Povedal mi, aby som poňho prišla o tretej.
+__label__slk Bush verí v Boha.
+__label__slk Pohni si!
+__label__slk Veverička mu jedla z ruky.
+__label__slk Akej farby je auto?
+__label__slk Horúčava zabíja ľudí.
+__label__slk „Aký je dnes deň?“ „Štvrtok.“
+__label__slk Krym je poloostrov.
+__label__slk Sú Taliani?
+__label__slk Treba pozametať podlahu.
+__label__slk Si Rus?
+__label__slk Si neuveriteľne krásna.
+__label__slk Vyhodil som ju.
+__label__slk Môžeš ich tam odviezť?
+__label__slk Povedal vám Tom, kto to bol?
+__label__slk Rád spím.
+__label__slk Tom bol príliš hrdý priznať, že Mária mala pravdu a on sa mýlil.
+__label__slk Tom pozná Máriu.
+__label__slk Nezabudnite!
+__label__slk Som presvedčená o jeho nevine.
+__label__slk Dnes je piatok?
+__label__slk Ja som Quy
+__label__slk Uvidíme sa neskôr, dobre?
+__label__slk Niečo sa páli.
+__label__slk Čo si o nej myslíte?
+__label__slk Som Tom.
+__label__slk Nebuď hanblivá.
+__label__slk Mali by sme si pohnúť.
+__label__slk No tak, povedz nám to!
+__label__slk Vieš mi povedať, čo to je?
+__label__slk Kde bol Tom včera večer?
+__label__slk Si ku mne príliš láskavý.
+__label__slk Čo je lepšie?
+__label__slk Nie ste na to trochu mladí?
+__label__slk V pondelok mám voľno.
+__label__slk Si dobrá matka.
+__label__slk V podstate máš pravdu.
+__label__slk Si na to príliš mladý.
+__label__slk To je to, čomu ľudia nerozumejú.
+__label__slk Z čoho ma obviňuješ?
+__label__slk Kde sú ryby?
+__label__slk Kto čakal?
+__label__slk Čo od neho chcete?
+__label__slk Nebude to možné.
+__label__slk Prosím, neotváraj okno.
+__label__slk Veľa o tom neviem.
+__label__slk Je tam príliš veľa nezrovnalostí.
+__label__slk Si dobrá kuchárka.
+__label__slk Si pripravený pohovoriť si o tom?
+__label__slk Dnes je sobota?
+__label__slk Práve som sa okúpala.
+__label__slk Nie ste smutní?
+__label__slk Koľko pomarančov si kúpila?
+__label__slk Kolu, prosím.
+__label__slk Nehovorím španielsky.
+__label__slk Musia ísť.
+__label__slk Pýtajte sa!
+__label__slk Prosím, nepribližujte sa k sporáku.
+__label__slk Je to skôr známa ako priateľka.
+__label__slk Máme ovocie.
+__label__slk Babka k babce budú kapce.
+__label__slk Učený z neba ešte nikto nespadol, ale sprostých ako keby zhadzovali.
+__label__slk Veľmi ma to zaujíma.
+__label__slk Povedz Tomovi, ako si zistil, že to urobil.
+__label__slk Fajčenie je tu prísne zakázané.
+__label__slk Mám pocit, že to skončí zle.
+__label__slk Je začiatočník, ale učí sa rýchlo.
+__label__slk Potrebujem niekoho.
+__label__slk Tom pozval Mary do Bostonu.
+__label__slk Prečo psy kopú?
+__label__slk Tom mal inú predstavu.
+__label__slk Nechceš ju vidieť?
+__label__slk Nemám rada knihy s viac než päťsto stranami.
+__label__slk Prehrali sme o dva body.
+__label__slk Pravdepodobne nič.
+__label__slk Len sa pýtam.
+__label__slk Myslím, že sa táto kniha bude páčiť tvojim sestrám.
+__label__slk Nezabudni mu zavolať.
+__label__slk Viem, kde býva.
+__label__slk Mám ti niečo kúpiť z obchodu?
+__label__slk Zamkli ste auto?
+__label__slk Vedel som, že vyhráme.
+__label__slk Zmenil si heslo?
+__label__slk Nehovorím po francúzsky.
+__label__slk Tom pôjde budúci rok do dôchodku.
+__label__slk Prečo ste sami? Kde je vaša mama?
+__label__slk Spustiť stopára.
+__label__slk Tom má veľké brucho.
+__label__slk Idem do Bostonu.
+__label__slk Čítal som vašu správu.
+__label__slk Pomôž mi to rozobrať.
+__label__slk To môže mať smrteľné následky.
+__label__slk Som najlepšia!
+__label__slk Viete rozoznať ovcu od kozy?
+__label__slk Iný kraj, iný mrav.
+__label__slk Obujte sa.
+__label__slk Kedy ich môžeme vidieť?
+__label__slk Vyzdvihnite ho!
+__label__slk Ste pripravení?
+__label__slk Musíme nájsť Toma skôr než Mária.
+__label__slk Mám plnú hlavu starostí.
+__label__slk Dáš mi uterák?
+__label__slk Potrebujem oveľa viac.
+__label__slk Tom pije veľa mlieka.
+__label__slk Ešte som na to neprivykol.
+__label__slk V mladosti si prešiel mnohými útrapami.
+__label__slk Povedal mi, aby som nefajčil.
+__label__slk Čo horí?
+__label__slk Poviem ti pravdu.
+__label__slk Náš pes hryzie len zriedka.
+__label__slk Výpis z registra trestov.
+__label__slk Dovidenia.
+__label__slk Tom potreboval odísť skôr.
+__label__slk Zohrej to.
+__label__slk Vstáva o siedmej.
+__label__slk To je pohodlné kreslo.
+__label__slk To je moja vec.
+__label__slk Si jej pasák?
+__label__slk Mám rada mandle.
+__label__slk Zatiaľ všetko prebiehalo dobre.
+__label__slk Čo je Boh?
+__label__slk Hovoríš po poľsky?
+__label__slk To by bolo skvelé.
+__label__slk Zlomila mi srdce.
+__label__slk To, že zjedol pizzu, nahnevalo jeho sestru.
+__label__slk Vyčisti umývadlo.
+__label__slk Získal veľký majetok.
+__label__slk V Japonsku nikdy nemusíte chodiť ďaleko, aby ste našli obchod so zmiešaným tovarom.
+__label__slk Musíš ísť?
+__label__slk Teraz je potrebný zázrak, aby nás zachránil.
+__label__slk Trávite viac času doma alebo v práci?
+__label__slk Vždy sa ráno kúpem.
+__label__slk Nebuďte na ňu príliš tvrdí.
+__label__slk Vitaj späť!
+__label__slk Myslel som, že zostanem trocha dlhšie.
+__label__slk Si liberál?
+__label__slk Musím počkať, kým sa rozmrazí mäso.
+__label__slk Včera som bola v Tokiu.
+__label__slk Piješ kávu?
+__label__slk Najprv práca, potom pláca.
+__label__slk Obávam sa, že na to ešte nedozrel čas.
+__label__slk Večera je hotová.
+__label__slk Nič som s tým nemohol urobiť.
+__label__slk Piješ čaj?
+__label__slk Dúfam, že si sa v Bostone bavil.
+__label__slk Kde si bol včera večer?
+__label__slk Iba som s ním chcela hovoriť.
+__label__slk Dám si sprchu a prídem.
+__label__slk Možno je čas na zmenu.
+__label__slk „Bol si doma?“ „Nie, nebol.“
+__label__slk Páni!
+__label__slk Je vydatá za cudzinca.
+__label__slk Ako bolo dnes v práci?
+__label__slk Nakreslila jeho obrázok.
+__label__slk Nie, nemám rád mačky.
+__label__slk Mám dobré oči.
+__label__slk Je to lepšie.
+__label__slk Udrela ho.
+__label__slk Ak to môže urobiť Tom, môžeš aj ty.
+__label__slk Tomovi chýba zmysel pre humor.
+__label__slk Zohrej mlieko.
+__label__slk Dáš si ešte piva?
+__label__slk Viete odpoveď?
+__label__slk Tento program nie je možné spustiť v režime DOS.
+__label__slk To je jeho problém.
+__label__slk Tichá noc, sväta noc, všetko spí ...
+__label__slk Neviem, odkiaľ sa to vzalo.
+__label__slk Mesiac bola v nemocnici.
+__label__slk Motýle sú hmyz.
+__label__slk Nie som si istá, či vám verím.
+__label__slk Pomôžte mi to rozobrať.
+__label__slk Ako si zbohatla?
+__label__slk Kde sú moje noviny?
+__label__slk Nehovorím po fínsky.
+__label__slk Hanba!
+__label__slk Zas si to urobil.
+__label__slk Sníval sa mi divný sen.
+__label__slk Nesranduj!
+__label__slk Kde je východ?
+__label__slk Zdáš sa byť trocha dezorientovaný.
+__label__slk Som otec.
+__label__slk Chcem byť pilotom, keď vyrastiem.
+__label__slk Vidím dom.
+__label__slk Viem, čo ma robí šťastnou.
+__label__slk Neviem, či sa to bude dať urobiť.
+__label__slk Starý rok treba zapiť !
+__label__slk Viem, že Tom to robí aspoň raz denne.
+__label__slk Naspäť cesta nemožná, napred sa ísť musí.
+__label__slk Nie, to nie je pravda.
+__label__slk Je obchod zatvorený?
+__label__slk Čo ti povedala?
+__label__slk Chcem ťa len počuť o tom rozprávať.
+__label__slk No tak.
+__label__slk Situácia je takáto.
+__label__slk Tiež som si to všimla.
+__label__slk Na počiatku bolo slovo
+__label__slk Úprimne dúfam v jeho šťastie.
+__label__slk Málokedy chodím do knižnice.
+__label__slk Je to veľmi nebezpečné.
+__label__slk Čítali ste to pozorne?
+__label__slk Prisahám, nebol som to ja!
+__label__slk Chcela by som, ale nemôžem!
+__label__slk Študujem.
+__label__slk Obťažoval ma plač dieťaťa.
+__label__slk Ako zomrel tvoj prvý manžel?
+__label__slk Čítaš nesprávne knihy.
+__label__slk Neviem, čo by som si bez teba počal.
+__label__slk Tom o tom napísal knihu.
+__label__slk Možno sa mu niečo stalo.
+__label__slk Hnevá ťa to?
+__label__slk Kto sa sám neopúšťa, nebýva opustený.
+__label__slk Všetky dobré veci prichádzajú v troch.
+__label__slk Zajtra je pondelok.
+__label__slk Verte tomu alebo nie.
+__label__slk Bolí ma čeľusť.
+__label__slk Privítala ma širokým úsmevom.
+__label__slk Je dosť teplo.
+__label__slk Nemusíš sa ospravedlňovať.
+__label__slk Po večeri umyjem riad.
+__label__slk Raz chcem ísť do Afriky.
+__label__slk Nehovorím po taliansky.
+__label__slk Prečo na tom vôbec záleží?
+__label__slk Som späť!
+__label__slk Tom by tu mal byť.
+__label__slk Využívanie elektrickej energie zmenilo svet.
+__label__slk Chcem, aby si tu zostal, kým sa nevrátim.
+__label__slk Ľudia majú radi slobodu.
+__label__slk Účel sväti prostriedky.
+__label__slk Moje meno je Saša.
+__label__slk Dali ste mu odpoveď?
+__label__slk Radšej nie.
+__label__slk Knižnica je otvorená.
+__label__slk Čo sú to za spôsoby?
+__label__slk Toto je obchod, kde som pracoval.
+__label__slk Nevšimol som si to.
+__label__slk Som stále tu.
+__label__slk Oni vedia, že im veríme.
+__label__slk Nič sa nedá robiť.
+__label__slk Prepustil som ju.
+__label__slk Sama pripravila večeru.
+__label__slk Okamžite musíme ísť do nemocnice.
+__label__slk Z ktorej kapitoly je tento verš?
+__label__slk Prestaň ma udierať!
+__label__slk Vie o tom ešte niekto?
+__label__slk Vonku je ešte stále teplo.
+__label__slk Číslo je obsadené.
+__label__slk Nehovorím po španielsky.
+__label__slk Nie je to perfektné.
+__label__slk Nikdy predtým som to nevidel.
+__label__slk V pondelok pracujem.
+__label__slk Svoj sľub dodržím.
+__label__slk Prezujte sa.
+__label__slk Odmietate moju ponuku?
+__label__slk Hádaj, čo povedal Tom.
+__label__slk Udri ma.
+__label__slk Zlomil som si členok.
+__label__slk Ktorý je Váš pes?
+__label__slk Ešte raz, prosím.
+__label__slk Viem, kde žije.
+__label__slk Naozaj ste to videli?
+__label__slk Ona je pripravená.
+__label__slk Stretol som ich len trikrát.
+__label__slk Bolia ma svaly.
+__label__slk Doktor povedal, že tie bolesti spôsobujú obličkové kamene.
+__label__slk Musíš stále dodržať slovo.
+__label__slk Toto je riešenie.
+__label__slk Nechcem stratiť svojho priateľa.
+__label__slk Strč prst skrz krk!
+__label__slk Urobil si to znova.
+__label__slk Všetkým ste nám chýbali.
+__label__slk Mohlo by to fungovať.
+__label__slk Toto je moja špeciálna omáčka.
+__label__slk Musím ešte odniesť poštu.
+__label__slk Moc som toho nepočul.
+__label__slk Nepoužívame to.
+__label__slk Tom jej opäť zavolal.
+__label__slk Neviem, odkiaľ sa vzal.
+__label__slk Kto udrel Toma?
+__label__slk Čaute!
+__label__slk Skús toto.
+__label__slk Ty si tá, ktorú chcem.
+__label__slk Som študentka.
+__label__slk Máš radšej čaj alebo kávu?
+__label__slk Poznáme ho.
+__label__slk Svoje mám stále.
+__label__slk Ničoho sa nechytaj.
+__label__slk Zostaňte pozitívne naladení.
+__label__slk Nikdy sa nepýtaš.
+__label__slk V nedeľu nepracujem.
+__label__slk Mám bielu mačku.
+__label__slk Tom a Mary povedali Johnovi, že je im to ľúto.
+__label__slk „Bola si doma?“ „Nie, nebola.“
+__label__slk Ste dobrá kuchárka.
+__label__slk Krava odišla.
+__label__slk Berte si príklad zo svojej sestry.
+__label__slk Viem, čo urobil.
+__label__slk Hluchonemí ľudia sa rozprávajú posunkovou rečou.
+__label__slk Potrebuješ veľa peňazí?
+__label__slk Neočakávajte odo mňa príliš veľa.
+__label__slk Trpezlivosť je cnosť.
+__label__slk Privítala ma veľkým úsmevom.
+__label__slk Myslím si, že som v minulom živote bola princezná.
+__label__slk Dayxa je moja švagriná.
+__label__slk Never nikomu!
+__label__slk Boris rýchlo otvoril svoj počítač.
+__label__slk Všetkých vyhodil.
+__label__slk Nebojte sa povedať, čo si myslíte.
+__label__slk Hľadáme šťastie.
+__label__slk Nič nie je nemožné.
+__label__slk Layla je moja švagriná.
+__label__slk Pravda víťazí.
+__label__slk Do videnia!
+__label__slk Vezmite si ho!
+__label__slk Zlá burina nevyhynie.
+__label__slk Mysli pozitívne.
+__label__slk Musíš prísť v správnom čase.
+__label__slk Tom mal zážitok blízky smrti.
+__label__slk Myslím, že by si mal Tomovi zavolať.
+__label__slk Zostaň so mnou v kontakte.
+__label__slk Toma bolelo brucho a išiel do postele skoro.
+__label__slk Myslím, že som práve niečo počul.
+__label__slk Veverička jej jedla z ruky.
+__label__slk Máte slovo.
+__label__slk Chcem sa naučiť korčuľovať.
+__label__slk Ten film má vyše troch hodín.
+__label__slk Poznáš odpoveď?
+__label__slk Nehovorím po maďarsky.
+__label__slk Nepočkáš?
+__label__slk Dobre, ahoj.
+__label__slk Boston je pekné mesto.
+__label__slk Čítal si to pozorne?
+__label__slk Tom s tým stále bojuje.
+__label__slk Nemám rád knihy s viac než päťsto stranami.
+__label__slk Sentence #10814709 — belongs to aldar
+__label__slk Je do nej zaľúbený.
+__label__slk Tento film sa mi naozaj páčil!
+__label__slk Vďaka vám sa cítim omnoho lepšie.
+__label__slk Je príliš neskoro.
+__label__slk Vďaka tebe sa cítim omnoho lepšie.
+__label__slk Zase je tu.
+__label__slk Obidve poznám.
+__label__slk Ešte nie sú doma.
+__label__slk Potápame sa?
+__label__slk Všetkým si nám chýbal.
+__label__slk Mám mnoho kanadských priateľov.
+__label__slk Ste zamilovaní.
+__label__slk Napíšte si svoje ciele.
+__label__slk Veľa som toho nepočul.
+__label__slk Kiež by sa to nikdy nestalo.
+__label__slk Chcel by som lístok.
+__label__slk Nehovorím po poľsky.
+__label__slk Boli šokovaní, keď zistili, že Tom bol zabitý.
+__label__slk Mal som divný sen.
+__label__slk Jednoznačne niečo skrýval a to ma trápilo.
+__label__slk Si Ruska?
+__label__slk Ukradol mi topánky.
+__label__slk Škoda každého života, ktorý takto náhle skončí. Úprimnú sústrasť rodinám a veľa sily zvládnuť situáciu ktorá nastala.
+__label__slk Myslíš, že som hlúpy?
+__label__slk Viem o tom všetko.
+__label__slk Vysvetlím ti to.
+__label__slk Prečo je nebo modré?
+__label__slk Nie som si istý, či ti verím.
+__label__slk Zdravím. Moje meno je Sergej.
+__label__slk Venuša je planéta.
+__label__slk Nevedela som, že je zo Slovenska.
+__label__slk Nikto iný to nevie.
+__label__slk Potrebujeme plán.
+__label__slk Mary mi povedala, že hovorí po francúzsky.
+__label__slk Ani ste tam neboli.
+__label__slk V noci je tu ticho.
+__label__slk Poznám ich obe.
+__label__slk Hovorí viacerými jazykmi.
+__label__slk Kde kopú?
+__label__slk Nemôžem vystáť jeho komentáre.
+__label__slk Dobré ráno!
+__label__slk Je to nádherný kvet.
+__label__slk To je muž, ktorého poznám dobre.
+__label__slk Do toho!
+__label__slk Opýtali sa ho.
+__label__slk Pokračuj, Tom.
+__label__slk Nie je to pravda.
+__label__slk Umývam okná.
+__label__slk Je tam kopa nových mailov.
+__label__slk Tie slzy sú umelé.
+__label__slk Ja som Mária.
+__label__slk Hral som sa tu.
+__label__slk Akej farby je slnko?
+__label__slk Tom s Vladimírom sa potrebujú.
+__label__slk Mal by som ísť?
+__label__slk Myslí si, že jeho práca je zbytočná.
+__label__slk Môžem Vás naučiť variť.
+__label__slk Tom s tebou okamžite potrebuje hovoriť.
+__label__slk To je kôň.
+__label__slk Presvedčil som Toma, že by mal ísť do Bostonu s Mary.
+__label__slk Kto odstúpil?
+__label__slk Pozval som susedov.
+__label__slk Tom spadol z trampolíny.
+__label__slk Vyzliekla sa.
+__label__slk Hneď som späť!
+__label__slk Zdalo sa, že mu nie je dobre.
+__label__slk Som z lekárskej rodiny.
+__label__slk Buď spokojný.
+__label__slk Myslíš, že žartujem?
+__label__slk Ako vyslovujete svoje meno?
+__label__slk Prečo je život taký ťažký?
+__label__slk Úprimnú sústrasť 🖤🖤🖤
+__label__slk Toto je dedina, v ktorej som prežila svoje detstvo.
+__label__slk Článok o našej škole sa objavil v novinách.
+__label__slk Ešte som na to neprivykla.
+__label__slk Sme na dovolenke.
+__label__slk To je tá najnapínavejšia časť filmu.
+__label__slk Topiaci sa slamky chytá.
+__label__slk Počkaj, neodchádzaj.
+__label__slk To sa nepodarilo.
+__label__slk Myslím, že to je všetko, čo potrebujem.
+__label__slk Každý má svoj vlastný názor.
+__label__slk Poďme radšej domov.
+__label__slk Videl som, čo Tom dokáže.
+__label__slk Tom je na dovolenke.
+__label__slk Nakŕmil si psa?
+__label__slk Aké je hlavné mesto Slovenska?
+__label__slk choroba.
+__label__slk Neide mi to skopírovať.
+__label__slk Nehovorím taliansky.
+__label__slk Tom sa pošmykol na banánovej šupke.
+__label__slk Buďte nemilosrdní.
+__label__slk Veľmi si cením tvoje priateľstvo.
+__label__slk Ochladzuje sa.
+__label__slk Ak by si bol na mojom mieste, čo by si robil?
+__label__slk Jupiter je planéta.
+__label__slk Tom zavolá.
+__label__slk Moje meno je Andrea.
+__label__slk Váš rukopis je veľmi ťažko čitateľný.
+__label__slk pomlčka
+__label__slk Hanbíme sa.
+__label__slk Mám o to veľký záujem.
+__label__slk Prečo si vegetarián?
+__label__slk Jørgen sa učí gréčtinu.
+__label__slk Už tu nikto nie je.
+__label__slk Nemôžem uveriť, že zas odišiel.
+__label__slk Pijem priveľa kávy.
+__label__slk Nikdy som si nemyslel, že sa to stane.
+__label__slk Zabudla som jeho adresu.
+__label__slk Druhí policajti začali strieľať do davu.
+__label__slk Odchádzam bez neho.
+__label__slk Neviem ani písať, ani čítať.
+__label__slk Nevykladaj si na mňa nohy!
+__label__slk Ako dlho by trvalo naučiť sa po francúzsky dosť na to, aby som tu mohol pracovať?
+__label__slk Dala si dole oblečenie.
+__label__slk Kto si prdol?
+__label__slk Tom mi povedal, že sa chystá vyhrať.
+__label__slk Otázky?
+__label__slk Ako sa dostal dnu?
+__label__slk Kde je otec?
+__label__slk Poznáme sa dva dni.
+__label__slk Mária je zubárka.
+__label__slk Začneme?
+__label__slk Nemám rád talianske jedlo.
+__label__slk Nehovorím albánsky.
+__label__slk Tom to musí urobiť teraz.
+__label__slk Nemám veľmi rada syr.
+__label__slk Kedy tu môžem plávať?
+__label__slk Hlasoval som za zotrvanie.
+__label__slk Nemyslel som to tak.
+__label__slk Niečo horí.
+__label__slk Nie je perfektný.
+__label__slk Bola som v posteli s chrípkou.
+__label__slk Nenašli bombu.
+__label__slk Ste dobrý kuchár.
+__label__slk Kto sa sťažuje?
+__label__slk Myslím, že Tom to pravdepodobne urobí neskôr.
+__label__slk Ľudia, je všetko v poriadku?
+__label__slk Tom je teraz na dovolenke.
+__label__slk Začni s jednoduchými vetami.
+__label__slk Máme zavolať políciu?
+__label__slk Darujem za odvoz
+__label__slk Do videnia, Sayoko.
+__label__slk Prichytil som ho pri čine.
