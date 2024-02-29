@@ -20,4 +20,13 @@
 * ~/tools/fastText-0.9.2/fasttext supervised -input all_train.txt -output model_ver2 -epoch 25
 * ~/tools/fastText-0.9.2/fasttext supervised -input all_train.txt -output model_ver3 -epoch 25 -lr 1.0
 * ~/tools/fastText-0.9.2/fasttext supervised -input all_train.txt -output model_ver6 -epoch 25 -lr 0.1 -wordNgrams 2
-* 
+
+## Agenda
+1. Manual training and prediction
+2. MLFlow + metrics + parameters. Data drift
+3. FastAPI for serving
+4. Gradio for demonstrators
+5. MLFlow for model storage
+6. MLFlow for model serving
+7. HuggingFace for model storage
+8. HuggingFace for model demonstration
