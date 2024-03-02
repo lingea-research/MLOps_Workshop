@@ -1,9 +1,11 @@
 from fastapi import FastAPI
 import uvicorn
 from pydantic import BaseModel
+import fasttext
 
 
 app = FastAPI()
+model = fasttext.load_model('models/normalized_model4.bin')
 
 
 class SourceText(BaseModel):
@@ -15,9 +17,13 @@ class DetectedLanguage(BaseModel):
     probability: float
 
 
-@app.get("/language-detection")
+@app.post("/language-detection")
 async def language_detection(source: SourceText) -> DetectedLanguage:
-    detected_language = DetectedLanguage()
+    prediction = model.predict(source.full_text)
+    detected_language = DetectedLanguage(
+        language=prediction[0][0].strip('__label__'),
+        probability=prediction[1][0]
+    )
     return detected_language
 
 

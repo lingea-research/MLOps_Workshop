@@ -27,9 +27,9 @@ def train_fasttext_model_classifier(model_num=1, epoch=None, lr=None, normalized
 
         mlflow.log_artifact(input)
 
-        mlflow.log_metric("lr", 0.1 if lr is None else lr)
-        mlflow.log_metric("epoch", 5 if epoch is None else epoch)
-        mlflow.log_metric("normalized", True if normalized_dataset else False)
+        mlflow.log_param("lr", 0.1 if lr is None else lr)
+        mlflow.log_param("epoch", 5 if epoch is None else epoch)
+        mlflow.log_param("normalized", True if normalized_dataset else False)
 
         start_time = time.time()
         if epoch is None and lr is None:

@@ -7,7 +7,7 @@ def extract_language():
     options.add_experimental_option("detach", True)
     driver = webdriver.Chrome(options=options)
 
-    language_codes = ['tur', 'eng', 'ces', 'slk', 'eng']
+    language_codes = ['tur', 'eng', 'ces', 'slk', 'hun']
     for lang in language_codes:
         with open(f"{lang}.txt", 'w', encoding="utf-8") as file:
             final_sentence_list = []
